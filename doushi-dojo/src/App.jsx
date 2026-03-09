@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Check, ArrowRight, RefreshCw, BookOpen, Trophy, AlertCircle, Sparkles, Globe, Loader2, Settings, Sliders, X, Filter, Search, Zap, Moon, Sun, Key, Volume2, XCircle, CheckCircle, Book, Eye, EyeOff } from 'lucide-react';
-import { getStaticData } from './data';
+
 const ROMAJI_TO_KANA = {
   'a':'あ','i':'い','u':'う','e':'え','o':'お',
   'ka':'か','ki':'き','ku':'く','ke':'け','ko':'こ',
@@ -90,7 +90,7 @@ const convertRomajiToKana = (text) => {
 
 const App = () => {
   // Load data
-  const { ALL_TENSES, ALL_VERBS, CUSTOM_LIBRARY, TENSE_GUIDE } = useMemo(() => getStaticData(), []);
+  const { ALL_TENSES, ALL_VERBS, CUSTOM_LIBRARY, TENSE_GUIDE, VERB_TRANSLATIONS } = useMemo(() => getStaticData(), []);
 
   // State
   const [exercises, setExercises] = useState([]); 
@@ -378,7 +378,14 @@ const App = () => {
             <div className={`inline-block px-4 py-1 rounded-full text-xs font-bold tracking-wide uppercase mb-3 ${isDarkMode ? 'bg-rose-900/30 text-rose-300' : 'bg-rose-100 text-rose-700'}`}>
               {currentExercise.tense}
             </div>
-            <h2 className={`text-3xl font-black mb-2 tracking-tight ${isDarkMode ? 'text-zinc-100' : 'text-zinc-900'}`}>{currentExercise.verb}</h2>
+            <h2 className={`text-3xl font-black mb-2 tracking-tight flex flex-col gap-1 ${isDarkMode ? 'text-zinc-100' : 'text-zinc-900'}`}>
+              <span>{currentExercise.verb}</span>
+              {VERB_TRANSLATIONS[currentExercise.verb] && (
+                <span className={`text-lg font-bold ${isDarkMode ? 'text-zinc-500' : 'text-stone-400'}`}>
+                  {VERB_TRANSLATIONS[currentExercise.verb]}
+                </span>
+              )}
+            </h2>
             
             <p className={`text-sm font-medium px-4 ${isDarkMode ? 'text-zinc-400' : 'text-stone-500'}`}>"{currentExercise.englishTranslation}"</p>
           </div>
@@ -780,13 +787,18 @@ const App = () => {
                   <button
                     key={verb}
                     onClick={() => toggleVerb(verb)}
-                    className={`px-4 py-2.5 rounded-xl text-sm font-semibold transition-all border ${
+                    className={`px-4 py-2.5 rounded-xl text-sm font-semibold transition-all border flex flex-col items-center gap-0.5 ${
                       selectedVerbs.includes(verb) 
                         ? (isDarkMode ? 'bg-rose-900/30 text-rose-300 border-rose-800/50 shadow-inner' : 'bg-rose-50 text-rose-700 border-rose-200 shadow-sm')
                         : (isDarkMode ? 'bg-zinc-800/50 text-zinc-400 border-transparent hover:bg-zinc-800' : 'bg-stone-50 text-stone-600 border-stone-200 hover:bg-stone-100')
                     }`}
                   >
-                    {verb}
+                    <span>{verb}</span>
+                    {VERB_TRANSLATIONS[verb] && (
+                        <span className={`text-[10px] font-bold uppercase tracking-widest ${selectedVerbs.includes(verb) ? (isDarkMode ? 'text-rose-400/70' : 'text-rose-500/70') : (isDarkMode ? 'text-zinc-500' : 'text-stone-400')}`}>
+                            {VERB_TRANSLATIONS[verb]}
+                        </span>
+                    )}
                   </button>
                 ))
             )}
@@ -901,4 +913,3 @@ const App = () => {
 };
 
 export default App;
-
