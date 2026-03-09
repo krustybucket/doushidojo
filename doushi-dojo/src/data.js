@@ -5,42 +5,103 @@ export function getStaticData() {
 
     // *** GUIDE CONTENT (JAPANESE FORMS) ***
     const TENSE_GUIDE = [
-        {
-            name: "Polite Present (Masu form)",
-            usage: "Used in formal situations to state habits, general truths, or future actions.",
-            structure: "Verb stem + ます (masu). For Ru-verbs: drop 'ru' add 'masu'. For U-verbs: change 'u' sound to 'i' sound + 'masu'.",
-            example: "食べる (taberu) -> 食べます (tabemasu) / 行く (iku) -> 行きます (ikimasu)",
-            exceptions: "する (suru) becomes します (shimasu). 来る (kuru) becomes 来ます (kimasu)."
-        },
-        {
-            name: "Polite Past (Mashita form)",
-            usage: "Used in formal situations to describe an action completed in the past.",
-            structure: "Verb stem + ました (mashita). Follows the same stem rules as the Masu form.",
-            example: "食べる (taberu) -> 食べました (tabemashita)",
-            exceptions: "する (suru) becomes しました (shimashita). 来る (kuru) becomes 来ました (kimashita)."
-        },
-        {
-            name: "Plain Negative (Nai form)",
-            usage: "Used in casual speech to state that an action will not happen.",
-            structure: "Ru-verbs: drop 'ru', add 'nai'. U-verbs: change 'u' sound to 'a' sound + 'nai'.",
-            example: "食べる (taberu) -> 食べない (tabenai) / 行く (iku) -> 行かない (ikanai)",
-            exceptions: "ある (aru) completely changes to ない (nai). する (suru) becomes しない (shinai). 来る (kuru) becomes こない (konai)."
-        },
-        {
-            name: "Te-Form",
-            usage: "Used to connect sentences, make requests (with kudasai), or indicate ongoing action (with iru).",
-            structure: "Ru-verbs: drop 'ru', add 'te'. U-verbs depend on ending (u/tsu/ru -> tte, mu/bu/nu -> nde, ku -> ite, gu -> ide).",
-            example: "食べる (taberu) -> 食べて (tabete) / 飲む (nomu) -> 飲んで (nonde)",
-            exceptions: "行く (iku) is an exception and becomes 行って (itte) instead of 行いて (iite). する (suru) -> して (shite). 来る (kuru) -> 来て (kite)."
-        },
-        {
-            name: "Plain Past (Ta form)",
-            usage: "Casual past tense. Follows the exact same conjugation rules as the Te-form, but ending in 'ta' or 'da'.",
-            structure: "Ru-verbs: drop 'ru', add 'ta'. U-verbs: te -> ta, de -> da.",
-            example: "食べる (taberu) -> 食べた (tabeta) / 飲む (nomu) -> 飲んだ (nonda)",
-            exceptions: "行く (iku) becomes 行った (itta). する (suru) -> した (shita). 来る (kuru) -> 来た (kita)."
-        }
-    ];
+    {
+      name: "Polite Present (Masu form)",
+      usage: "Used in formal situations to state habits, general truths, or future actions.",
+      structure: "Verb stem + ます (masu). For Ru-verbs: drop 'ru' add 'masu'. For U-verbs: change 'u' sound to 'i' sound + 'masu'.",
+      example: "食べる (taberu) -> 食べます (tabemasu) / 行く (iku) -> 行きます (ikimasu)",
+      exceptions: "する (suru) becomes します (shimasu). 来る (kuru) becomes 来ます (kimasu)."
+    },
+    {
+      name: "Polite Past (Mashita form)",
+      usage: "Used in formal situations to describe an action completed in the past.",
+      structure: "Verb stem + ました (mashita). Follows the same stem rules as the Masu form.",
+      example: "食べる (taberu) -> 食べました (tabemashita)",
+      exceptions: "する (suru) becomes しました (shimashita). 来る (kuru) becomes 来ました (kimashita)."
+    },
+    {
+      name: "Plain Negative (Nai form)",
+      usage: "Used in casual speech to state that an action will not happen.",
+      structure: "Ru-verbs: drop 'ru', add 'nai'. U-verbs: change 'u' sound to 'a' sound + 'nai'.",
+      example: "食べる (taberu) -> 食べない (tabenai) / 行く (iku) -> 行かない (ikanai)",
+      exceptions: "ある (aru) completely changes to ない (nai). する (suru) becomes しない (shinai). 来る (kuru) becomes こない (konai)."
+    },
+    {
+      name: "Te-Form",
+      usage: "Used to connect sentences, make requests (with kudasai), or indicate ongoing action (with iru).",
+      structure: "Ru-verbs: drop 'ru', add 'te'. U-verbs depend on ending (u/tsu/ru -> tte, mu/bu/nu -> nde, ku -> ite, gu -> ide).",
+      example: "食べる (taberu) -> 食べて (tabete) / 飲む (nomu) -> 飲んで (nonde)",
+      exceptions: "行く (iku) is an exception and becomes 行って (itte) instead of 行いて (iite). する (suru) -> して (shite). 来る (kuru) -> 来て (kite)."
+    },
+    {
+      name: "Plain Past (Ta form)",
+      usage: "Casual past tense. Follows the exact same conjugation rules as the Te-form, but ending in 'ta' or 'da'.",
+      structure: "Ru-verbs: drop 'ru', add 'ta'. U-verbs: te -> ta, de -> da.",
+      example: "食べる (taberu) -> 食べた (tabeta) / 飲む (nomu) -> 飲んだ (nonda)",
+      exceptions: "行く (iku) becomes 行った (itta). する (suru) -> した (shita). 来る (kuru) -> 来た (kita)."
+    },
+    {
+      name: "Potential Form (Can do)",
+      usage: "Expresses the ability or potential to do something.",
+      structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'e' sound + 'ru'.",
+      example: "食べる (taberu) -> 食べられる (taberareru) / 飲む (nomu) -> 飲める (nomeru)",
+      exceptions: "する (suru) becomes できる (dekiru). 来る (kuru) becomes 来られる (korareru)."
+    },
+    {
+      name: "Volitional Form (Let's do)",
+      usage: "Used to suggest an action or express intention to do something.",
+      structure: "Ru-verbs: drop 'ru', add 'you'. U-verbs: change 'u' sound to 'o' sound + 'u'.",
+      example: "食べる (taberu) -> 食べよう (tabeyou) / 行く (iku) -> 行こう (ikou)",
+      exceptions: "する (suru) becomes しよう (shiyou). 来る (kuru) becomes こよう (koyou)."
+    },
+    {
+      name: "Conditional 'Tara' Form (If / When)",
+      usage: "The most common 'if/then' or 'when' conditional in Japanese.",
+      structure: "Simply add 'ra' (ら) to the Plain Past (Ta form).",
+      example: "食べる (taberu) -> 食べたら (tabetara) / 飲む (nomu) -> 飲んだら (nondara)"
+    },
+    {
+      name: "Conditional 'Ba' Form (If)",
+      usage: "Used for logical conditions ('If X happens, Y will happen').",
+      structure: "Ru-verbs: drop 'ru', add 'reba'. U-verbs: change 'u' sound to 'e' sound + 'ba'.",
+      example: "食べる (taberu) -> 食べれば (tabereba) / 行く (iku) -> 行けば (ikeba)",
+      exceptions: "する (suru) becomes すれば (sureba). 来る (kuru) becomes くれば (kureba)."
+    },
+    {
+      name: "Passive Form (Be done to)",
+      usage: "Expresses an action done *to* the subject, often implying inconvenience.",
+      structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'a' sound + 'reru'.",
+      example: "叱る (shikaru) -> 叱られる (shikarareru) / 踏む (fumu) -> 踏まれる (fumareru)",
+      exceptions: "する (suru) becomes される (sareru). 来る (kuru) becomes こられる (korareru)."
+    },
+    {
+      name: "Causative Form (Make / Let someone do)",
+      usage: "Used when someone forces or allows someone else to do an action.",
+      structure: "Ru-verbs: drop 'ru', add 'saseru'. U-verbs: change 'u' sound to 'a' sound + 'seru'.",
+      example: "待つ (matsu) -> 待たせる (mataseru) / 食べる (taberu) -> 食べさせる (tabesaseru)",
+      exceptions: "する (suru) becomes させる (saseru). 来る (kuru) becomes こさせる (kosaseru)."
+    },
+    {
+      name: "Causative-Passive Form (Be made to do)",
+      usage: "Used when you are forced to do something against your will.",
+      structure: "Ru-verbs: drop 'ru', add 'saserareru'. U-verbs (ending in su): 'saserareru'. Other U-verbs: change 'u' to 'a' + 'sareru'.",
+      example: "飲む (nomu) -> 飲まされる (nomasareru) / 待つ (matsu) -> 待たされる (matasareru)",
+      exceptions: "する (suru) becomes させられる (saserareru). 来る (kuru) becomes こさせられる (kosaserareru)."
+    },
+    {
+      name: "Imperative Form (Command)",
+      usage: "A forceful command to do something. Usually used by men, in emergencies, or in sports.",
+      structure: "Ru-verbs: drop 'ru', add 'ro'. U-verbs: change 'u' sound to 'e' sound.",
+      example: "食べる (taberu) -> 食べろ (tabero) / 行く (iku) -> 行け (ike)",
+      exceptions: "する (suru) becomes しろ (shiro). 来る (kuru) becomes こい (koi)."
+    },
+    {
+      name: "Prohibitive Form (Negative Command)",
+      usage: "A forceful command *not* to do something.",
+      structure: "Verb dictionary form + な (na).",
+      example: "入る (hairu) -> 入るな (hairuna) / 食べる (taberu) -> 食べるな (taberuna)"
+    }
+  ];
 
     // *** CUSTOM SENTENCE LIBRARY (JAPANESE) ***
     const CUSTOM_LIBRARY = [
@@ -17424,6 +17485,325 @@ export function getStaticData() {
             "translation": "I felt like I touched upon the core.",
             "kana": "ふれた",
             "reading": "かくしん に ふれた き が した。"
+        }, {
+            "verb": "愛する (aisuru)",
+            "tense": "Potential Form (Can do)",
+            "text": "誰もが誰かを[愛せます]。",
+            "translation": "Anyone can love someone.",
+            "kana": "あいせます",
+            "reading": "だれも が だれか を あいせます。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この瓶の蓋を[開けられます]か。",
+            "translation": "Can you open the lid of this bottle?",
+            "kana": "あけられます",
+            "reading": "この びん の ふた を あけられます か。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "もっと世界を[愛そう]。",
+            "translation": "Let's love the world more.",
+            "kana": "あいそう",
+            "reading": "もっと せかい を あいそう。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "暑いから窓を[開けよう]。",
+            "translation": "It's hot, so let's open the window.",
+            "kana": "あけよう",
+            "reading": "あつい から まど を あけよう。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "自分を[愛したら]、人生が変わります。",
+            "translation": "If you love yourself, your life will change.",
+            "kana": "あいしたら",
+            "reading": "じぶん を あいしたら、 じんせい が かわります。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "箱を[開けたら]、手紙が入っていました。",
+            "translation": "When I opened the box, there was a letter inside.",
+            "kana": "あけたら",
+            "reading": "はこ を あけたら、 てがみ が はいっていました。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If)",
+            "text": "お互いに[愛せば]、平和になります。",
+            "translation": "If we love each other, there will be peace.",
+            "kana": "あいせば",
+            "reading": "おたがいに あいせば、 へいわ に なります。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If)",
+            "text": "扉を[開ければ]、風が通ります。",
+            "translation": "If you open the door, the breeze will come through.",
+            "kana": "あければ",
+            "reading": "とびら を あければ、 かぜ が とおります。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Potential Form (Can do)",
+            "text": "彼は家族を深く[愛せます]。",
+            "translation": "He can love his family deeply.",
+            "kana": "あいせます",
+            "reading": "かれ は かぞく を ふかく あいせます。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "鍵がなくて、ドアが[開けられない]。",
+            "translation": "I don't have a key, so I can't open the door.",
+            "kana": "あけられない",
+            "reading": "かぎ が なくて、 どあ が あけられない。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "隣人を[愛しましょう]。",
+            "translation": "Let us love our neighbors.",
+            "kana": "あいしましょう",
+            "reading": "りんじん を あいしましょう。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "プレゼントを[開けましょう]！",
+            "translation": "Let's open the present!",
+            "kana": "あけましょう",
+            "reading": "ぷれぜんと を あけましょう！"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "誰かを[愛したら]、優しくなれます。",
+            "translation": "If you love someone, you can become kind.",
+            "kana": "あいしたら",
+            "reading": "だれか を あいしたら、 やさしく なれます。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "カーテンを[開けたら]、富士山が見えました。",
+            "translation": "When I opened the curtains, I could see Mt. Fuji.",
+            "kana": "あけたら",
+            "reading": "かーてん を あけたら、 ふじさん が みえました。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If)",
+            "text": "仕事を[愛せば]、苦労は感じません。",
+            "translation": "If you love your work, you won't feel the hardship.",
+            "kana": "あいせば",
+            "reading": "しごと を あいせば、 くろう は かんじません。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If)",
+            "text": "口を大きく[開ければ]、喉が見えます。",
+            "translation": "If you open your mouth wide, I can see your throat.",
+            "kana": "あければ",
+            "reading": "くち を おおきく あければ、 のど が みえます。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Potential Form (Can do)",
+            "text": "もっと素直に[愛せる]ようになりたい。",
+            "translation": "I want to be able to love more honestly.",
+            "kana": "あいせる",
+            "reading": "もっと すなお に あいせる よう に なりたい。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "子供でもこの箱を[開けられます]。",
+            "translation": "Even a child can open this box.",
+            "kana": "あけられます",
+            "reading": "こども でも この はこ を あけられます。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "自分の運命を[愛そう]。",
+            "translation": "Let's love our destiny.",
+            "kana": "あいそう",
+            "reading": "じぶん の うんめい を あいそう。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しいビジネスを[開けよう]としている。",
+            "translation": "I am trying to open a new business.",
+            "kana": "あけよう",
+            "reading": "あたらしい びじねす を あけよう と している。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "真実を[愛したら]、自由になれる。",
+            "translation": "If you love the truth, you can be free.",
+            "kana": "あいしたら",
+            "reading": "しんじつ を あいしたら、 じゆう に なれる。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "朝に窓を[開けたら]、空気が爽やかだった。",
+            "translation": "When I opened the window in the morning, the air was refreshing.",
+            "kana": "あけたら",
+            "reading": "あさ に まど を あけたら、 くうき が さわやか だった。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If)",
+            "text": "自然を[愛せば]、心も豊かになる。",
+            "translation": "If you love nature, your heart will become rich.",
+            "kana": "あいせば",
+            "reading": "しぜん を あいせば、 こころ も ゆたか に なる。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If)",
+            "text": "鍵を[開ければ]、中に入れますよ。",
+            "translation": "If you unlock (open) the key, you can go inside.",
+            "kana": "あければ",
+            "reading": "かぎ を あければ、 なか に はいれます よ。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Potential Form (Can do)",
+            "text": "あんな酷い人は[愛せません]。",
+            "translation": "I cannot love such a terrible person.",
+            "kana": "あいせません",
+            "reading": "あんな ひどい ひと は あいせません。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "アプリが重くて、ファイルが[開けられません]。",
+            "translation": "The app is slow, so I cannot open the file.",
+            "kana": "あけられません",
+            "reading": "あぷり が おもくて、 ふぁいる が あけられません。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "人類を[愛そう]なんて、大げさかな。",
+            "translation": "Is it too grand to say 'Let's love humanity'?",
+            "kana": "あいそう",
+            "reading": "じんるい を あいそう なんて、 おおげさ かな。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "ワインを[開けよう]。乾杯しよう。",
+            "translation": "Let's open the wine. Let's toast.",
+            "kana": "あけよう",
+            "reading": "わいん を あけよう。 かんぱい しよう。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "ペットを[愛したら]、家族の一員です。",
+            "translation": "If you love your pet, they are a member of the family.",
+            "kana": "あいしたら",
+            "reading": "ぺっと を あいしたら、 かぞく の いちいん です。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "冷蔵庫を[開けたら]、ケーキがなくなっていた。",
+            "translation": "When I opened the fridge, the cake was gone.",
+            "kana": "あけたら",
+            "reading": "れいぞうこ を あけたら、 けーき が なくなって いた。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If)",
+            "text": "敵をも[愛せば]、争いはなくなるだろう。",
+            "translation": "If one loves even their enemies, conflict will likely vanish.",
+            "kana": "あいせば",
+            "reading": "てき を も あいせば、 あらそい は なくなる だろう。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If)",
+            "text": "目を[開ければ]、美しい景色が広がっている。",
+            "translation": "If you open your eyes, a beautiful landscape spreads out.",
+            "kana": "あければ",
+            "reading": "め を あければ、 うつくしい けしき が ひろがって いる。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Potential Form (Can do)",
+            "text": "あなたは自分を[愛せます]か。",
+            "translation": "Can you love yourself?",
+            "kana": "あいせます",
+            "reading": "あなた は じぶん を あいせます か。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "力がないから、この蓋は[開けられない]。",
+            "translation": "I have no strength, so I can't open this lid.",
+            "kana": "あけられない",
+            "reading": "ちから が ない から、 この ふた は あけられない。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "もっと音楽を[愛そう]。",
+            "translation": "Let's love music more.",
+            "kana": "あいそう",
+            "reading": "もっと おんがく を あいそう。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "明日、店を[開けよう]と思う。",
+            "translation": "I think I will open the shop tomorrow.",
+            "kana": "あけよう",
+            "reading": "あした、 みせ を あけよう と おもう。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "誰かを本気で[愛したら]、強くなれる。",
+            "translation": "If you truly love someone, you can become strong.",
+            "kana": "あいしたら",
+            "reading": "だれか を ほんき で あいしたら、 つよく なれる。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "引き出しを[開けたら]、古い写真が出てきた。",
+            "translation": "When I opened the drawer, an old photo came out.",
+            "kana": "あけたら",
+            "reading": "ひきだし を あけたら、 ふるい しゃしん が でて きた。"
+        },
+        {
+            "verb": "愛する (aisuru)",
+            "tense": "Conditional Form (If)",
+            "text": "故郷を[愛せば]、守りたくなる。",
+            "translation": "If you love your hometown, you will want to protect it.",
+            "kana": "あいせば",
+            "reading": "こきょう を あいせば、 まもりたく なる。"
+        },
+        {
+            "verb": "開ける (akeru)",
+            "tense": "Conditional Form (If)",
+            "text": "この道を[開ければ]、村が活性化する。",
+            "translation": "If we open this road, the village will be revitalized.",
+            "kana": "あければ",
+            "reading": "この みち を あければ、 むら が かっせいか する。"
         }
 
     ];
