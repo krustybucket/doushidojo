@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Check, ArrowRight, RefreshCw, BookOpen, Trophy, AlertCircle, Sparkles, Globe, Loader2, Settings, Sliders, X, Filter, Search, Zap, Moon, Sun, Key, Volume2, XCircle, CheckCircle, Book, Eye, EyeOff } from 'lucide-react';
-
+import { getStaticData } from './data';
 const ROMAJI_TO_KANA = {
   'a':'あ','i':'い','u':'う','e':'え','o':'お',
   'ka':'か','ki':'き','ku':'く','ke':'け','ko':'こ',
