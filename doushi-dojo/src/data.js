@@ -12231,6 +12231,5199 @@ export function getStaticData() {
             "translation": "It is a firmly vowed promise.",
             "kana": "ちかった",
             "reading": "かたく ちかった やくそく だ。"
+        }, {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "目的地に[近づきます]。",
+            "translation": "I am approaching the destination.",
+            "kana": "ちかづきます",
+            "reading": "もくてきち に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "試験が[近づきます]ね。",
+            "translation": "The exam is drawing near, isn't it?",
+            "kana": "ちかづきます",
+            "reading": "しけん が ちかづきます ね。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "彼にそっと[近づきます]。",
+            "translation": "I quietly approach him.",
+            "kana": "ちかづきます",
+            "reading": "かれ に そっと ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "完成に[近づきます]。",
+            "translation": "It is approaching completion.",
+            "kana": "ちかづきます",
+            "reading": "かんせい に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "冬が[近づきます]。",
+            "translation": "Winter is approaching.",
+            "kana": "ちかづきます",
+            "reading": "ふゆ が ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "真相に[近づきます]。",
+            "translation": "I am getting closer to the truth.",
+            "kana": "ちかづきます",
+            "reading": "しんそう に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "理想に[近づきます]。",
+            "translation": "I am getting closer to the ideal.",
+            "kana": "ちかづきます",
+            "reading": "りそう に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "船が岸に[近づきます]。",
+            "translation": "The ship is approaching the shore.",
+            "kana": "ちかづきます",
+            "reading": "ふね が きし に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "目標に[近づきます]。",
+            "translation": "I am approaching the goal.",
+            "kana": "ちかづきます",
+            "reading": "もくひょう に ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "足音が[近づきます]。",
+            "translation": "The sound of footsteps is getting closer.",
+            "kana": "ちかづきます",
+            "reading": "あしおと が ちかづきます。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "台風が[近づきました]。",
+            "translation": "A typhoon approached.",
+            "kana": "ちかづきました",
+            "reading": "たいふう が ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "限界に[近づきました]。",
+            "translation": "I approached my limit.",
+            "kana": "ちかづきました",
+            "reading": "げんかい に ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "そっと[近づきました]か？",
+            "translation": "Did you approach quietly?",
+            "kana": "ちかづきました",
+            "reading": "そっと ちかづきました か？"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "答えに[近づきました]。",
+            "translation": "I got closer to the answer.",
+            "kana": "ちかづきました",
+            "reading": "こたえ に ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "車が[近づきました]。",
+            "translation": "A car approached.",
+            "kana": "ちかづきました",
+            "reading": "くるま が ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "駅に[近づきました]。",
+            "translation": "We got closer to the station.",
+            "kana": "ちかづきました",
+            "reading": "えき に ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "春が[近づきました]ね。",
+            "translation": "Spring has drawn near, hasn't it?",
+            "kana": "ちかづきました",
+            "reading": "はる が ちかづきました ね。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "夢に一歩[近づきました]。",
+            "translation": "I took one step closer to my dream.",
+            "kana": "ちかづきました",
+            "reading": "ゆめ に いっぽ ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "誰かが後ろから[近づきました]。",
+            "translation": "Someone approached from behind.",
+            "kana": "ちかづきました",
+            "reading": "だれか が うしろ から ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "ようやく完成に[近づきました]。",
+            "translation": "It finally approached completion.",
+            "kana": "ちかづきました",
+            "reading": "ようやく かんせい に ちかづきました。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "犬が[近づいて]きた。",
+            "translation": "A dog came closer.",
+            "kana": "ちかづいて",
+            "reading": "いぬ が ちかづいて きた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "火に[近づいて]はいけない。",
+            "translation": "You must not go near the fire.",
+            "kana": "ちかづいて",
+            "reading": "ひ に ちかづいて は いけない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "顔を[近づけて]（近づいて）見る。",
+            "translation": "Bring your face close and look.",
+            "kana": "ちかづいて",
+            "reading": "かお を ちかづいて みる。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "ゴールが[近づいて]わくわくする。",
+            "translation": "The goal is getting closer and I'm excited.",
+            "kana": "ちかづいて",
+            "reading": "ごーる が ちかづいて わくわく する。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "そっと[近づいて]驚かす。",
+            "translation": "Approach quietly and surprise them.",
+            "kana": "ちかづいて",
+            "reading": "そっと ちかづいて おどろかす。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "真相に[近づいて]いる気がする。",
+            "translation": "I feel like I'm getting closer to the truth.",
+            "kana": "ちかづいて",
+            "reading": "しんそう に ちかづいて いる き が する。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "駅に[近づいて]アナウンスが流れた。",
+            "translation": "As we neared the station, an announcement was made.",
+            "kana": "ちかづいて",
+            "reading": "えき に ちかづいて あなうんす が ながれた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "二人が[近づいて]座る。",
+            "translation": "The two sit closer together.",
+            "kana": "ちかづいて",
+            "reading": "ふたり が ちかづいて すわる。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "冬が[近づいて]寒くなった。",
+            "translation": "Winter approached and it became cold.",
+            "kana": "ちかづいて",
+            "reading": "ふゆ が ちかづいて さむくなった。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Te-form",
+            "text": "目標に[近づいて]安心した。",
+            "translation": "I felt relieved as I got closer to the goal.",
+            "kana": "ちかづいて",
+            "reading": "もくひょう に ちかづいて あんしん した。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "知らない人に[近づかない]。",
+            "translation": "I don't go near strangers.",
+            "kana": "ちかづかない",
+            "reading": "しらない ひと に ちかづかない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "なかなかゴールに[近づかない]。",
+            "translation": "I'm not getting closer to the goal easily.",
+            "kana": "ちかづかない",
+            "reading": "なかなか ごーる に ちかづかない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "危ないから[近づかない]で。",
+            "translation": "It's dangerous, so don't go near.",
+            "kana": "ちかづかない",
+            "reading": "あぶない から ちかづかない で。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "真相にはまだ[近づかない]。",
+            "translation": "We aren't near the truth yet.",
+            "kana": "ちかづかない",
+            "reading": "しんそう に は まだ ちかづかない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "その犬には[近づかない]ほうがいい。",
+            "translation": "It's better not to go near that dog.",
+            "kana": "ちかづかない",
+            "reading": "その いぬ に は ちかづかない ほう が いい。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "理想には全然[近づかない]。",
+            "translation": "I'm not getting close to the ideal at all.",
+            "kana": "ちかづかない",
+            "reading": "りそう に は ぜんぜん ちかづかない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "台風は[近づかない]らしい。",
+            "translation": "I heard the typhoon won't approach.",
+            "kana": "ちかづかない",
+            "reading": "たいふう は ちかづかない らしい。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "あまり[近づかない]ようにする。",
+            "translation": "I will try not to get too close.",
+            "kana": "ちかづかない",
+            "reading": "あまり ちかづかない ように する。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "完成にはまだ[近づかない]。",
+            "translation": "It's not near completion yet.",
+            "kana": "ちかづかない",
+            "reading": "かんせい に は まだ ちかづかない。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "誰にも[近づかない]で一人でいる。",
+            "translation": "Stay alone without going near anyone.",
+            "kana": "ちかづかない",
+            "reading": "だれ に も ちかづかない で ひとり で いる。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "猫が[近づいた]。",
+            "translation": "A cat approached.",
+            "kana": "ちかづいた",
+            "reading": "ねこ が ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "試験が[近づいた]ので勉強する。",
+            "translation": "Since the exam has drawn near, I will study.",
+            "kana": "ちかづいた",
+            "reading": "しけん が ちかづいた ので べんきょう する。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "目的地に[近づいた]。",
+            "translation": "I approached the destination.",
+            "kana": "ちかづいた",
+            "reading": "もくてきち に ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "一歩、夢に[近づいた]。",
+            "translation": "I got one step closer to my dream.",
+            "kana": "ちかづいた",
+            "reading": "いっぽ、 ゆめ に ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "車が急に[近づいた]。",
+            "translation": "A car suddenly approached.",
+            "kana": "ちかづいた",
+            "reading": "くるま が きゅう に ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "完成にかなり[近づいた]。",
+            "translation": "It got quite close to completion.",
+            "kana": "ちかづいた",
+            "reading": "かんせい に かなり ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "真相に少し[近づいた]。",
+            "translation": "I got a little closer to the truth.",
+            "kana": "ちかづいた",
+            "reading": "しんそう に すこし ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "足音がだんだん[近づいた]。",
+            "translation": "The footsteps gradually got closer.",
+            "kana": "ちかづいた",
+            "reading": "あしおと が だんだん ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "二人、距離が[近づいた]。",
+            "translation": "The two of them got closer.",
+            "kana": "ちかづいた",
+            "reading": "ふたり、 きょり が ちかづいた。"
+        },
+        {
+            "verb": "近づく (chikazuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "誰が[近づいた]の？",
+            "translation": "Who approached?",
+            "kana": "ちかづいた",
+            "reading": "だれ が ちかづいた の？"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "桜が[散ります]。",
+            "translation": "The cherry blossoms fall (scatter).",
+            "kana": "ちります",
+            "reading": "さくら が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "気が[散ります]。",
+            "translation": "I get distracted (my attention scatters).",
+            "kana": "ちります",
+            "reading": "き が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "火花が[散ります]。",
+            "translation": "Sparks fly (scatter).",
+            "kana": "ちります",
+            "reading": "ひばな が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "雲が[散ります]。",
+            "translation": "The clouds disperse.",
+            "kana": "ちります",
+            "reading": "くも が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "噂が[広まります]。",
+            "translation": "Rumors spread (scatter).",
+            "kana": "ひろまります",
+            "reading": "うわさ が ひろまります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "敵が[散ります]。",
+            "translation": "The enemy scatters.",
+            "kana": "ちります",
+            "reading": "てき が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "葉が[散ります]か？",
+            "translation": "Do the leaves fall?",
+            "kana": "ちります",
+            "reading": "は が ちります か？"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "一気に[散ります]。",
+            "translation": "They fall (scatter) all at once.",
+            "kana": "ちります",
+            "reading": "いっき に ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "夢が[散ります]。",
+            "translation": "Dreams are shattered (scattered).",
+            "kana": "ちります",
+            "reading": "ゆめ が ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "蜘蛛の子を散らすように[散ります]。",
+            "translation": "They scatter like baby spiders.",
+            "kana": "ちります",
+            "reading": "くものこ を ちらす ように ちります。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "花が[散りました]。",
+            "translation": "The flowers fell.",
+            "kana": "ちりました",
+            "reading": "はな が ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "気が[散りました]か？",
+            "translation": "Were you distracted?",
+            "kana": "ちりました",
+            "reading": "き が ちりました か？"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "霧が[散りました]。",
+            "translation": "The fog dispersed.",
+            "kana": "ちりました",
+            "reading": "きり が ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "火花が激しく[散りました]。",
+            "translation": "Sparks flew violently.",
+            "kana": "ちりました",
+            "reading": "ひばな が はげしく ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "観客が[散りました]。",
+            "translation": "The audience dispersed.",
+            "kana": "ちりました",
+            "reading": "かんきゃく が ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "夢と[散りました]。",
+            "translation": "It ended in a dream (vanished).",
+            "kana": "ちりました",
+            "reading": "ゆめ と ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "インクが[散りました]。",
+            "translation": "The ink splattered (scattered).",
+            "kana": "ちりました",
+            "reading": "いんく が ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "光が[散りました]。",
+            "translation": "The light scattered.",
+            "kana": "ちりました",
+            "reading": "ひかり が ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "一瞬で[散りました]。",
+            "translation": "It scattered in an instant.",
+            "kana": "ちりました",
+            "reading": "いっしゅん で ちりました。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "何が[散りました]か？",
+            "translation": "What scattered?",
+            "kana": "ちりました",
+            "reading": "なに が ちりました か？"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "花が[散って]きれいだ。",
+            "translation": "The flowers have fallen and it's beautiful.",
+            "kana": "ちって",
+            "reading": "はな が ちって きれいだ。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "気が[散って]集中できない。",
+            "translation": "I'm distracted and can't concentrate.",
+            "kana": "ちって",
+            "reading": "き が ちって しゅうちゅう できない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "雲が[散って]晴れてきた。",
+            "translation": "The clouds dispersed and it cleared up.",
+            "kana": "ちって",
+            "reading": "くも が ちって はれて きた。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "火花が[散って]危ない。",
+            "translation": "Sparks are flying and it's dangerous.",
+            "kana": "ちって",
+            "reading": "ひばな が ちって あぶない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "夢が[散って]悲しい。",
+            "translation": "My dreams are shattered and I'm sad.",
+            "kana": "ちって",
+            "reading": "ゆめ が ちって かなしい。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "インクが[散って]汚れた。",
+            "translation": "The ink splattered and got dirty.",
+            "kana": "ちって",
+            "reading": "いんく が ちって よごれた。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "人が[散って]いく。",
+            "translation": "People are scattering away.",
+            "kana": "ちって",
+            "reading": "ひと が ちって いく。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "霧が[散って]前が見える。",
+            "translation": "The fog dispersed and I can see ahead.",
+            "kana": "ちって",
+            "reading": "きり が ちって まえ が みえる。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "一気に[散って]しまった。",
+            "translation": "They unfortunately scattered all at once.",
+            "kana": "ちって",
+            "reading": "いっき に ちって しまった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Te-form",
+            "text": "四方に[散って]探す。",
+            "translation": "Scatter in all directions and search.",
+            "kana": "ちって",
+            "reading": "しほう に ちって さがす。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ花は[散らない]。",
+            "translation": "The flowers haven't fallen yet.",
+            "kana": "ちらない",
+            "reading": "まだ はな は ちらない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "気が[散らない]ようにする。",
+            "translation": "I will try not to get distracted.",
+            "kana": "ちらない",
+            "reading": "き が ちらない ように する。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "噂は簡単には[散らない]。",
+            "translation": "Rumors don't disperse easily.",
+            "kana": "ちらない",
+            "reading": "うわさ は かんたん に は ちらない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "火花は[散らない]はずだ。",
+            "translation": "Sparks shouldn't fly.",
+            "kana": "ちらない",
+            "reading": "ひばな は ちらない はず だ。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "雲が[ちらない]。",
+            "translation": "The clouds don't disperse.",
+            "kana": "ちらない",
+            "reading": "くも が ちらない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "夢はまだ[散らない]。",
+            "translation": "The dream isn't shattered yet.",
+            "kana": "ちらない",
+            "reading": "ゆめ は まだ ちらない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "一箇所にいて[散らない]。",
+            "translation": "Stay in one place and don't scatter.",
+            "kana": "ちらない",
+            "reading": "いっかしょ に いて ちらない。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "インクが[ちらない]ペン。",
+            "translation": "A pen that doesn't splatter ink.",
+            "kana": "ちらない",
+            "reading": "いんく が ちらない ぺん。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "霧が[ちらない]と困る。",
+            "translation": "It's a problem if the fog doesn't disperse.",
+            "kana": "ちらない",
+            "reading": "きり が ちらない と こまる。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "光が[ちらない]ように遮る。",
+            "translation": "Block the light so it doesn't scatter.",
+            "kana": "ちらない",
+            "reading": "ひかり が ちらない ように さえぎる。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "桜が[散った]。",
+            "translation": "The cherry blossoms fell.",
+            "kana": "ちった",
+            "reading": "さくら が ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "気が[散った]。",
+            "translation": "I got distracted.",
+            "kana": "ちった",
+            "reading": "き が ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "雲が[散った]。",
+            "translation": "The clouds dispersed.",
+            "kana": "ちった",
+            "reading": "くも が ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "火花が[散った]。",
+            "translation": "Sparks flew.",
+            "kana": "ちった",
+            "reading": "ひばな が ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "観客が蜘蛛の子を散らすように[散った]。",
+            "translation": "The audience scattered in all directions.",
+            "kana": "ちった",
+            "reading": "かんきゃく が くものこ を ちらす ように ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "夢がはかなく[散った]。",
+            "translation": "The dream was fleetingly shattered.",
+            "kana": "ちった",
+            "reading": "ゆめ が はかなく ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "インクが[散った]跡。",
+            "translation": "The mark where ink splattered.",
+            "kana": "ちった",
+            "reading": "いんく が ちった あと。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "一気に[散った]ね。",
+            "translation": "They scattered all at once, didn't they?",
+            "kana": "ちった",
+            "reading": "いっき に ちった ね。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "光が乱反射して[散った]。",
+            "translation": "The light was diffusely reflected and scattered.",
+            "kana": "ちった",
+            "reading": "ひかり が らんはんしゃ して ちった。"
+        },
+        {
+            "verb": "散る (chiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "彼は戦場に[散った]。",
+            "translation": "He perished on the battlefield.",
+            "kana": "ちった",
+            "reading": "かれ は せんじょう に ちった。"
+        }, {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "期待を[抱きます]。",
+            "translation": "I hold expectations.",
+            "kana": "だきます",
+            "reading": "きたい を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "疑問を[抱きます]。",
+            "translation": "I harbor doubts.",
+            "kana": "だきます",
+            "reading": "ぎもん を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "不安を[抱きます]。",
+            "translation": "I feel uneasy.",
+            "kana": "だきます",
+            "reading": "ふあん を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "野心を[抱きます]。",
+            "translation": "I harbor ambition.",
+            "kana": "だきます",
+            "reading": "やしん を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "興味を[抱きます]。",
+            "translation": "I have an interest.",
+            "kana": "だきます",
+            "reading": "きょうみ を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "恋心を[抱きます]。",
+            "translation": "I have feelings of love.",
+            "kana": "だきます",
+            "reading": "こいごころ を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "反感を[抱きます]。",
+            "translation": "I feel antipathy.",
+            "kana": "だきます",
+            "reading": "はんかん を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "理想を[抱きます]。",
+            "translation": "I hold an ideal.",
+            "kana": "だきます",
+            "reading": "りそう を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "恐怖を[抱きます]。",
+            "translation": "I feel fear.",
+            "kana": "だきます",
+            "reading": "きょうふ を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Present (Masu)",
+            "text": "夢を[抱きます]。",
+            "translation": "I harbor a dream.",
+            "kana": "だきます",
+            "reading": "ゆめ を だきます。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "殺意を[抱きました]。",
+            "translation": "I harbored murderous intent.",
+            "kana": "だきました",
+            "reading": "さつい を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "不信感を[抱きました]。",
+            "translation": "I felt a sense of distrust.",
+            "kana": "だきました",
+            "reading": "ふしんかん を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "強い願いを[抱きました]。",
+            "translation": "I held a strong wish.",
+            "kana": "だきました",
+            "reading": "つよい ねがい を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "恨みを[抱きました]。",
+            "translation": "I held a grudge.",
+            "kana": "だきました",
+            "reading": "うらみ を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "好意を[抱きました]。",
+            "translation": "I felt a liking for someone.",
+            "kana": "だきました",
+            "reading": "こうい を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "希望を[抱きました]。",
+            "translation": "I held onto hope.",
+            "kana": "だきました",
+            "reading": "きぼう を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "違和感を[抱きました]。",
+            "translation": "I felt something was wrong.",
+            "kana": "だきました",
+            "reading": "いわかん を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "劣等感を[抱きました]。",
+            "translation": "I felt an inferiority complex.",
+            "kana": "だきました",
+            "reading": "れっとうかん を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "親しみを[抱きました]。",
+            "translation": "I felt a sense of familiarity.",
+            "kana": "だきました",
+            "reading": "したしみ を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "情熱を[抱きました]。",
+            "translation": "I felt passion.",
+            "kana": "だきました",
+            "reading": "じょうねつ を だきました。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "大志を[抱いて]生きる。",
+            "translation": "Live with great ambition.",
+            "kana": "だいて",
+            "reading": "たいし を だいて いきる。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "信念を[抱いて]戦う。",
+            "translation": "Fight while holding onto your beliefs.",
+            "kana": "だいて",
+            "reading": "しんねん を だいて たたかう。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "疑問を[抱いて]調査する。",
+            "translation": "Investigate with doubts in mind.",
+            "kana": "だいて",
+            "reading": "ぎもん を だいて ちょうさ する。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "不安を[抱いて]待つ。",
+            "translation": "Wait with anxiety.",
+            "kana": "だいて",
+            "reading": "ふあん を だいて まつ。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "期待を[抱いて]待機する。",
+            "translation": "Wait with expectation.",
+            "kana": "だいて",
+            "reading": "きたい を だいて たいき する。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "恋心を[抱いて]しまった。",
+            "translation": "I ended up having feelings of love.",
+            "kana": "だいて",
+            "reading": "こいごころ を だいて しまった。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "憎しみを[抱いて]はいけない。",
+            "translation": "You must not harbor hatred.",
+            "kana": "だいて",
+            "reading": "にくしみ を だいて は いけない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "夢を[抱いて]努力する。",
+            "translation": "Strive while holding onto a dream.",
+            "kana": "だいて",
+            "reading": "ゆめ を だいて どりょく する。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "誇りを[抱いて]働く。",
+            "translation": "Work with pride.",
+            "kana": "だいて",
+            "reading": "ほこり を だいて はたらく。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Te-form",
+            "text": "希望を[抱いて]進む。",
+            "translation": "Move forward with hope.",
+            "kana": "だいて",
+            "reading": "きぼう を だいて すすむ。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "悪意は[抱かない]。",
+            "translation": "I don't harbor ill will.",
+            "kana": "だかない",
+            "reading": "あくい は だかない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "偏見を[抱かない]ようにする。",
+            "translation": "I will try not to have prejudices.",
+            "kana": "だかない",
+            "reading": "へんけん を だかない ように する。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "恨みは[抱かない]主義だ。",
+            "translation": "It's my principle not to hold grudges.",
+            "kana": "だかない",
+            "reading": "うらみ は だかない しゅぎ だ。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "幻想を[抱かない]ほうがいい。",
+            "translation": "It's better not to have illusions.",
+            "kana": "だかない",
+            "reading": "げんそう を だかない ほう が いい。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "敵意を[抱かない]でください。",
+            "translation": "Please don't feel hostile.",
+            "kana": "だかない",
+            "reading": "てきい を だかない で ください。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "あまり期待を[抱かない]。",
+            "translation": "I don't have much expectation.",
+            "kana": "だかない",
+            "reading": "あまり きたい を だかない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "不安を[抱かない]はずがない。",
+            "translation": "It's impossible not to feel anxious.",
+            "kana": "だかない",
+            "reading": "ふあん を だかない はず が ない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何の疑問も[抱かない]。",
+            "translation": "I don't have any doubts.",
+            "kana": "だかない",
+            "reading": "なん の ぎもん も だかない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "劣等感を[抱かない]人。",
+            "translation": "A person who doesn't feel inferior.",
+            "kana": "だかない",
+            "reading": "れっとうかん を だかない ひと。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "執着を[抱かない]。",
+            "translation": "I don't have an attachment.",
+            "kana": "だかない",
+            "reading": "しゅうちゃく を だかない。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "彼は野望を[抱いた]。",
+            "translation": "He harbored an ambition.",
+            "kana": "だいた",
+            "reading": "かれ は やぼう を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "強い憤りを[抱いた]。",
+            "translation": "I felt a strong indignation.",
+            "kana": "だいた",
+            "reading": "つよい いきどおり を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "誰が殺意を[抱いた]のか？",
+            "translation": "Who harbored murderous intent?",
+            "kana": "だいた",
+            "reading": "だれ が さつい を だいた の か？"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "一瞬、不信感を[抱いた]。",
+            "translation": "I felt a sense of distrust for a moment.",
+            "kana": "だいた",
+            "reading": "いっしゅん、 ふしんかん を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "その言葉に感銘を[抱いた]。",
+            "translation": "I was deeply impressed by those words.",
+            "kana": "だいた",
+            "reading": "その ことば に かんめい を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "彼女に憧れを[抱いた]。",
+            "translation": "I felt an admiration for her.",
+            "kana": "だいた",
+            "reading": "かのじょ に あこがれ を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "危機感を[抱いた]。",
+            "translation": "I felt a sense of crisis.",
+            "kana": "だいた",
+            "reading": "ききかん を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "将来に不安を[抱いた]。",
+            "translation": "I felt anxious about the future.",
+            "kana": "だいた",
+            "reading": "しょうらい に ふあん を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "不思議な感情を[抱いた]。",
+            "translation": "I felt a strange emotion.",
+            "kana": "だいた",
+            "reading": "ふしぎな かんじょう を だいた。"
+        },
+        {
+            "verb": "抱く (daku)",
+            "tense": "Plain Past (Ta)",
+            "text": "希望を[抱いた]人は多い。",
+            "translation": "There are many people who held hope.",
+            "kana": "だいた",
+            "reading": "きぼう を だいた ひと は おおい。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "人を[騙します]。",
+            "translation": "I trick people.",
+            "kana": "だまします",
+            "reading": "ひと を だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "敵を[騙します]。",
+            "translation": "I deceive the enemy.",
+            "kana": "だまします",
+            "reading": "てき を だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "子供を[騙します]か？",
+            "translation": "Do you trick children?",
+            "kana": "だまします",
+            "reading": "こども を だまします か？"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "言葉で[騙します]。",
+            "translation": "I deceive with words.",
+            "kana": "だまします",
+            "reading": "ことば で だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "自分を[騙します]。",
+            "translation": "I deceive myself.",
+            "kana": "だまします",
+            "reading": "じぶん を だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "巧妙に[騙します]。",
+            "translation": "I deceive skillfully.",
+            "kana": "だまします",
+            "reading": "こうみょう に だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "世間を[騙します]。",
+            "translation": "I deceive the world.",
+            "kana": "だまします",
+            "reading": "せけん を だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "偽物で[騙します]。",
+            "translation": "I deceive with a fake.",
+            "kana": "だまします",
+            "reading": "にせもの で だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "笑顔で[騙します]。",
+            "translation": "I deceive with a smile.",
+            "kana": "だまします",
+            "reading": "えがお で だまします。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "簡単に[騙します]ね。",
+            "translation": "You trick (them) easily, don't you?",
+            "kana": "だまします",
+            "reading": "かんたん に だまします ね。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "悪い奴に[騙されました]。",
+            "translation": "I was tricked by a bad person.",
+            "kana": "だまされました",
+            "reading": "わるい やつ に だまされました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "お金を[騙し取りました]。",
+            "translation": "They swindled the money.",
+            "kana": "だましとりました",
+            "reading": "おかね を だましとりました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "嘘で[騙しました]。",
+            "translation": "I deceived them with a lie.",
+            "kana": "だましました",
+            "reading": "うそ で だましました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "すっかり[騙されました]。",
+            "translation": "I was completely fooled.",
+            "kana": "だまされました",
+            "reading": "すっかり だまされました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "彼を[騙しました]か？",
+            "translation": "Did you trick him?",
+            "kana": "だましました",
+            "reading": "かれ を だましました か？"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "偽装して[騙しました]。",
+            "translation": "I disguised it and deceived them.",
+            "kana": "だましました",
+            "reading": "ぎそう して だましました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "誰が[騙しました]か？",
+            "translation": "Who did the tricking?",
+            "kana": "だましました",
+            "reading": "だれ が だましました か？"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "一瞬で[騙されました]。",
+            "translation": "I was tricked in an instant.",
+            "kana": "だまされました",
+            "reading": "いっしゅん で だまされました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "老人を[騙しました]。",
+            "translation": "They tricked an elderly person.",
+            "kana": "だましました",
+            "reading": "ろうじん を だましました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "まんまと[騙されました]ね。",
+            "translation": "You were successfully fooled, weren't you?",
+            "kana": "だまされました",
+            "reading": "まんまと だまされました ね。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "人を[騙して]はいけない。",
+            "translation": "You must not trick people.",
+            "kana": "だまして",
+            "reading": "ひと を だまして は いけない。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "自分を[騙して]までやるな。",
+            "translation": "Don't do it even by deceiving yourself.",
+            "kana": "だまして",
+            "reading": "じぶん を だまして まで やるな。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "敵を[騙して]勝つ。",
+            "translation": "Win by deceiving the enemy.",
+            "kana": "だまして",
+            "reading": "てき を だまして かつ。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "巧みに[騙して]連れ出す。",
+            "translation": "Skillfully deceive and take (someone) out.",
+            "kana": "だまして",
+            "reading": "たくみ に だまして つれだす。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "言葉を濁して[騙して]いる。",
+            "translation": "They are being vague and deceiving.",
+            "kana": "だまして",
+            "reading": "ことば を にごして だまして いる。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "金銭を[騙し取って]逃げる。",
+            "translation": "Swindle money and run away.",
+            "kana": "だましとって",
+            "reading": "きんせん を だましとって にげる。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "平気で[騙して]くる。",
+            "translation": "They trick you without a second thought.",
+            "kana": "だまして",
+            "reading": "へいき で だまして くる。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "子供を[騙して]薬を飲ませる。",
+            "translation": "Trick the child into taking medicine.",
+            "kana": "だまして",
+            "reading": "こども を だまして くすり を のませる。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "世間を[騙して]儲ける。",
+            "translation": "Deceive the world and profit.",
+            "kana": "だまして",
+            "reading": "せけん を だまして もうける。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Te-form",
+            "text": "嘘を[騙して]通す。",
+            "translation": "Maintain a lie by deceiving.",
+            "kana": "だまして",
+            "reading": "うそ を だまして とおす。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "私は誰も[騙さない]。",
+            "translation": "I don't trick anyone.",
+            "kana": "だまさない",
+            "reading": "わたし は だれ も だまさない。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "決して[騙さない]と誓う。",
+            "translation": "I swear I will never deceive.",
+            "kana": "だまさない",
+            "reading": "けっして だまさない と ちかう。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "もう二度と[騙さない]で。",
+            "translation": "Please don't trick me ever again.",
+            "kana": "だまさない",
+            "reading": "もう にど と だまさない で。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "自分だけは[騙さない]。",
+            "translation": "I won't deceive only myself.",
+            "kana": "だまさない",
+            "reading": "じぶん だけ は だまさない。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "簡単に[騙さない]ように注意する。",
+            "translation": "Be careful not to be easily tricked.",
+            "kana": "だまさない",
+            "reading": "かんたん に だまさない ように ちゅうい する。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "誰も[騙さない]正直な人。",
+            "translation": "An honest person who tricks no one.",
+            "kana": "だまさない",
+            "reading": "だれ も だまさない しょうじきな ひと。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "客を[騙さない]商売。",
+            "translation": "A business that doesn't trick customers.",
+            "kana": "だまさない",
+            "reading": "きゃく を だまさない しょうばい。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "悪いことは[騙さない]。",
+            "translation": "I don't deceive about bad things.",
+            "kana": "だまさない",
+            "reading": "わるい こと は だまさない。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "味方を[騙さない]でくれ。",
+            "translation": "Please don't deceive your allies.",
+            "kana": "だまさない",
+            "reading": "みかた を だまさない で くれ。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "嘘で[騙さない]。",
+            "translation": "I don't deceive with lies.",
+            "kana": "だまさない",
+            "reading": "うそ で だまさない。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "あいつが俺を[騙した]。",
+            "translation": "That guy tricked me.",
+            "kana": "だました",
+            "reading": "あいつ が おれ を だました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "巧妙に世間を[騙した]。",
+            "translation": "They skillfully deceived the world.",
+            "kana": "だました",
+            "reading": "こうみょう に せけん を だました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "誰が彼を[騙した]んだ？",
+            "translation": "Who was it that tricked him?",
+            "kana": "だました",
+            "reading": "だれ が かれ を だました んだ？"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "まんまと[騙した]ぞ。",
+            "translation": "I successfully tricked them.",
+            "kana": "だました",
+            "reading": "まんまと だました ぞ。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "嘘をついて[騙した]罪。",
+            "translation": "The sin of lying and deceiving.",
+            "kana": "だました",
+            "reading": "うそ を ついて だました つみ。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "一瞬の隙に[騙した]。",
+            "translation": "I tricked them in a split second.",
+            "kana": "だました",
+            "reading": "いっしゅん の すき に だました。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "みんなを[騙した]報いだ。",
+            "translation": "It's the retribution for tricking everyone.",
+            "kana": "だました",
+            "reading": "みんな を だました むくい だ。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "親友を[騙した]ことが悔しい。",
+            "translation": "I regret tricking my best friend.",
+            "kana": "だました",
+            "reading": "しんゆう を だました こと が くやしい。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "笑顔で[騙した]んだね。",
+            "translation": "You tricked them with a smile, didn't you?",
+            "kana": "だました",
+            "reading": "えがお で だました んだ ね。"
+        },
+        {
+            "verb": "騙す (damasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "本物だと[騙した]。",
+            "translation": "They tricked (them) into thinking it was real.",
+            "kana": "だました",
+            "reading": "ほんもの だ と だました。"
+        }, {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "ゴミを[出します]。",
+            "translation": "I will take out the trash.",
+            "kana": "だします",
+            "reading": "ごみ を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "結論を[出します]。",
+            "translation": "I will reach a conclusion.",
+            "kana": "だします",
+            "reading": "けつろん を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "手紙を[出します]。",
+            "translation": "I will mail a letter.",
+            "kana": "だします",
+            "reading": "てがみ を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "本を[出します]。",
+            "translation": "I will publish a book.",
+            "kana": "だします",
+            "reading": "ほん を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "答えを[出します]。",
+            "translation": "I will give the answer.",
+            "kana": "だします",
+            "reading": "こたえ を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "熱を[出します]。",
+            "translation": "I will run a fever.",
+            "kana": "だします",
+            "reading": "ねつ を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "案を[出します]。",
+            "translation": "I will propose an idea.",
+            "kana": "だします",
+            "reading": "あん を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "力を[出します]。",
+            "translation": "I will put forth effort.",
+            "kana": "だします",
+            "reading": "ちから を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "大きな声を[出します]。",
+            "translation": "I will speak in a loud voice.",
+            "kana": "だします",
+            "reading": "おおきな こえ を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Present (Masu)",
+            "text": "宿題を[出します]。",
+            "translation": "I will hand in my homework.",
+            "kana": "だします",
+            "reading": "しゅくだい を だします。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "財布を[出しました]。",
+            "translation": "I took out my wallet.",
+            "kana": "だしました",
+            "reading": "さいふ を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "新製品を[出しました]。",
+            "translation": "We released a new product.",
+            "kana": "だしました",
+            "reading": "しんせいひん を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "条件を[出しました]。",
+            "translation": "I set out the conditions.",
+            "kana": "だしました",
+            "reading": "じょうけん を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "勇気を[出しました]。",
+            "translation": "I summoned my courage.",
+            "kana": "だしました",
+            "reading": "ゆうき を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "結果を[出しました]。",
+            "translation": "I produced results.",
+            "kana": "だしました",
+            "reading": "けっか を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "指示を[出しました]。",
+            "translation": "I issued instructions.",
+            "kana": "だしました",
+            "reading": "しじ を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "スピードを[出しました]。",
+            "translation": "I picked up speed.",
+            "kana": "だしました",
+            "reading": "すぴーど を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "クリーニングに[出しました]。",
+            "translation": "I sent it to the dry cleaners.",
+            "kana": "だしました",
+            "reading": "くりーにんぐ に だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "顔を[出しました]。",
+            "translation": "I showed my face.",
+            "kana": "だしました",
+            "reading": "かお を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "お茶を[出しました]。",
+            "translation": "I served tea.",
+            "kana": "だしました",
+            "reading": "おちゃ を だしました。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "手を[出して]ください。",
+            "translation": "Please hold out your hand.",
+            "kana": "だして",
+            "reading": "て を だして ください。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "お腹を[出して]寝る。",
+            "translation": "Sleep with your belly exposed.",
+            "kana": "だして",
+            "reading": "おなか を だして ねる。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "名前を[出して]呼ぶ。",
+            "translation": "Call out the name.",
+            "kana": "だして",
+            "reading": "なまえ を だして よぶ。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "火を[出して]料理する。",
+            "translation": "Produce fire and cook.",
+            "kana": "だして",
+            "reading": "ひ を だして りょうり する。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "本音を[出して]話す。",
+            "translation": "Speak your true feelings.",
+            "kana": "だして",
+            "reading": "ほんね を だして はなす。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "舌を[出して]笑う。",
+            "translation": "Stick out your tongue and laugh.",
+            "kana": "だして",
+            "reading": "した を だして わらう。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "店を[出して]商売する。",
+            "translation": "Open a shop and do business.",
+            "kana": "だして",
+            "reading": "みせ を だして しょうばい する。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "船を[出して]海へ行く。",
+            "translation": "Take out the boat and go to sea.",
+            "kana": "だして",
+            "reading": "ふね を だして うみ へ いく。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "広告を[出して]集客する。",
+            "translation": "Put out an ad and attract customers.",
+            "kana": "だして",
+            "reading": "こうこく を だして しゅうきゃく する。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Te-form",
+            "text": "勇気を[出して]告白する。",
+            "translation": "Summon courage and confess.",
+            "kana": "だして",
+            "reading": "ゆうき を だして こくはく する。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "ボロを[出さない]。",
+            "translation": "I won't show my flaws.",
+            "kana": "ださない",
+            "reading": "ぼろ を ださない。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "口を[出さない]で。",
+            "translation": "Don't interfere.",
+            "kana": "ださない",
+            "reading": "くち を ださない で。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "結論を[出さない]まま終わる。",
+            "translation": "End without reaching a conclusion.",
+            "kana": "ださない",
+            "reading": "けつろん を ださない まま おわる。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "一歩も外に[出さない]。",
+            "translation": "I won't let you take a single step outside.",
+            "kana": "ださない",
+            "reading": "いっぽ も そと に ださない。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "本を[出さない]作家。",
+            "translation": "An author who doesn't publish books.",
+            "kana": "ださない",
+            "reading": "ほん を ださない さっか。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "指示を[出さない]リーダー。",
+            "translation": "A leader who doesn't give instructions.",
+            "kana": "ださない",
+            "reading": "しじ を ださない りーだー。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "答えを[出さない]問題。",
+            "translation": "A problem that doesn't yield an answer.",
+            "kana": "ださない",
+            "reading": "こたえ を ださない もんだい。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "音を[出さない]ように歩く。",
+            "translation": "Walk so as not to make a sound.",
+            "kana": "ださない",
+            "reading": "お吐き を ださない ように あるく。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "熱を[出さない]ように気をつける。",
+            "translation": "Be careful not to run a fever.",
+            "kana": "ださない",
+            "reading": "ねつ を ださない ように き を つける。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "スピードを[出さない]で運転する。",
+            "translation": "Drive without speeding.",
+            "kana": "ださない",
+            "reading": "すぴーど を ださない で うんてん する。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "宿題を[出した]。",
+            "translation": "I handed in the homework.",
+            "kana": "だした",
+            "reading": "しゅくだい を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "答えを[出した]。",
+            "translation": "I gave the answer.",
+            "kana": "だした",
+            "reading": "こたえ を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "結論を[出した]。",
+            "translation": "I reached a conclusion.",
+            "kana": "だした",
+            "reading": "けつろん を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "本を[出した]。",
+            "translation": "I published a book.",
+            "kana": "だした",
+            "reading": "ほん を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "ゴミを[出した]？",
+            "translation": "Did you take out the trash?",
+            "kana": "だした",
+            "reading": "ごみ を だした？"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "勇気を[出した]。",
+            "translation": "I summoned my courage.",
+            "kana": "だした",
+            "reading": "ゆうき を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "スピードを[出した]。",
+            "translation": "I increased the speed.",
+            "kana": "だした",
+            "reading": "すぴーど を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "大きな声を[出した]。",
+            "translation": "I raised my voice.",
+            "kana": "だした",
+            "reading": "おおきな こえ を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "手紙を[出した]。",
+            "translation": "I mailed the letter.",
+            "kana": "だした",
+            "reading": "てがみ を だした。"
+        },
+        {
+            "verb": "出す (dasu)",
+            "tense": "Plain Past (Ta)",
+            "text": "熱を[出した]。",
+            "translation": "I ran a fever.",
+            "kana": "だした",
+            "reading": "ねつ を だした。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "買い物に[出かけます]。",
+            "translation": "I go out shopping.",
+            "kana": "でかけます",
+            "reading": "かいもの に でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "今から[出かけます]。",
+            "translation": "I'm going out now.",
+            "kana": "でかけます",
+            "reading": "いま から でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "散歩に[出かけます]。",
+            "translation": "I go out for a walk.",
+            "kana": "でかけます",
+            "reading": "さんぽ に でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "一緒に[出かけます]か？",
+            "translation": "Shall we go out together?",
+            "kana": "でかけます",
+            "reading": "いっしょ に でかけます か？"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "仕事に[出かけます]。",
+            "translation": "I leave for work.",
+            "kana": "でかけます",
+            "reading": "しごと に でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "旅行に[出かけます]。",
+            "translation": "I'm going on a trip.",
+            "kana": "でかけます",
+            "reading": "りょこう に でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "毎日[出かけます]。",
+            "translation": "I go out every day.",
+            "kana": "でかけます",
+            "reading": "まいにち でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "遊びに[出かけます]。",
+            "translation": "I go out to play/have fun.",
+            "kana": "でかけます",
+            "reading": "あそび に でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "一人で[出かけます]。",
+            "translation": "I go out alone.",
+            "kana": "でかけます",
+            "reading": "ひとり で でかけます。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Present (Masu)",
+            "text": "そろそろ[出かけます]ね。",
+            "translation": "I'll be heading out soon.",
+            "kana": "でかけます",
+            "reading": "そろそろ でかけます ね。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "朝早く[出かけました]。",
+            "translation": "I went out early in the morning.",
+            "kana": "でかけました",
+            "reading": "あさ はやく でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "家族と[出かけました]。",
+            "translation": "I went out with my family.",
+            "kana": "でかけました",
+            "reading": "かぞく と でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "どこへ[出かけました]か？",
+            "translation": "Where did you go?",
+            "kana": "でかけました",
+            "reading": "どこ へ でかけました か？"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "昨日[出かけました]。",
+            "translation": "I went out yesterday.",
+            "kana": "でかけました",
+            "reading": "きのう でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "公園へ[出かけました]。",
+            "translation": "I went out to the park.",
+            "kana": "でかけました",
+            "reading": "こうえん へ でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "急いで[出かけました]。",
+            "translation": "I left in a hurry.",
+            "kana": "でかけました",
+            "reading": "いそいで でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "遠くに[出かけました]。",
+            "translation": "I went somewhere far.",
+            "kana": "でかけました",
+            "reading": "とおく に でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "パーティーに[出かけました]。",
+            "translation": "I went out to a party.",
+            "kana": "でかけました",
+            "reading": "ぱーてぃー に でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "用事で[出かけました]。",
+            "translation": "I went out on an errand.",
+            "kana": "でかけました",
+            "reading": "ようじ で でかけました。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "さっき[出かけました]よ。",
+            "translation": "They went out just a while ago.",
+            "kana": "でかけました",
+            "reading": "さっき でかけました よ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "準備をして[出かけて]ください。",
+            "translation": "Please get ready and go out.",
+            "kana": "でかけて",
+            "reading": "じゅんび を して でかけて ください。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "帽子をかぶって[出かけて]いく。",
+            "translation": "Put on a hat and head out.",
+            "kana": "でかけて",
+            "reading": "ぼうし を かぶって でかけて いく。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "友達と[出かけて]楽しむ。",
+            "translation": "Go out with friends and enjoy.",
+            "kana": "でかけて",
+            "reading": "ともだち と でかけて たのしむ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "雨の中[出かけて]しまった。",
+            "translation": "I unfortunately went out in the rain.",
+            "kana": "でかけて",
+            "reading": "あめ の なか でかけて しまった。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "手ぶらで[出かけて]いい？",
+            "translation": "Is it okay to go out empty-handed?",
+            "kana": "でかけて",
+            "reading": "てぶら で でかけて いい？"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "寄り道して[出かけて]くる。",
+            "translation": "Take a detour and come back.",
+            "kana": "でかけて",
+            "reading": "よりみち して でかけて くる。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "おめかしして[出かけて]いく。",
+            "translation": "Dress up and head out.",
+            "kana": "でかけて",
+            "reading": "おめかし して でかけて いく。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "忘れ物をして[出かけて]しまった。",
+            "translation": "I went out and forgot something.",
+            "kana": "でかけて",
+            "reading": "わすれもの を して でかけて しまった。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "笑顔で[出かけて]いった。",
+            "translation": "They went out with a smile.",
+            "kana": "でかけて",
+            "reading": "えがお で でかけて いった。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Te-form",
+            "text": "慌てて[出かけて]転んだ。",
+            "translation": "I rushed out and fell down.",
+            "kana": "でかけて",
+            "reading": "あわてて でかけて ころんだ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "今日はどこにも[出かけない]。",
+            "translation": "I'm not going anywhere today.",
+            "kana": "でかけない",
+            "reading": "きょう は どこ に も でかけない。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "雨の日は[出かけない]ほうがいい。",
+            "translation": "It's better not to go out on rainy days.",
+            "kana": "でかけない",
+            "reading": "あめ の ひ は でかけない ほう が いい。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "夜は[出かけない]ようにしている。",
+            "translation": "I make it a point not to go out at night.",
+            "kana": "でかけない",
+            "reading": "よる は でかけない ように している。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "一人では[出かけない]。",
+            "translation": "I don't go out alone.",
+            "kana": "でかけない",
+            "reading": "ひとり で は でかけない。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ[出かけない]で。",
+            "translation": "Don't go out yet.",
+            "kana": "でかけない",
+            "reading": "まだ でかけない で。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "全然[出かけない]休日。",
+            "translation": "A holiday where I don't go out at all.",
+            "kana": "でかけない",
+            "reading": "ぜんぜん でかけない きゅうじつ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "用がないなら[出かけない]。",
+            "translation": "If there's no business, I won't go out.",
+            "kana": "でかけない",
+            "reading": "よう が ない なら でかけない。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "外に[出かけない]生活。",
+            "translation": "A life of not going outside.",
+            "kana": "でかけない",
+            "reading": "そと に でかけない せいかつ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "誰も[出かけない]。",
+            "translation": "Nobody is going out.",
+            "kana": "でかけない",
+            "reading": "だれ も でかけない。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "そんな格好で[出かけない]で。",
+            "translation": "Don't go out dressed like that.",
+            "kana": "でかけない",
+            "reading": "そんな かっこう で でかけない で。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "さっき[出かけた]よ。",
+            "translation": "They headed out just a moment ago.",
+            "kana": "でかけた",
+            "reading": "さっき でかけた よ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "買い物に[出かけた]きりだ。",
+            "translation": "They went out shopping and haven't returned.",
+            "kana": "でかけた",
+            "reading": "かいもの に でかけた きり だ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "どこへ[出かけた]の？",
+            "translation": "Where did you go out to?",
+            "kana": "でかけた",
+            "reading": "どこ へ でかけた の？"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "家族全員で[出かけた]。",
+            "translation": "The whole family went out.",
+            "kana": "でかけた",
+            "reading": "かぞく ぜんいん で でかけた。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "昨日[出かけた]場所。",
+            "translation": "The place I went to yesterday.",
+            "kana": "でかけた",
+            "reading": "きのう でかけた ばしょ。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "遠くまで[出かけた]。",
+            "translation": "I went out quite far.",
+            "kana": "でかけた",
+            "reading": "とおく まで でかけた。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "急いで[出かけた]跡がある。",
+            "translation": "There are signs of a hurried departure.",
+            "kana": "でかけた",
+            "reading": "いそいで でかけた あと が ある。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "旅行に[出かけた]友達。",
+            "translation": "A friend who went on a trip.",
+            "kana": "でかけた",
+            "reading": "りょこう に でかけた ともだち。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "気分転換に[出かけた]。",
+            "translation": "I went out for a change of pace.",
+            "kana": "でかけた",
+            "reading": "きぶんてんかん に でかけた。"
+        },
+        {
+            "verb": "出かける (dekakeru)",
+            "tense": "Plain Past (Ta)",
+            "text": "一人で[出かけた]はずだ。",
+            "translation": "They should have gone out alone.",
+            "kana": "でかけた",
+            "reading": "ひとり で でかけた はず だ。"
+        }, {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "料理が[できます]。",
+            "translation": "I can cook.",
+            "kana": "できます",
+            "reading": "りょうり が できます。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "新しい店が[できます]。",
+            "translation": "A new shop will be built.",
+            "kana": "できます",
+            "reading": "あたらしい みせ が できます。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "準備は[できます]か？",
+            "translation": "Will the preparations be ready?",
+            "kana": "できます",
+            "reading": "じゅんび は できます か？"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "日本語が少し[できます]。",
+            "translation": "I can speak a little Japanese.",
+            "kana": "できます",
+            "reading": "にほんご が すこし できます。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Present (Masu)",
+            "text": "明日なら[できます]。",
+            "translation": "I can do it if it's tomorrow.",
+            "kana": "できます",
+            "reading": "あした なら できます。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "宿題が[できました]。",
+            "translation": "The homework is finished.",
+            "kana": "できました",
+            "reading": "しゅくだい が できました。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "友達が[できました]。",
+            "translation": "I made a friend.",
+            "kana": "できました",
+            "reading": "ともだち が できました。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "夕食が[できました]よ。",
+            "translation": "Dinner is ready!",
+            "kana": "できました",
+            "reading": "ゆうしょく が できました よ。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "精一杯[できました]。",
+            "translation": "I was able to do my very best.",
+            "kana": "できました",
+            "reading": "せいいっぱい できました。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "いい経験が[できました]。",
+            "translation": "I was able to have a good experience.",
+            "kana": "できました",
+            "reading": "いい けいけん が できました。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Te-form",
+            "text": "自分に[できて]、彼にできないことはない。",
+            "translation": "There is nothing I can do that he cannot.",
+            "kana": "できて",
+            "reading": "じぶん に できて、かれ に できない こと は ない。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Te-form",
+            "text": "行列が[できて]いる。",
+            "translation": "A queue is forming.",
+            "kana": "できて",
+            "reading": "ぎょうれつ が できて いる。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Te-form",
+            "text": "新しく[できて]、まだ綺麗な建物。",
+            "translation": "A building that was newly built and is still beautiful.",
+            "kana": "できて",
+            "reading": "あたらしく できて、まだ きれいな たてもの。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Te-form",
+            "text": "準備が[できて]から連絡します。",
+            "translation": "I will contact you after the preparations are ready.",
+            "kana": "できて",
+            "reading": "じゅんび が できて から れんらく します。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Te-form",
+            "text": "仕事が[できて]嬉しい。",
+            "translation": "I'm happy that I can do the work.",
+            "kana": "できて",
+            "reading": "しごと が できて うれしい。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何も[できない]。",
+            "translation": "I can't do anything.",
+            "kana": "できない",
+            "reading": "なにも できない。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "我慢[できない]！",
+            "translation": "I can't stand it!",
+            "kana": "できない",
+            "reading": "がまん できない！"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ返事が[できない]。",
+            "translation": "I can't give an answer yet.",
+            "kana": "できない",
+            "reading": "まだ へんじ が できない。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "泳ぐことが[できない]。",
+            "translation": "I cannot swim.",
+            "kana": "できない",
+            "reading": "およぐ こと が できない。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "解決[できない]問題。",
+            "translation": "A problem that cannot be solved.",
+            "kana": "できない",
+            "reading": "かいけつ できない もんだい。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "やっと[できた]！",
+            "translation": "I finally did it!",
+            "kana": "できた",
+            "reading": "やっと できた！"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "傷が[できた]。",
+            "translation": "I got a wound/scratch.",
+            "kana": "できた",
+            "reading": "きず が できた。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "いい案が[できた]。",
+            "translation": "A good plan was made.",
+            "kana": "できた",
+            "reading": "いい あん が できた。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "急用が[できた]。",
+            "translation": "Something urgent came up.",
+            "kana": "できた",
+            "reading": "きゅうよう が できた。"
+        },
+        {
+            "verb": "できる (dekiru)",
+            "tense": "Plain Past (Ta)",
+            "text": "彼女が[できた]らしい。",
+            "translation": "I heard he got a girlfriend.",
+            "kana": "できた",
+            "reading": "かのじょ が できた らしい。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Present (Masu)",
+            "text": "部屋から[出ます]。",
+            "translation": "I leave the room.",
+            "kana": "でます",
+            "reading": "へや から でます。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Present (Masu)",
+            "text": "試合に[出ます]。",
+            "translation": "I will participate in the match.",
+            "kana": "でます",
+            "reading": "しあい に でます。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Present (Masu)",
+            "text": "電話に[出ます]。",
+            "translation": "I will answer the phone.",
+            "kana": "でます",
+            "reading": "でんわ に でます。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Present (Masu)",
+            "text": "涙が[出ます]。",
+            "translation": "Tears come out.",
+            "kana": "でます",
+            "reading": "なみだ が でます。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Present (Masu)",
+            "text": "テレビに[出ます]。",
+            "translation": "I will appear on TV.",
+            "kana": "でます",
+            "reading": "てれび に でます。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "外に[出ました]。",
+            "translation": "I went outside.",
+            "kana": "でました",
+            "reading": "そと に でました。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "結論が[出ました]。",
+            "translation": "The conclusion has come out.",
+            "kana": "でました",
+            "reading": "けつろん が でました。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "スピードが[出ました]。",
+            "translation": "Speed was gained.",
+            "kana": "でました",
+            "reading": "すぴーど が でました。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "お化けが[出ました]！",
+            "translation": "A ghost appeared!",
+            "kana": "でました",
+            "reading": "おばけ が でました！"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "大学を[出ました]。",
+            "translation": "I graduated from university.",
+            "kana": "でました",
+            "reading": "だいがく を でました。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Te-form",
+            "text": "前に[出て]ください。",
+            "translation": "Please step forward.",
+            "kana": "でて",
+            "reading": "まえ に でて ください。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Te-form",
+            "text": "家を[出て]駅へ行く。",
+            "translation": "Leave the house and go to the station.",
+            "kana": "でて",
+            "reading": "いえ を でて えき へ いく。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Te-form",
+            "text": "芽が[出て]きた。",
+            "translation": "The sprouts have started to come out.",
+            "kana": "でて",
+            "reading": "め が でて きた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Te-form",
+            "text": "熱が[出て]寝込む。",
+            "translation": "Have a fever and stay in bed.",
+            "kana": "でて",
+            "reading": "ねつ が でて ねこむ。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Te-form",
+            "text": "勇気が[出て]きた。",
+            "translation": "I'm starting to feel courageous.",
+            "kana": "でて",
+            "reading": "ゆうき が でて きた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "声が[出ない]。",
+            "translation": "My voice won't come out.",
+            "kana": "でない",
+            "reading": "こえ が でない。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "今日は外に[出ない]。",
+            "translation": "I won't go outside today.",
+            "kana": "でない",
+            "reading": "きょう は そと に でない。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "答えが[出ない]。",
+            "translation": "The answer doesn't come out.",
+            "kana": "でない",
+            "reading": "こたえ が でない。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "名前が思い出[出ない]。",
+            "translation": "The name won't come to mind.",
+            "kana": "でない",
+            "reading": "なまえ が おもいだせない。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何も[でない]よ。",
+            "translation": "Nothing is coming out.",
+            "kana": "でない",
+            "reading": "なにも でない よ。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Past (Ta)",
+            "text": "月が[出た]。",
+            "translation": "The moon appeared.",
+            "kana": "でた",
+            "reading": "つき が でた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Past (Ta)",
+            "text": "会議に[出た]。",
+            "translation": "I attended the meeting.",
+            "kana": "でた",
+            "reading": "かいぎ に でた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Past (Ta)",
+            "text": "ボロが[出た]。",
+            "translation": "The flaws/secrets came out.",
+            "kana": "でた",
+            "reading": "ぼろ が でた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Past (Ta)",
+            "text": "いい結果が[出た]。",
+            "translation": "A good result came out.",
+            "kana": "でた",
+            "reading": "いい けっか が でた。"
+        },
+        {
+            "verb": "出る (deru)",
+            "tense": "Plain Past (Ta)",
+            "text": "さっき家を[出た]ところだ。",
+            "translation": "I just left home.",
+            "kana": "でた",
+            "reading": "さっき いえ を でた ところ だ。"
+        }, {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "将来の夢を[描きます]。",
+            "translation": "I draw/visualize my future dreams.",
+            "kana": "えがきます",
+            "reading": "しょうらい の ゆめ を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "地図を[描きます]。",
+            "translation": "I draw a map.",
+            "kana": "えがきます",
+            "reading": "ちず を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "美しい風景を[描きます]。",
+            "translation": "I depict a beautiful landscape.",
+            "kana": "えがきます",
+            "reading": "うつくしい ふうけい を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "円を[描きます]。",
+            "translation": "I draw a circle.",
+            "kana": "えがきます",
+            "reading": "えん を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "物語を[描きます]。",
+            "translation": "I portray a story.",
+            "kana": "えがきます",
+            "reading": "ものがたり を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "理想の自分を[描きます]。",
+            "translation": "I envision my ideal self.",
+            "kana": "えがきます",
+            "reading": "りそう の じぶん を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "人の心情を[描きます]。",
+            "translation": "I describe human emotions.",
+            "kana": "えがきます",
+            "reading": "ひと の しんじょう を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "油絵で[描きます]。",
+            "translation": "I paint with oil colors.",
+            "kana": "えがきます",
+            "reading": "あぶらえ で えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "細部まで[描きます]。",
+            "translation": "I draw down to the fine details.",
+            "kana": "えがきます",
+            "reading": "さいぶ まで えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Present (Masu)",
+            "text": "日常を[描きます]。",
+            "translation": "I depict everyday life.",
+            "kana": "えがきます",
+            "reading": "にちじょう を えがきます。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "似顔絵を[描きました]。",
+            "translation": "I drew a portrait.",
+            "kana": "えがきました",
+            "reading": "にがおえ を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "放物線を[描きました]。",
+            "translation": "It traced a parabola.",
+            "kana": "えがきました",
+            "reading": "ほうぶつせん を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "昨日の出来事を[描きました]。",
+            "translation": "I depicted yesterday's events.",
+            "kana": "えがきました",
+            "reading": "きのう の できごと を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "大きな夢を[描きました]。",
+            "translation": "I envisioned a big dream.",
+            "kana": "えがきました",
+            "reading": "おおきな ゆめ を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "詳細な図面を[描きました]。",
+            "translation": "I drew a detailed blueprint.",
+            "kana": "えがきました",
+            "reading": "しょうさいな ずめん を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "漫画で[描きました]。",
+            "translation": "I drew it in a manga style.",
+            "kana": "えがきました",
+            "reading": "まんが で えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "壁に絵を[描きました]。",
+            "translation": "I drew a picture on the wall.",
+            "kana": "えがきました",
+            "reading": "かべ に え を えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "情熱的に[描きました]。",
+            "translation": "I depicted it passionately.",
+            "kana": "えがきました",
+            "reading": "じょうねつてき に えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "砂の上に[描きました]。",
+            "translation": "I drew it on the sand.",
+            "kana": "えがきました",
+            "reading": "すな の うえ に えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "心に[描きました]。",
+            "translation": "I pictured it in my mind.",
+            "kana": "えがきました",
+            "reading": "こころ に えがきました。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "地図を[描いて]説明する。",
+            "translation": "Draw a map and explain.",
+            "kana": "えがいて",
+            "reading": "ちず を えがいて せつめい する。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "夢を[描いて]努力する。",
+            "translation": "Envision a dream and work hard.",
+            "kana": "えがいて",
+            "reading": "ゆめ を えがいて どりょく する。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "円を[描いて]切る。",
+            "translation": "Draw a circle and cut it out.",
+            "kana": "えがいて",
+            "reading": "えん を えがいて きる。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "絵を[描いて]過ごす。",
+            "translation": "Spend time drawing pictures.",
+            "kana": "えがいて",
+            "reading": "え を えがいて すごす。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "未来を[描いて]ワクワクする。",
+            "translation": "Visualize the future and get excited.",
+            "kana": "えがいて",
+            "reading": "みらい を えがいて わくわく する。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "自由に[描いて]ください。",
+            "translation": "Please draw freely.",
+            "kana": "えがいて",
+            "reading": "じゆう に えがいて ください。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "情景を[描いて]伝える。",
+            "translation": "Depict the scene and convey it.",
+            "kana": "えがいて",
+            "reading": "じょうけい を えがいて つたえる。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "眉を[描いて]化粧を終える。",
+            "translation": "Draw eyebrows and finish makeup.",
+            "kana": "えがいて",
+            "reading": "まゆ を えがいて けしょう を おえる。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "理想を[描いて]止まない。",
+            "translation": "Never stop envisioning the ideal.",
+            "kana": "えがいて",
+            "reading": "りそう を えがいて やまない。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Te-form",
+            "text": "サインを[描いて]もらう。",
+            "translation": "Get (someone) to draw a signature/sketch.",
+            "kana": "えがいて",
+            "reading": "さいん を えがいて もらう。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "嘘を[描かない]。",
+            "translation": "I don't depict lies.",
+            "kana": "えがかない",
+            "reading": "うそ を えがかない。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "夢を[描かない]人。",
+            "translation": "A person who doesn't envision dreams.",
+            "kana": "えがかない",
+            "reading": "ゆめ を えがかない ひと。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "円を上手く[描けない]。",
+            "translation": "I can't draw a circle well.",
+            "kana": "えがけない",
+            "reading": "えん を うまく えがけない。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "現実を[描かない]映画。",
+            "translation": "A movie that doesn't depict reality.",
+            "kana": "えがかない",
+            "reading": "げんじつ を えがかない えいが。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何も[描かない]紙。",
+            "translation": "A paper with nothing drawn on it.",
+            "kana": "えがかない",
+            "reading": "なにも えがかない かみ。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "未来を[描かない]のは怖い。",
+            "translation": "It's scary not to envision the future.",
+            "kana": "えがかない",
+            "reading": "みらい を えがかない の は こわい。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "詳しく[描かない]でいい。",
+            "translation": "You don't need to draw it in detail.",
+            "kana": "えがかない",
+            "reading": "くわしく えがかない で いい。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "景色を[描かない]画家。",
+            "translation": "A painter who doesn't paint landscapes.",
+            "kana": "え g かない",
+            "reading": "けしき を えがかない がか。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "希望を[描かない]物語。",
+            "translation": "A story that doesn't portray hope.",
+            "kana": "えがかない",
+            "reading": "きぼう を えがかない ものがたり。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "眉を[描かない]で外出する。",
+            "translation": "Go out without drawing eyebrows.",
+            "kana": "えがかない",
+            "reading": "まゆ を えがかない で がいしゅつ する。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "地図を[描いた]。",
+            "translation": "I drew a map.",
+            "kana": "えがいた",
+            "reading": "ちず を えがいた。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "夢を[描いた]あの日。",
+            "translation": "That day when I envisioned my dream.",
+            "kana": "えがいた",
+            "reading": "ゆめ を えがいた あの ひ。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "放物線を[描いた]ボール。",
+            "translation": "A ball that traced a parabola.",
+            "kana": "えがいた",
+            "reading": "ほうぶつせん を えがいた ぼーる。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "心に[描いた]世界。",
+            "translation": "The world I pictured in my heart.",
+            "kana": "えがいた",
+            "reading": "こころ に えがいた せかい。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "円を[描いた]跡。",
+            "translation": "The mark where a circle was drawn.",
+            "kana": "えがいた",
+            "reading": "えん を えがいた あと。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "作家が[描いた]真実。",
+            "translation": "The truth depicted by the author.",
+            "kana": "えがいた",
+            "reading": "さっか が えがいた しんじつ。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "絵の具で[描いた]。",
+            "translation": "I drew it with paints.",
+            "kana": "えがいた",
+            "reading": "えのぐ で えがいた。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "未来図を[描いた]。",
+            "translation": "I drew a map for the future.",
+            "kana": "えがいた",
+            "reading": "みらいず を えがいた。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "鮮明に[描いた]。",
+            "translation": "I depicted it vividly.",
+            "kana": "えがいた",
+            "reading": "せんめい に えがいた。"
+        },
+        {
+            "verb": "描く (egaku)",
+            "tense": "Plain Past (Ta)",
+            "text": "眉を[描いた]？",
+            "translation": "Did you draw your eyebrows?",
+            "kana": "えがいた",
+            "reading": "まゆ を えがいた？"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "好きな色を[選びます]。",
+            "translation": "I will choose the color I like.",
+            "kana": "えらびます",
+            "reading": "すきな いろ を えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "リーダーを[選びます]。",
+            "translation": "We will choose a leader.",
+            "kana": "えらびます",
+            "reading": "りーだー を えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "言葉を[選びます]。",
+            "translation": "I will choose my words carefully.",
+            "kana": "えらびます",
+            "reading": "ことば を えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "どれを[選びます]か？",
+            "translation": "Which one will you choose?",
+            "kana": "えらびます",
+            "reading": "どれ を えらびます か？"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "慎重に[選びます]。",
+            "translation": "I will choose cautiously.",
+            "kana": "えらびます",
+            "reading": "しんちょう に えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "メニューから[選びます]。",
+            "translation": "I will choose from the menu.",
+            "kana": "えらびます",
+            "reading": "めにゅー から えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "新しい道を[選びます]。",
+            "translation": "I will choose a new path.",
+            "kana": "えらびます",
+            "reading": "あたらしい みち を えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "プレゼントを[選びます]。",
+            "translation": "I will pick out a present.",
+            "kana": "えらびます",
+            "reading": "ぷれぜんと を えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "自分を[選びます]か？",
+            "translation": "Will you choose yourself?",
+            "kana": "えらびます",
+            "reading": "じぶん を えらびます か？"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Present (Masu)",
+            "text": "基準で[選びます]。",
+            "translation": "I will choose based on criteria.",
+            "kana": "えらびます",
+            "reading": "きじゅん で えらびます。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "これを[選びました]。",
+            "translation": "I chose this.",
+            "kana": "えらびました",
+            "reading": "これ を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "彼を[選びました]。",
+            "translation": "I chose him.",
+            "kana": "えらびました",
+            "reading": "かれ を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "結局どっちを[選びました]か？",
+            "translation": "Which one did you choose in the end?",
+            "kana": "えらびました",
+            "reading": "けっきょく どっち を えらびました か？"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "難しい方を[選びました]。",
+            "translation": "I chose the difficult one.",
+            "kana": "えらびました",
+            "reading": "むずかしい ほう を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "服を[選びました]。",
+            "translation": "I picked out some clothes.",
+            "kana": "えらびました",
+            "reading": "ふく を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "市長を[選びました]。",
+            "translation": "We elected a mayor.",
+            "kana": "えらびました",
+            "reading": "しちょう を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "最良の策を[選びました]。",
+            "translation": "I chose the best plan.",
+            "kana": "えらびました",
+            "reading": "さいりょう の さく を えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "ランダムに[選びました]。",
+            "translation": "I chose at random.",
+            "kana": "えらびました",
+            "reading": "らんだむ に えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "一足先に[選びました]。",
+            "translation": "I chose it a step ahead of others.",
+            "kana": "えらびました",
+            "reading": "ひとあしさき に えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "理由があって[選びました]。",
+            "translation": "I chose it for a reason.",
+            "kana": "えらびました",
+            "reading": "りゆう が あって えらびました。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "よく[選んで]ください。",
+            "translation": "Please choose carefully.",
+            "kana": "えらんで",
+            "reading": "よく えらんで ください。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "服を[選んで]あげる。",
+            "translation": "I'll pick out clothes for you.",
+            "kana": "えらんで",
+            "reading": "ふく を えらんで あげる。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "道を[選んで]進む。",
+            "translation": "Choose a path and move forward.",
+            "kana": "えらんで",
+            "reading": "みち を えらんで すすむ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "言葉を[選んで]話す。",
+            "translation": "Speak while choosing words carefully.",
+            "kana": "えらんで",
+            "reading": "ことば を えらんで はなす。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "自分を[選んで]くれてありがとう。",
+            "translation": "Thank you for choosing me.",
+            "kana": "えらんで",
+            "reading": "じぶん を えらんで くれて ありがとう。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "一つを[選んで]取ってください。",
+            "translation": "Pick one and take it.",
+            "kana": "えらんで",
+            "reading": "ひとつ を えらんで とって ください。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "時間を[選んで]連絡する。",
+            "translation": "Choose a time and contact.",
+            "kana": "えらんで",
+            "reading": "じかん を えらんで れんらく する。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "カードを[選んで]見せる。",
+            "translation": "Pick a card and show it.",
+            "kana": "えらんで",
+            "reading": "かーど を えらんで みせる。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "基準を[選んで]設定する。",
+            "translation": "Choose criteria and set them up.",
+            "kana": "えらんで",
+            "reading": "きじゅん を えらんで せってい する。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Te-form",
+            "text": "迷って[選んで]しまった。",
+            "translation": "I hesitated but ended up choosing it.",
+            "kana": "えらんで",
+            "reading": "まよって えらんで しまった。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "誰も[選ばない]。",
+            "translation": "I won't choose anyone.",
+            "kana": "えらばない",
+            "reading": "だれ も えらばない。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "手段を[選ばない]。",
+            "translation": "Use any means necessary (not choosing methods).",
+            "kana": "えらばない",
+            "reading": "しゅだん を えらばない。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "場所を[選ばない]仕事。",
+            "translation": "A job that can be done anywhere.",
+            "kana": "えらばない",
+            "reading": "ばしょ を えらばない しごと。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ[選ばない]ほうがいい。",
+            "translation": "It's better not to choose yet.",
+            "kana": "えらばない",
+            "reading": "まだ えらばない ほう が いい。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "これだけは[選ばない]。",
+            "translation": "I will never choose this one.",
+            "kana": "えらばない",
+            "reading": "これ だけ は えらばない。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "妥協を[選ばない]。",
+            "translation": "I will not choose to compromise.",
+            "kana": "えらばない",
+            "reading": "だきょう を えらばない。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "相手を[選ばない]。",
+            "translation": "I don't discriminate against who I deal with.",
+            "kana": "えらばない",
+            "reading": "あいて を えらばない。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "そんな服[選ばない]よ。",
+            "translation": "I wouldn't choose those clothes.",
+            "kana": "えらばない",
+            "reading": "そんな ふく えらばない よ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "一人を[選ばない]理由。",
+            "translation": "The reason for not choosing one person.",
+            "kana": "えらばない",
+            "reading": "ひとり を えらばない りゆう。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "適当に[選ばない]で。",
+            "translation": "Please don't choose at random.",
+            "kana": "えらばない",
+            "reading": "てきとう に えらばない で。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "昨日[選んだ]服。",
+            "translation": "The clothes I chose yesterday.",
+            "kana": "えらんだ",
+            "reading": "きのう えらんだ ふく。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "誰がこれを[選んだ]の？",
+            "translation": "Who chose this?",
+            "kana": "えらんだ",
+            "reading": "だれ が これ を えらんだ の？"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "最悪の道を[選んだ]。",
+            "translation": "I chose the worst path.",
+            "kana": "えらんだ",
+            "reading": "さいあく の みち を えらんだ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "宝物を[選んだ]気分だ。",
+            "translation": "I feel like I've chosen a treasure.",
+            "kana": "えらんだ",
+            "reading": "たからもの を えらんだ きぶん だ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "名前で[選んだ]。",
+            "translation": "I chose it by name.",
+            "kana": "えらんだ",
+            "reading": "なまえ で えらんだ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "慎重に[選んだ]はずだ。",
+            "translation": "I should have chosen carefully.",
+            "kana": "えらんだ",
+            "reading": "しんちょう に えらんだ はず だ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "彼は退職を[選んだ]。",
+            "translation": "He chose to resign.",
+            "kana": "えらんだ",
+            "reading": "かれ は たいしょく を えらんだ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "正解を[選んだ]。",
+            "translation": "I chose the correct answer.",
+            "kana": "えらんだ",
+            "reading": "せいかい を えらんだ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "色で[選んだ]だけだ。",
+            "translation": "I only chose it for the color.",
+            "kana": "えらんだ",
+            "reading": "いろ で えらんだ だけ だ。"
+        },
+        {
+            "verb": "選ぶ (erabu)",
+            "tense": "Plain Past (Ta)",
+            "text": "運命が[選んだ]道。",
+            "translation": "The path chosen by fate.",
+            "kana": "えらんだ",
+            "reading": "うんめい が えらんだ みち。"
+        }, {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "新しい知識を[得ます]。",
+            "translation": "I gain new knowledge.",
+            "kana": "えます",
+            "reading": "あたらしい ちしき を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "許可を[得ます]。",
+            "translation": "I will obtain permission.",
+            "kana": "えます",
+            "reading": "きょか を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "信頼を[得ます]。",
+            "translation": "I earn trust.",
+            "kana": "えます",
+            "reading": "しんらい を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "利益を[得ます]。",
+            "translation": "I make a profit.",
+            "kana": "えます",
+            "reading": "りえき を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "情報を[得ます]。",
+            "translation": "I get information.",
+            "kana": "えます",
+            "reading": "じょうほう を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "確信を[得ます]。",
+            "translation": "I gain confidence/conviction.",
+            "kana": "えます",
+            "reading": "かくしん を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "市民権を[得ます]。",
+            "translation": "It gains social acceptance (citizenship).",
+            "kana": "えます",
+            "reading": "しみんけん を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "同意を[得ます]。",
+            "translation": "I will get consent.",
+            "kana": "えます",
+            "reading": "どうい を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "ヒントを[得ます]。",
+            "translation": "I get a hint.",
+            "kana": "えます",
+            "reading": "ひんと を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Present (Masu)",
+            "text": "満足を[得ます]。",
+            "translation": "I derive satisfaction.",
+            "kana": "えます",
+            "reading": "まんぞく を えます。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "多くの経験を[得ました]。",
+            "translation": "I gained a lot of experience.",
+            "kana": "えました",
+            "reading": "おおく の けいけん を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "高い評価を[得ました]。",
+            "translation": "I received a high evaluation.",
+            "kana": "えました",
+            "reading": "たかい ひょうか を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "承認を[得ました]。",
+            "translation": "I obtained approval.",
+            "kana": "えました",
+            "reading": "しょうにん を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "勇気を[得ました]。",
+            "translation": "I gained courage.",
+            "kana": "えました",
+            "reading": "ゆうき を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "富を[得ました]。",
+            "translation": "I acquired wealth.",
+            "kana": "えました",
+            "reading": "とみ を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "自由を[得ました]。",
+            "translation": "I gained freedom.",
+            "kana": "えました",
+            "reading": "じゆう を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "結果を[得ました]。",
+            "translation": "I obtained results.",
+            "kana": "えました",
+            "reading": "けっか を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "地位を[得ました]。",
+            "translation": "I attained a position.",
+            "kana": "えました",
+            "reading": "ちい を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "理解を[得ました]。",
+            "translation": "I gained understanding.",
+            "kana": "えました",
+            "reading": "りかい を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "チャンスを[得ました]。",
+            "translation": "I got a chance.",
+            "kana": "えました",
+            "reading": "ちゃんす を えました。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "許可を[得て]入館する。",
+            "translation": "Obtain permission and enter the building.",
+            "kana": "えて",
+            "reading": "きょか を えて にゅうかん する。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "情報を[得て]判断する。",
+            "translation": "Get information and make a judgment.",
+            "kana": "えて",
+            "reading": "じょうほう を えて はんだん する。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "信頼を[得て]成功した。",
+            "translation": "I gained trust and succeeded.",
+            "kana": "えて",
+            "reading": "しんらい を えて せいこう した。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "経験を[得て]成長する。",
+            "translation": "Gain experience and grow.",
+            "kana": "えて",
+            "reading": "けいけん を えて せいちょう する。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "ヒントを[得て]解決する。",
+            "translation": "Get a hint and solve the problem.",
+            "kana": "えて",
+            "reading": "ひんと を えて かいけつ する。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "富を[得て]贅沢する。",
+            "translation": "Acquire wealth and live luxuriously.",
+            "kana": "えて",
+            "reading": "とみ を えて ぜいたく する。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "確信を[得て]話す。",
+            "translation": "Gain conviction and speak.",
+            "kana": "えて",
+            "reading": "かくしん を えて はなす。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "同意を[得て]進める。",
+            "translation": "Get consent and proceed.",
+            "kana": "えて",
+            "reading": "どうい を えて すすめる。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "栄養を[得て]生きる。",
+            "translation": "Obtain nutrition and live.",
+            "kana": "えて",
+            "reading": "えいよう を えて いきる。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Te-form",
+            "text": "地位を[得て]威張る。",
+            "translation": "Gain a position and act big.",
+            "kana": "えて",
+            "reading": "ちい を えて いばる。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何も[得ない]。",
+            "translation": "I gain nothing.",
+            "kana": "えない",
+            "reading": "なにも えない。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "許可を[得ない]で入るな。",
+            "translation": "Don't enter without getting permission.",
+            "kana": "えない",
+            "reading": "きょか を えない で はいるな。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "理解を[得ない]行動。",
+            "translation": "An action that does not gain understanding.",
+            "kana": "えない",
+            "reading": "りかい を えない こうどう。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "利益を[得ない]仕事。",
+            "translation": "Work that doesn't yield profit.",
+            "kana": "えない",
+            "reading": "りえき を えない しごと。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "信頼を[得ない]嘘つき。",
+            "translation": "A liar who gains no trust.",
+            "kana": "えない",
+            "reading": "しんらい を えない うそつき。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "情報を[得ない]と困る。",
+            "translation": "It's a problem if I don't get information.",
+            "kana": "えない",
+            "reading": "じょうほう を えない と こまる。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "満足を[得ない]まま帰る。",
+            "translation": "Return without gaining satisfaction.",
+            "kana": "えない",
+            "reading": "まんぞく を えない まま かえる。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "確証を[得ない]話。",
+            "translation": "A story that hasn't gained corroboration.",
+            "kana": "えない",
+            "reading": "かくしょう を えない はなし。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "地位を[得ない]道を選ぶ。",
+            "translation": "Choose a path that doesn't lead to status.",
+            "kana": "えない",
+            "reading": "ちい を えない みち を えらぶ。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "賛成を[得ない]提案。",
+            "translation": "A proposal that doesn't gain support.",
+            "kana": "えない",
+            "reading": "さんせい を えない ていあん。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "知識を[得た]。",
+            "translation": "I gained knowledge.",
+            "kana": "えた",
+            "reading": "ちしき を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "同意を[得た]。",
+            "translation": "I got consent.",
+            "kana": "えた",
+            "reading": "どうい を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "チャンスを[得た]。",
+            "translation": "I got a chance.",
+            "kana": "えた",
+            "reading": "ちゃんす を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "市民権を[得た]言葉。",
+            "translation": "A word that gained social acceptance.",
+            "kana": "えた",
+            "reading": "しみんけん を えた ことば。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "大きな富を[得た]。",
+            "translation": "I acquired great wealth.",
+            "kana": "えた",
+            "reading": "おおきな とみ を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "信頼を[得た]リーダー。",
+            "translation": "A leader who gained trust.",
+            "kana": "えた",
+            "reading": "しんらい を えた りーだー。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "ついに自由を[得た]。",
+            "translation": "I finally gained freedom.",
+            "kana": "えた",
+            "reading": "ついに じゆう を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "確信を[得た]瞬間。",
+            "translation": "The moment I gained conviction.",
+            "kana": "えた",
+            "reading": "かくしん を えた しゅんかん。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "いい結果を[得た]。",
+            "translation": "I got a good result.",
+            "kana": "えた",
+            "reading": "いい けっか を えた。"
+        },
+        {
+            "verb": "得る (eru)",
+            "tense": "Plain Past (Ta)",
+            "text": "情報を[得た]か？",
+            "translation": "Did you get the information?",
+            "kana": "えた",
+            "reading": "じょうほう を えた か？"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "風が[吹きます]。",
+            "translation": "The wind blows.",
+            "kana": "ふきます",
+            "reading": "かぜ が ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "口笛を[吹きます]。",
+            "translation": "I whistle.",
+            "kana": "ふきます",
+            "reading": "くちぶえ を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "トランペットを[吹きます]。",
+            "translation": "I play the trumpet.",
+            "kana": "ふきます",
+            "reading": "とらんぺっと を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "シャボン玉を[吹きます]。",
+            "translation": "I blow soap bubbles.",
+            "kana": "ふきます",
+            "reading": "しゃぼんだま を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "ホコリを[吹きます]。",
+            "translation": "I blow away the dust.",
+            "kana": "ふきます",
+            "reading": "ほこり を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "熱いお茶を[吹きます]。",
+            "translation": "I blow on hot tea.",
+            "kana": "ふきます",
+            "reading": "あつい おちゃ を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "法螺を[吹きます]。",
+            "translation": "I talk big (blow a conch).",
+            "kana": "ふきます",
+            "reading": "ほら を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "春の風が[吹きます]ね。",
+            "translation": "The spring wind is blowing, isn't it?",
+            "kana": "ふきます",
+            "reading": "はる の かぜ が ふきます ね。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "ロウソクを[吹きます]。",
+            "translation": "I blow out the candle.",
+            "kana": "ふきます",
+            "reading": "ろうそく を ふきます。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Present (Masu)",
+            "text": "強く[吹きます]か？",
+            "translation": "Does it blow strongly?",
+            "kana": "ふきます",
+            "reading": "つよく ふきます か？"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "そよ風が[吹きました]。",
+            "translation": "A gentle breeze blew.",
+            "kana": "ふきました",
+            "reading": "そよかぜ が ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "口笛を[吹きました]。",
+            "translation": "I whistled.",
+            "kana": "ふきました",
+            "reading": "くちぶえ を ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "フルートを[吹きました]。",
+            "translation": "I played the flute.",
+            "kana": "ふきました",
+            "reading": "ふるーと を ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "風が激しく[吹きました]。",
+            "translation": "The wind blew violently.",
+            "kana": "ふきました",
+            "reading": "かぜ が はげしく ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "火を[吹きました]。",
+            "translation": "It breathed fire.",
+            "kana": "ふきました",
+            "reading": "ひ を ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "大きなシャボン玉を[吹きました]。",
+            "translation": "I blew a big soap bubble.",
+            "kana": "ふきました",
+            "reading": "おおきな しゃぼんだま を ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "埃を[吹きました]か？",
+            "translation": "Did you blow off the dust?",
+            "kana": "ふきました",
+            "reading": "ほこり を ふきました か？"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "昨晩は嵐が[吹きました]。",
+            "translation": "A storm blew last night.",
+            "kana": "ふきました",
+            "reading": "さくばん は あらし が ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "冷たい風が[吹きました]。",
+            "translation": "A cold wind blew.",
+            "kana": "ふきました",
+            "reading": "つめたい かぜ が ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Polite Past (Mashita)",
+            "text": "一息に[吹きました]。",
+            "translation": "I blew it in one breath.",
+            "kana": "ふきました",
+            "reading": "ひといき に ふきました。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "口笛を[吹いて]呼ぶ。",
+            "translation": "Call (someone) by whistling.",
+            "kana": "ふいて",
+            "reading": "くちぶえ を ふいて よぶ。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "風が[吹いて]涼しい。",
+            "translation": "The wind is blowing and it's cool.",
+            "kana": "ふいて",
+            "reading": "かぜ が ふいて すずしい。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "笛を[吹いて]行進する。",
+            "translation": "March while playing the flute.",
+            "kana": "ふいて",
+            "reading": "ふえ を ふいて こうしん する。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "熱いスープを[吹いて]飲む。",
+            "translation": "Blow on hot soup and drink it.",
+            "kana": "ふいて",
+            "reading": "あつい すーぷ を ふいて のむ。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "ロウソクを[吹いて]消す。",
+            "translation": "Blow out the candle.",
+            "kana": "ふいて",
+            "reading": "ろうそく を ふいて けす。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "埃を[吹いて]飛ばす。",
+            "translation": "Blow away the dust.",
+            "kana": "ふいて",
+            "reading": "ほこり を ふいて とばす。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "風が[吹いて]葉が舞う。",
+            "translation": "The wind blows and leaves dance.",
+            "kana": "ふいて",
+            "reading": "かぜ が ふいて は が まう。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "シャボン玉を[吹いて]遊ぶ。",
+            "translation": "Play by blowing bubbles.",
+            "kana": "ふいて",
+            "reading": "しゃぼんだま を ふいて あそぶ。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "法螺を[吹いて]笑われる。",
+            "translation": "Talk big and get laughed at.",
+            "kana": "ふいて",
+            "reading": "ほら を ふいて わらわれる。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Te-form",
+            "text": "思い切り[吹いて]ください。",
+            "translation": "Please blow with all your might.",
+            "kana": "ふいて",
+            "reading": "おもいきり ふいて ください。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "風が[吹かない]。",
+            "translation": "The wind doesn't blow.",
+            "kana": "ふかない",
+            "reading": "かぜ が ふかない。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "口笛を[吹かない]で。",
+            "translation": "Don't whistle.",
+            "kana": "ふかない",
+            "reading": "くちぶえ を ふかない で。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "笛を上手く[吹けない]。",
+            "translation": "I can't play the flute well.",
+            "kana": "ふけない",
+            "reading": "ふえ を うまく ふけない。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "ロウソクが[吹かない]と消えない。",
+            "translation": "The candle won't go out if I don't blow on it.",
+            "kana": "ふかない",
+            "reading": "ろうそく が ふかない と きえない。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "今日は風が[吹かない]ね。",
+            "translation": "The wind isn't blowing today, is it?",
+            "kana": "ふかない",
+            "reading": "きょう は かぜ が ふかない ね。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "強く[吹かない]ように気をつける。",
+            "translation": "Be careful not to blow too hard.",
+            "kana": "ふかない",
+            "reading": "つよく ふかない ように き を つける。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "法螺は[吹かない]主義だ。",
+            "translation": "It's my principle not to talk big.",
+            "kana": "ふかない",
+            "reading": "ほら は ふかない しゅぎ だ。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "全然[吹かない]。",
+            "translation": "It doesn't blow at all.",
+            "kana": "ふかない",
+            "reading": "ぜんぜん ふかない。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "埃を[吹かない]ほうがいい。",
+            "translation": "It's better not to blow the dust.",
+            "kana": "ふかない",
+            "reading": "ほこり を ふかない ほう が いい。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ笛を[吹かない]でください。",
+            "translation": "Please don't play the flute yet.",
+            "kana": "ふかない",
+            "reading": "まだ ふえ を ふかない で ください。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "強い風が[吹いた]。",
+            "translation": "A strong wind blew.",
+            "kana": "ふいた",
+            "reading": "つよい かぜ が ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "口笛を[吹いた]のは誰？",
+            "translation": "Who was it that whistled?",
+            "kana": "ふいた",
+            "reading": "くちぶえ を ふいた の は だれ？"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "ロウソクを[吹いた]。",
+            "translation": "I blew out the candle.",
+            "kana": "ふいた",
+            "reading": "ろうそく を ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "埃を[吹いた]。",
+            "translation": "I blew off the dust.",
+            "kana": "ふいた",
+            "reading": "ほこり を ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "サックスを[吹いた]。",
+            "translation": "I played the sax.",
+            "kana": "ふいた",
+            "reading": "さっくす を ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "新風が[吹いた]。",
+            "translation": "A new wind blew (metaphorically).",
+            "kana": "ふいた",
+            "reading": "しんぷう が ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "思い切り[吹いた]。",
+            "translation": "I blew with all my might.",
+            "kana": "ふいた",
+            "reading": "おもいきり ふいた。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "シャボン玉が[吹いた]風に乗る。",
+            "translation": "The soap bubble rides the wind it was blown into.",
+            "kana": "ふいた",
+            "reading": "しゃぼんだま が ふいた かぜ に のる。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "冷たい風が[吹いた]朝。",
+            "translation": "The morning a cold wind blew.",
+            "kana": "ふいた",
+            "reading": "つめたい かぜ が ふいた あさ。"
+        },
+        {
+            "verb": "吹く (fuku)",
+            "tense": "Plain Past (Ta)",
+            "text": "法螺を[吹いた]だろ。",
+            "translation": "You talked big, didn't you?",
+            "kana": "ふいた",
+            "reading": "ほら を ふいた だろ。"
+        }, {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "税金を[含みます]。",
+            "translation": "It includes tax.",
+            "kana": "ふくみます",
+            "reading": "ぜいきん を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "ビタミンを多く[含みます]。",
+            "translation": "It contains a lot of vitamins.",
+            "kana": "ふくみます",
+            "reading": "びたみん を おおく ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "水分を[含みます]。",
+            "translation": "It contains moisture.",
+            "kana": "ふくみます",
+            "reading": "すいぶん を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "手数料も[含みます]か？",
+            "translation": "Does it include the handling fee?",
+            "kana": "ふくみます",
+            "reading": "てすうりょう も ふくみます か？"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "皮肉を[含みます]。",
+            "translation": "It contains irony.",
+            "kana": "ふくみます",
+            "reading": "ひにく を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "意味を[含みます]。",
+            "translation": "It contains meaning.",
+            "kana": "ふくみます",
+            "reading": "いみ を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "例外を[含みます]。",
+            "translation": "It includes exceptions.",
+            "kana": "ふくみます",
+            "reading": "れいがい を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "塩分を[含みます]。",
+            "translation": "It contains salt.",
+            "kana": "ふくみます",
+            "reading": "えんぶん を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "全員[含みます]。",
+            "translation": "It includes everyone.",
+            "kana": "ふくみます",
+            "reading": "ぜんいん ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Present (Masu)",
+            "text": "諸経費を[含みます]。",
+            "translation": "It includes various expenses.",
+            "kana": "ふくみます",
+            "reading": "しょけいひ を ふくみます。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "送料を[含みました]。",
+            "translation": "I included the shipping cost.",
+            "kana": "ふくみました",
+            "reading": "そうりょう を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "毒を[含みました]。",
+            "translation": "It contained poison.",
+            "kana": "ふくみました",
+            "reading": "どく を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "彼をメンバーに[含みました]。",
+            "translation": "I included him in the members.",
+            "kana": "ふくみました",
+            "reading": "かれ を めんばー に ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "怒りを[含みました]。",
+            "translation": "It contained anger.",
+            "kana": "ふくみました",
+            "reading": "いかり を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "それも計算に[含みました]。",
+            "translation": "I included that in the calculation too.",
+            "kana": "ふくみました",
+            "reading": "それ も けいさん に ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "糖分を多く[含みました]。",
+            "translation": "It contained a lot of sugar.",
+            "kana": "ふくみました",
+            "reading": "とうぶん を おおく ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "涙を[含みました]。",
+            "translation": "Eyes welled up with tears (contained tears).",
+            "kana": "ふくみました",
+            "reading": "なみだ を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "含意を[含みました]。",
+            "translation": "It contained implications.",
+            "kana": "ふくみました",
+            "reading": "がんい を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "この分を[含みました]か？",
+            "translation": "Did you include this portion?",
+            "kana": "ふくみました",
+            "reading": "この ぶん を ふくみました か？"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Polite Past (Mashita)",
+            "text": "全額を[含みました]。",
+            "translation": "It included the full amount.",
+            "kana": "ふくみました",
+            "reading": "ぜんがく を ふくみました。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "水を口に[含んで]ください。",
+            "translation": "Please hold water in your mouth.",
+            "kana": "ふくんで",
+            "reading": "みず を くち に ふくんで ください。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "私を[含んで]五人です。",
+            "translation": "There are five people, including me.",
+            "kana": "ふくんで",
+            "reading": "わたし を ふくんで ごにん です。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "意味を[含んで]笑う。",
+            "translation": "Smile meaningfully (containing meaning).",
+            "kana": "ふくんで",
+            "reading": "いみ を ふくんで わらう。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "水分を[含んで]重くなる。",
+            "translation": "Become heavy containing moisture.",
+            "kana": "ふくんで",
+            "reading": "すいぶん を ふくんで おもく なる。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "将来を[含んで]考える。",
+            "translation": "Think while including the future.",
+            "kana": "ふくんで",
+            "reading": "しょうらい を ふくんで かんがえる。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "皮肉を[含んで]言う。",
+            "translation": "Speak sarcastically (containing irony).",
+            "kana": "ふくんで",
+            "reading": "ひにく を ふくんで いう。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "全員を[含んで]移動する。",
+            "translation": "Move while including everyone.",
+            "kana": "ふくんで",
+            "reading": "ぜんいん を ふくんで いどう する。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "条件を[含んで]契約する。",
+            "translation": "Contract while including conditions.",
+            "kana": "ふくんで",
+            "reading": "じょうけん を ふくんで けいやく する。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "恨みを[含んで]死ぬ。",
+            "translation": "Die while harboring (containing) a grudge.",
+            "kana": "ふくんで",
+            "reading": "うらみ を ふくんで しぬ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Te-form",
+            "text": "心を[含んで]接する。",
+            "translation": "Engage with one's whole heart (containing heart).",
+            "kana": "ふくんで",
+            "reading": "こころ を ふくんで せっする。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "例外を[含まない]。",
+            "translation": "It does not include exceptions.",
+            "kana": "ふくまない",
+            "reading": "れいがい を ふくまない。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "私を[含まない]で。",
+            "translation": "Don't include me.",
+            "kana": "ふくまない",
+            "reading": "わたし を ふくまない で。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "アルコールを[含まない]飲料。",
+            "translation": "Non-alcoholic beverage (contains no alcohol).",
+            "kana": "ふくまない",
+            "reading": "あるこーる を ふくまない いんりょう。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "悪意を[含まない]言葉。",
+            "translation": "Words that contain no malice.",
+            "kana": "ふくまない",
+            "reading": "あくい を ふくまない ことば。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "送料を[含まない]価格。",
+            "translation": "Price that does not include shipping.",
+            "kana": "ふくまない",
+            "reading": "そうりょう を ふくまない かかく。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "水分を[含まない]乾燥剤。",
+            "translation": "A desiccant that contains no moisture.",
+            "kana": "ふくまない",
+            "reading": "すいぶん を ふくまない かんそうざい。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "彼を[含まない]理由。",
+            "translation": "The reason for not including him.",
+            "kana": "ふくまない",
+            "reading": "かれ を ふくまない りゆう。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何も[含まない]空っぽの箱。",
+            "translation": "An empty box containing nothing.",
+            "kana": "ふくまない",
+            "reading": "なにも ふくまない からっぽ の はこ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "嘘を[含まない]真実。",
+            "translation": "Truth containing no lies.",
+            "kana": "ふくまない",
+            "reading": "うそ を ふくまない しんじつ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Negative (Nai)",
+            "text": "添加物を[含まない]食品。",
+            "translation": "Food containing no additives.",
+            "kana": "ふくまない",
+            "reading": "てんかぶつ を ふくまない しょくひん。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "税を[含んだ]値段。",
+            "translation": "The tax-inclusive price.",
+            "kana": "ふくんだ",
+            "reading": "ぜい を ふくんだ ねだん。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "私を[含んだ]全員。",
+            "translation": "Everyone, including me.",
+            "kana": "ふくんだ",
+            "reading": "わたし を ふくんだ ぜんいん。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "水分をたっぷり[含んだ]土。",
+            "translation": "Soil that contained plenty of moisture.",
+            "kana": "ふくんだ",
+            "reading": "すいぶん を たっぷり ふくんだ つち。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "皮肉を[含んだ]返事。",
+            "translation": "A reply that contained irony.",
+            "kana": "ふくんだ",
+            "reading": "ひにく を ふくんだ へんじ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "意味を[含んだ]視線。",
+            "translation": "A glance that contained meaning.",
+            "kana": "ふくんだ",
+            "reading": "いみ を ふくんだ しせん。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "恨みを[含んだ]声。",
+            "translation": "A voice that contained resentment.",
+            "kana": "ふくんだ",
+            "reading": "うらみ を ふくんだ こえ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "例外も[含んだ]。",
+            "translation": "It included exceptions too.",
+            "kana": "ふくんだ",
+            "reading": "れいがい も ふくんだ。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "毒を[含んだ]林檎。",
+            "translation": "An apple that contained poison.",
+            "kana": "ふくんだ",
+            "reading": "どく を ふくんだ りんご。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "心を[含んだ]贈り物。",
+            "translation": "A gift that contained one's heart.",
+            "kana": "ふくんだ",
+            "reading": "こころ を ふくんだ おくりもの。"
+        },
+        {
+            "verb": "含む (fukumu)",
+            "tense": "Plain Past (Ta)",
+            "text": "全てを[含んだ]合計。",
+            "translation": "The total that included everything.",
+            "kana": "ふくんだ",
+            "reading": "すべて を ふくんだ ごうけい。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "展示品に[触れます]。",
+            "translation": "I touch the exhibits.",
+            "kana": "ふれます",
+            "reading": "てんじひん に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "話題に[触れます]。",
+            "translation": "I will touch upon the topic.",
+            "kana": "ふれます",
+            "reading": "わだい に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "空気に[触れます]。",
+            "translation": "It is exposed to the air.",
+            "kana": "ふれます",
+            "reading": "くうき に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "法に[触れます]。",
+            "translation": "It violates (touches) the law.",
+            "kana": "ふれます",
+            "reading": "ほう に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "琴線に[触れます]。",
+            "translation": "It touches a chord (in one's heart).",
+            "kana": "ふれます",
+            "reading": "きんせん に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "目に[触れます]。",
+            "translation": "It catches one's eye.",
+            "kana": "ふれます",
+            "reading": "め に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "逆鱗に[触れます]。",
+            "translation": "I will provoke (touch the imperial wrath) him.",
+            "kana": "ふれます",
+            "reading": "げきりん に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "外の世界に[触れます]。",
+            "translation": "I experience (touch) the outside world.",
+            "kana": "ふれます",
+            "reading": "そと の せかい に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "光に[触れます]。",
+            "translation": "It is exposed to light.",
+            "kana": "ふれます",
+            "reading": "ひかり に ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Present (Masu)",
+            "text": "袖が[触れます]。",
+            "translation": "Sleeves touch.",
+            "kana": "ふれます",
+            "reading": "そで が ふれます。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "その件に[触れました]。",
+            "translation": "I touched upon that matter.",
+            "kana": "ふれました",
+            "reading": "その けん に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "手が[触れました]。",
+            "translation": "Hands touched.",
+            "kana": "ふれました",
+            "reading": "て が ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "文化に[触れました]。",
+            "translation": "I experienced (touched) the culture.",
+            "kana": "ふれました",
+            "reading": "ぶんか に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "規則に[触れました]か？",
+            "translation": "Did it violate the rules?",
+            "kana": "ふれました",
+            "reading": "きそく に ふれました か？"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "核心に[触れました]。",
+            "translation": "I touched on the core of the issue.",
+            "kana": "ふれました",
+            "reading": "かくしん に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "風に[触れました]。",
+            "translation": "It was exposed to the wind.",
+            "kana": "ふれました",
+            "reading": "かぜ に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "優しさに[触れました]。",
+            "translation": "I experienced (touched) kindness.",
+            "kana": "ふれました",
+            "reading": "やさしさ に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "冷たい水に[触れました]。",
+            "translation": "I touched cold water.",
+            "kana": "ふれました",
+            "reading": "つめたい みず に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "秘密に[触れました]。",
+            "translation": "I touched upon a secret.",
+            "kana": "ふれました",
+            "reading": "ひみつ に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Polite Past (Mashita)",
+            "text": "人目に[触れました]。",
+            "translation": "It caught the public eye.",
+            "kana": "ふれました",
+            "reading": "ひとめ に ふれました。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "作品に[触れて]ください。",
+            "translation": "Please touch the artwork.",
+            "kana": "ふれて",
+            "reading": "さくひん に ふれて ください。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "外気に[触れて]リフレッシュする。",
+            "translation": "Experience the outside air and refresh.",
+            "kana": "ふれて",
+            "reading": "がいき に ふれて りふれっしゅ する。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "真実に[触れて]驚く。",
+            "translation": "Be surprised touching upon the truth.",
+            "kana": "ふれて",
+            "reading": "しんじつ に ふれて おどろく。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "その話題に[触れて]はいけない。",
+            "translation": "You must not touch upon that topic.",
+            "kana": "ふれて",
+            "reading": "その わだい に ふれて は いけない。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "手と手が[触れて]ドキッとする。",
+            "translation": "Startled by hands touching.",
+            "kana": "ふれて",
+            "reading": "て と て が ふれて どきっとする。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "法に[触れて]逮捕される。",
+            "translation": "Violate the law and be arrested.",
+            "kana": "ふれて",
+            "reading": "ほう に ふれて たいほ される。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "芸術に[触れて]感銘を受ける。",
+            "translation": "Be moved by experiencing art.",
+            "kana": "ふれて",
+            "reading": "げいじゅつ に ふれて かんめい を うける。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "水に[触れて]冷たさを知る。",
+            "translation": "Touch water and know the coldness.",
+            "kana": "ふれて",
+            "reading": "みず に ふれて つめたさ を しる。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "過去に[触れて]悲しくなる。",
+            "translation": "Become sad touching upon the past.",
+            "kana": "ふれて",
+            "reading": "かこ に ふれて かなしく なる。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Te-form",
+            "text": "熱に[触れて]溶ける。",
+            "translation": "Melt being exposed to heat.",
+            "kana": "ふれて",
+            "reading": "ねつ に ふれて とける。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "展示品に[触れない]でください。",
+            "translation": "Please do not touch the exhibits.",
+            "kana": "ふれない",
+            "reading": "てんじひん に ふれない で ください。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "その事には[触れない]ほうがいい。",
+            "translation": "It is better not to touch upon that matter.",
+            "kana": "ふれない",
+            "reading": "その こと に は ふれない ほう が いい。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "法に[触れない]範囲でやる。",
+            "translation": "Do it within a range that doesn't violate the law.",
+            "kana": "ふれない",
+            "reading": "ほう に ふれない はんい で やる。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "人目に[触れない]場所。",
+            "translation": "A place that doesn't catch the public eye.",
+            "kana": "ふれない",
+            "reading": "ひとめ に ふれない ばしょ。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "まだ核心には[触れない]。",
+            "translation": "I won't touch upon the core issue yet.",
+            "kana": "ふれない",
+            "reading": "まだ かくしん に は ふれない。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "誰の手にも[触れない]。",
+            "translation": "It touches no one's hand.",
+            "kana": "ふれない",
+            "reading": "だれ の て に も ふれない。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "光に[触れない]ように保存する。",
+            "translation": "Store it so it isn't exposed to light.",
+            "kana": "ふれない",
+            "reading": "ひかり に ふれない ように ほぞん する。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "何にも[触れない]生活。",
+            "translation": "A life where I experience (touch) nothing.",
+            "kana": "ふれない",
+            "reading": "なに に も ふれない せいかつ。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "逆鱗に[触れない]ようにする。",
+            "translation": "Try not to provoke (touch the wrath of) him.",
+            "kana": "ふれない",
+            "reading": "げきりん に ふれない ように する。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Negative (Nai)",
+            "text": "話題に[触れない]理由。",
+            "translation": "The reason for not touching upon the topic.",
+            "kana": "ふれない",
+            "reading": "わだい に ふれない りゆう。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "偶然手が[触れた]。",
+            "translation": "Hands touched by chance.",
+            "kana": "ふれた",
+            "reading": "ぐうぜん て が ふれた。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "その問題に[触れた]。",
+            "translation": "I touched upon that problem.",
+            "kana": "ふれた",
+            "reading": "その もんだい に ふれた。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "異文化に[触れた]経験。",
+            "translation": "The experience of experiencing a different culture.",
+            "kana": "ふれた",
+            "reading": "いぶんか に ふれた けいけん。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "法に[触れた]可能性。",
+            "translation": "The possibility of having violated the law.",
+            "kana": "ふれた",
+            "reading": "ほう に ふれた かのうせい。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "心に[触れた]言葉。",
+            "translation": "Words that touched my heart.",
+            "kana": "ふれた",
+            "reading": "こころ に ふれた ことば。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "空気に[触れた]瞬間。",
+            "translation": "The moment it was exposed to the air.",
+            "kana": "ふれた",
+            "reading": "くうき に ふれた しゅんかん。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "人目に[触れた]くない。",
+            "translation": "I don't want it to catch the public eye.",
+            "kana": "ふれた",
+            "reading": "ひとめ に ふれたくない。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "秘密に[触れた]代償。",
+            "translation": "The price for touching upon a secret.",
+            "kana": "ふれた",
+            "reading": "ひみつ に ふれた だいしょう。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "袖振り合うも多生の[縁]。",
+            "translation": "Even a chance meeting (sleeves touching) is due to fate.",
+            "kana": "ふれた",
+            "reading": "そで ふりあう も たしょう の えん。"
+        },
+        {
+            "verb": "触れる (fureru)",
+            "tense": "Plain Past (Ta)",
+            "text": "核心に[触れた]気がした。",
+            "translation": "I felt like I touched upon the core.",
+            "kana": "ふれた",
+            "reading": "かくしん に ふれた き が した。"
         }
 
     ];
@@ -12239,394 +17432,394 @@ export function getStaticData() {
     const ALL_VERBS = [...new Set(CUSTOM_LIBRARY.map(item => item.verb))].sort();
 
     // Maps the Japanese verb directly to an English translation for the UI headers
-  const VERB_TRANSLATIONS = {
-    "浴びる (abiru)": "To bathe",
-    "上がる (agaru)": "To rise",
-    "上げる (ageru)": "To raise",
-    "愛する (aisuru)": "To love",
-    "開ける (akeru)": "To open",
-    "諦める (akirameru)": "To give up",
-    "飽きる (akiru)": "To get tired of",
-    "開く (aku)": "To open (intransitive)",
-    "余る (amaru)": "To remain",
-    "案じる (anjiru)": "To worry",
-    "洗う (arau)": "To wash",
-    "現れる (arawareru)": "To appear",
-    "表す (arawasu)": "To express",
-    "ある (aru)": "To be / To exist (inanimate)",
-    "歩く (aruku)": "To walk",
-    "焦る (aseru)": "To rush / To panic",
-    "遊ぶ (asobu)": "To play",
-    "与える (ataeru)": "To give",
-    "当たる (ataru)": "To hit / To win",
-    "温める (atatameru)": "To warm up",
-    "当てる (ateru)": "To hit (target) / To guess",
-    "集まる (atsumaru)": "To gather (intransitive)",
-    "集める (atsumeru)": "To collect",
-    "会う (au)": "To meet",
-    "合わせる (awaseru)": "To match / To combine",
-    "謝る (ayamaru)": "To apologize",
-    "ぶつかる (butsukaru)": "To bump into / To clash",
-    "違う (chigau)": "To differ / To be wrong",
-    "縮む (chijimu)": "To shrink",
-    "誓う (chikau)": "To swear / To vow",
-    "近づく (chikazuku)": "To approach",
-    "散る (chiru)": "To fall / To scatter",
-    "抱く (daku)": "To embrace / To hold",
-    "騙す (damasu)": "To deceive",
-    "出す (dasu)": "To take out",
-    "出かける (dekakeru)": "To go out",
-    "できる (dekiru)": "To be able to",
-    "出る (deru)": "To exit / To leave",
-    "描く (egaku)": "To draw / To depict",
-    "選ぶ (erabu)": "To choose",
-    "得る (eru)": "To obtain",
-    "吹く (fuku)": "To blow",
-    "含む (fukumu)": "To include",
-    "触れる (fureru)": "To touch / To mention",
-    "降る (furu)": "To fall (rain/snow)",
-    "震える (furueru)": "To shiver",
-    "塞ぐ (fusagu)": "To block / To close up",
-    "防ぐ (fusegu)": "To prevent",
-    "太る (futoru)": "To gain weight",
-    "増やす (fuyasu)": "To increase",
-    "頑張る (ganbaru)": "To do one's best",
-    "生える (haeru)": "To grow (plants/hair)",
-    "入る (hairu)": "To enter",
-    "始まる (hajimaru)": "To begin (intransitive)",
-    "始める (hajimeru)": "To start (transitive)",
-    "測る (hakaru)": "To measure",
-    "履く (haku)": "To wear (on feet/legs)",
-    "運ぶ (hakobu)": "To transport / To carry",
-    "離れる (hanareru)": "To separate",
-    "話す (hanasu)": "To speak",
-    "払う (harau)": "To pay",
-    "張る (haru)": "To stick / To stretch",
-    "挟まる (hasamaru)": "To get caught in between",
-    "挟む (hasamu)": "To insert / To sandwich",
-    "走る (hashiru)": "To run",
-    "働く (hataraku)": "To work",
-    "減らす (herasu)": "To decrease (transitive)",
-    "減る (heru)": "To decrease (intransitive)",
-    "引く (hiku)": "To pull",
-    "開く (hiraku)": "To open",
-    "拾う (hirou)": "To pick up",
-    "広まる (hiromaru)": "To spread",
-    "冷やす (hiyasu)": "To cool / To refrigerate",
-    "吠える (hoeru)": "To bark",
-    "微笑む (hohoemu)": "To smile",
-    "褒める (homeru)": "To praise",
-    "掘る (horu)": "To dig",
-    "威張る (ibaru)": "To act big / To boast",
-    "いじめる (ijimeru)": "To bully",
-    "生かす (ikasu)": "To make use of",
-    "生きる (ikiru)": "To live",
-    "行く (iku)": "To go",
-    "祈る (inoru)": "To pray",
-    "入れる (ireru)": "To put in",
-    "いる (iru)": "To be / To exist (animate)",
-    "要る (iru)": "To need",
-    "急ぐ (isogu)": "To hurry",
-    "痛む (itamu)": "To hurt / To ache",
-    "至る (itaru)": "To reach / To arrive at",
-    "言う (iu)": "To say",
-    "祝う (iwau)": "To celebrate",
-    "嫌がる (iyagaru)": "To hate / To dislike",
-    "帰る (kaeru)": "To return home",
-    "変える (kaeru)": "To change (transitive)",
-    "返す (kaesu)": "To return something",
-    "限る (kagiru)": "To limit",
-    "掛かる (kakaru)": "To take (time/money)",
-    "掛ける (kakeru)": "To hang / To call",
-    "書く (kaku)": "To write",
-    "隠れる (kakureru)": "To hide (intransitive)",
-    "隠す (kakusu)": "To hide (transitive)",
-    "構う (kamau)": "To mind / To care",
-    "噛む (kamu)": "To bite / To chew",
-    "悲しむ (kanashimu)": "To be sad",
-    "考える (kangaeru)": "To think",
-    "感じる (kanjiru)": "To feel",
-    "枯れる (kareru)": "To wither",
-    "借りる (kariru)": "To borrow",
-    "重なる (kasanaru)": "To overlap",
-    "重ねる (kasaneru)": "To stack / To repeat",
-    "貸す (kasu)": "To lend",
-    "片付く (katazuku)": "To be tidied up",
-    "勝つ (katsu)": "To win",
-    "買う (kau)": "To buy",
-    "渇く (kawaku)": "To be thirsty",
-    "変わる (kawaru)": "To change (intransitive)",
-    "通う (kayou)": "To commute",
-    "飾る (kazaru)": "To decorate",
-    "数える (kazoeru)": "To count",
-    "消す (kesu)": "To erase / To turn off",
-    "消える (kieru)": "To disappear / To go out",
-    "聞こえる (kikoeru)": "To be heard",
-    "聞く (kiku)": "To listen / To ask",
-    "決める (kimeru)": "To decide",
-    "禁じる (kinjiru)": "To forbid",
-    "切る (kiru)": "To cut",
-    "着る (kiru)": "To wear (on upper body)",
-    "こぼれる (koboreru)": "To spill (intransitive)",
-    "こぼす (kobosu)": "To spill (transitive)",
-    "越える (koeru)": "To cross over",
-    "答える (kotaeru)": "To answer",
-    "断る (kotowaru)": "To refuse",
-    "壊れる (kowareru)": "To break (intransitive)",
-    "壊す (kowasu)": "To break (transitive)",
-    "組む (kumu)": "To put together / To cross",
-    "比べる (kuraberu)": "To compare",
-    "暮らす (kurasu)": "To live / To get along",
-    "繰り返す (kurikaesu)": "To repeat",
-    "来る (kuru)": "To come",
-    "苦しむ (kurushimu)": "To suffer",
-    "加える (kuwaeru)": "To add (transitive)",
-    "加わる (kuwawaru)": "To join",
-    "間違える (machigaeru)": "To make a mistake",
-    "曲がる (magaru)": "To turn / To bend",
-    "曲げる (mageru)": "To bend / To twist",
-    "任せる (makaseru)": "To entrust",
-    "負ける (makeru)": "To lose",
-    "巻く (maku)": "To roll / To wind",
-    "守る (mamoru)": "To protect",
-    "学ぶ (manabu)": "To learn",
-    "間に合う (maniau)": "To be in time",
-    "招く (maneku)": "To invite",
-    "待つ (matsu)": "To wait",
-    "回る (mawaru)": "To turn around (intransitive)",
-    "回す (mawasu)": "To turn (transitive)",
-    "迷う (mayou)": "To get lost / To hesitate",
-    "混ざる (mazaru)": "To be mixed",
-    "混ぜる (mazeru)": "To mix",
-    "目立つ (medatsu)": "To stand out",
-    "巡る (meguru)": "To go around",
-    "見える (mieru)": "To be seen",
-    "磨く (migaku)": "To polish / To brush",
-    "見る (miru)": "To see / To watch",
-    "見せる (miseru)": "To show",
-    "認める (mitomeru)": "To admit / To recognize",
-    "見つかる (mitsukaru)": "To be found",
-    "見つける (mitsukeru)": "To find",
-    "戻る (modoru)": "To return / To go back",
-    "戻す (modosu)": "To restore / To put back",
-    "燃える (moeru)": "To burn",
-    "もらう (morau)": "To receive",
-    "持つ (motsu)": "To hold / To have",
-    "向かう (mukau)": "To face / To head towards",
-    "向ける (mukeru)": "To turn towards",
-    "向く (muku)": "To face / To be suited for",
-    "結ぶ (musubu)": "To tie / To connect",
-    "なでる (naderu)": "To pet / To stroke",
-    "眺める (nagameru)": "To gaze at",
-    "流れる (nagareru)": "To flow",
-    "流す (nagasu)": "To let flow / To flush",
-    "投げる (nageru)": "To throw",
-    "泣く (naku)": "To cry",
-    "鳴く (naku)": "To make sound (animal)",
-    "なくなる (nakunaru)": "To disappear / To be lost",
-    "なくす (nakusu)": "To lose something",
-    "直る (naoru)": "To be fixed / To heal",
-    "直す (naosu)": "To fix / To repair",
-    "並べる (naraberu)": "To line up (transitive)",
-    "並ぶ (narabu)": "To line up (intransitive)",
-    "習う (narau)": "To learn (from someone)",
-    "慣れる (nareru)": "To get used to",
-    "なる (naru)": "To become",
-    "悩む (nayamu)": "To worry",
-    "寝る (neru)": "To sleep",
-    "似合う (niau)": "To suit / To match",
-    "逃げる (nigeru)": "To run away",
-    "握る (nigiru)": "To grasp / To grip",
-    "にらむ (niramu)": "To glare at",
-    "似る (niru)": "To resemble",
-    "伸ばす (nobasu)": "To stretch / To lengthen",
-    "伸びる (nobiru)": "To stretch / To grow",
-    "登る (noboru)": "To climb",
-    "残る (nokoru)": "To remain / To be left",
-    "残す (nokosu)": "To leave behind",
-    "飲む (nomu)": "To drink",
-    "乗る (noru)": "To ride / To get on",
-    "除く (nozoku)": "To remove / To exclude",
-    "望む (nozomu)": "To desire / To wish for",
-    "脱ぐ (nugu)": "To take off (clothes)",
-    "抜ける (nukeru)": "To come out / To fall out",
-    "抜く (nuku)": "To extract / To pull out",
-    "濡れる (nureru)": "To get wet",
-    "塗る (nuru)": "To paint / To spread",
-    "盗む (nusumu)": "To steal",
-    "覚える (oboeru)": "To remember",
-    "落ちる (ochiru)": "To fall",
-    "驚く (odoroku)": "To be surprised",
-    "踊る (odoru)": "To dance",
-    "終える (oeru)": "To finish",
-    "補う (oginau)": "To compensate",
-    "起きる (okiru)": "To wake up",
-    "行う (okonau)": "To perform",
-    "怒る (okoru)": "To get angry",
-    "起こる (okoru)": "To occur / To happen",
-    "起こす (okosu)": "To wake someone up / To cause",
-    "遅れる (okureru)": "To be late",
-    "送る (okuru)": "To send",
-    "思い出す (omoidasu)": "To remember / To recall",
-    "思う (omou)": "To think",
-    "折れる (oreru)": "To break / To be folded",
-    "降りる (oriru)": "To get off / To descend",
-    "下ろす (orosu)": "To take down / To withdraw",
-    "折る (oru)": "To fold / To break (transitive)",
-    "収める (osameru)": "To supply / To dedicate",
-    "教える (oshieru)": "To teach / To tell",
-    "惜しむ (oshimu)": "To regret",
-    "恐れる (osoreru)": "To fear",
-    "押す (osu)": "To push",
-    "訪れる (otozureru)": "To visit",
-    "追う (ou)": "To chase",
-    "終わる (owaru)": "To end",
-    "泳ぐ (oyogu)": "To swim",
-    "下がる (sagaru)": "To go down",
-    "探す (sagasu)": "To search",
-    "下げる (sageru)": "To lower / To hang",
-    "咲く (saku)": "To bloom",
-    "叫ぶ (sakebu)": "To shout",
-    "避ける (sakeru)": "To avoid",
-    "冷める (sameru)": "To cool down",
-    "支える (sasaeru)": "To support",
-    "誘う (sasou)": "To invite",
-    "刺す (sasu)": "To pierce / To stab",
-    "騒ぐ (sawagu)": "To make noise",
-    "触る (sawaru)": "To touch",
-    "責める (semeru)": "To blame",
-    "しゃべる (shaberu)": "To chat",
-    "縛る (shibaru)": "To tie / To bind",
-    "敷く (shiku)": "To spread out",
-    "閉める (shimeru)": "To close",
-    "示す (shimesu)": "To show",
-    "信じる (shinjiru)": "To believe",
-    "死ぬ (shinu)": "To die",
-    "調べる (shiraberu)": "To investigate",
-    "知らせる (shiraseru)": "To notify",
-    "知る (shiru)": "To know",
-    "従う (shitagau)": "To obey",
-    "沈む (shizumu)": "To sink",
-    "育てる (sodateru)": "To raise / To rear",
-    "育つ (sodatsu)": "To grow up",
-    "染める (someru)": "To dye",
-    "備える (sonaeru)": "To prepare / To equip",
-    "揃う (sorou)": "To be complete / To gather",
-    "沿う (sou)": "To run along",
-    "滑る (suberu)": "To slip / To slide",
-    "過ぎる (sugiru)": "To pass / To exceed",
-    "過ごす (sugosu)": "To spend time",
-    "空く (suku)": "To become empty",
-    "救う (sukuu)": "To save / To rescue",
-    "住む (sumu)": "To live / To reside",
-    "済む (sumu)": "To finish",
-    "する (suru)": "To do",
-    "勧める (susumeru)": "To recommend",
-    "進む (susumu)": "To advance",
-    "捨てる (suteru)": "To throw away",
-    "吸う (suu)": "To breathe in",
-    "座る (suwaru)": "To sit",
-    "食べる (taberu)": "To eat",
-    "耐える (taeru)": "To endure",
-    "高まる (takamaru)": "To rise / To swell",
-    "高める (takameru)": "To raise / To elevate",
-    "保つ (tamotsu)": "To keep / To preserve",
-    "頼む (tanomu)": "To request / To ask",
-    "楽しむ (tanoshimu)": "To enjoy",
-    "倒れる (taoreru)": "To fall over",
-    "倒す (taosu)": "To defeat",
-    "足りる (tariru)": "To be sufficient",
-    "確かめる (tashikameru)": "To confirm",
-    "足す (tasu)": "To add",
-    "助ける (tasukeru)": "To help / To save",
-    "戦う (tatakau)": "To fight",
-    "叩く (tataku)": "To strike",
-    "立てる (tateru)": "To stand up",
-    "立つ (tatsu)": "To stand",
-    "頼る (tayoru)": "To rely on",
-    "尋ねる (tazuneru)": "To ask / To inquire",
-    "手伝う (tetsudau)": "To help",
-    "飛ぶ (tobu)": "To fly",
-    "溶ける (tokeru)": "To melt",
-    "解く (toku)": "To solve / To untie",
-    "止まる (tomaru)": "To stop (intransitive)",
-    "止める (tomeru)": "To stop (transitive)",
-    "取れる (toreru)": "To come off",
-    "取る (toru)": "To take",
-    "捕まえる (tsukamaeru)": "To catch",
-    "捕まる (tsukamaru)": "To be caught",
-    "掴む (tsukamu)": "To grab",
-    "疲れる (tsukareru)": "To get tired",
-    "使う (tsukau)": "To use",
-    "付ける (tsukeru)": "To attach / To turn on",
-    "着く (tsuku)": "To arrive",
-    "作る (tsukuru)": "To make",
-    "詰まる (tsumaru)": "To be blocked",
-    "詰める (tsumeru)": "To stuff / To pack",
-    "積もる (tsumoru)": "To pile up",
-    "積む (tsumu)": "To pile up / To load",
-    "繋がる (tsunagaru)": "To be connected",
-    "繋ぐ (tsunagu)": "To connect",
-    "連れる (tsureru)": "To take along",
-    "伝える (tsutaeru)": "To convey",
-    "伝わる (tsutawaru)": "To be transmitted",
-    "務める (tsutomeru)": "To serve as",
-    "包む (tsutsumu)": "To wrap",
-    "続ける (tsuzukeru)": "To continue (transitive)",
-    "続く (tsuzuku)": "To continue (intransitive)",
-    "奪う (ubau)": "To snatch / To steal",
-    "動かす (ugokasu)": "To move (transitive)",
-    "動く (ugoku)": "To move (intransitive)",
-    "伺う (ukagau)": "To ask / To visit (humble)",
-    "浮かぶ (ukabu)": "To float",
-    "受ける (ukeru)": "To receive / To take (exam)",
-    "受け取る (uketoru)": "To receive",
-    "生まれる (umareru)": "To be born",
-    "産む (umu)": "To give birth",
-    "裏切る (uragiru)": "To betray",
-    "売る (uru)": "To sell",
-    "疑う (utagau)": "To doubt / To suspect",
-    "歌う (utau)": "To sing",
-    "打つ (utsu)": "To hit / To strike",
-    "写す (utsusu)": "To copy / To photograph",
-    "移る (utsuru)": "To move / To transfer",
-    "別れる (wakareru)": "To part / To break up",
-    "分かる (wakaru)": "To understand",
-    "沸かす (wakasu)": "To boil (water)",
-    "分ける (wakeru)": "To divide / To share",
-    "沸く (waku)": "To boil (intransitive)",
-    "笑う (warau)": "To laugh / To smile",
-    "割れる (wareru)": "To break / To crack",
-    "忘れる (wasureru)": "To forget",
-    "渡る (wataru)": "To cross over",
-    "渡す (watasu)": "To hand over",
-    "破れる (yabureru)": "To get torn",
-    "破る (yaburu)": "To tear / To break (promise)",
-    "焼ける (yakeru)": "To burn / To be roasted",
-    "焼く (yaku)": "To bake / To grill",
-    "辞める (yameru)": "To quit",
-    "止む (yamu)": "To stop (rain/snow)",
-    "やる (yaru)": "To do / To give",
-    "痩せる (yaseru)": "To lose weight",
-    "休む (yasumu)": "To rest / To take a break",
-    "雇う (yatou)": "To hire",
-    "呼ぶ (yobu)": "To call",
-    "読む (yomu)": "To read",
-    "喜ぶ (yorokobu)": "To be glad / To be pleased",
-    "寄る (yoru)": "To drop by",
-    "寄せる (yoseru)": "To bring near",
-    "酔う (you)": "To get drunk",
-    "許す (yurusu)": "To forgive / To permit",
-    "揺れる (yureru)": "To shake / To sway"
-  };
+    const VERB_TRANSLATIONS = {
+        "浴びる (abiru)": "To bathe",
+        "上がる (agaru)": "To rise",
+        "上げる (ageru)": "To raise",
+        "愛する (aisuru)": "To love",
+        "開ける (akeru)": "To open",
+        "諦める (akirameru)": "To give up",
+        "飽きる (akiru)": "To get tired of",
+        "開く (aku)": "To open (intransitive)",
+        "余る (amaru)": "To remain",
+        "案じる (anjiru)": "To worry",
+        "洗う (arau)": "To wash",
+        "現れる (arawareru)": "To appear",
+        "表す (arawasu)": "To express",
+        "ある (aru)": "To be / To exist (inanimate)",
+        "歩く (aruku)": "To walk",
+        "焦る (aseru)": "To rush / To panic",
+        "遊ぶ (asobu)": "To play",
+        "与える (ataeru)": "To give",
+        "当たる (ataru)": "To hit / To win",
+        "温める (atatameru)": "To warm up",
+        "当てる (ateru)": "To hit (target) / To guess",
+        "集まる (atsumaru)": "To gather (intransitive)",
+        "集める (atsumeru)": "To collect",
+        "会う (au)": "To meet",
+        "合わせる (awaseru)": "To match / To combine",
+        "謝る (ayamaru)": "To apologize",
+        "ぶつかる (butsukaru)": "To bump into / To clash",
+        "違う (chigau)": "To differ / To be wrong",
+        "縮む (chijimu)": "To shrink",
+        "誓う (chikau)": "To swear / To vow",
+        "近づく (chikazuku)": "To approach",
+        "散る (chiru)": "To fall / To scatter",
+        "抱く (daku)": "To embrace / To hold",
+        "騙す (damasu)": "To deceive",
+        "出す (dasu)": "To take out",
+        "出かける (dekakeru)": "To go out",
+        "できる (dekiru)": "To be able to",
+        "出る (deru)": "To exit / To leave",
+        "描く (egaku)": "To draw / To depict",
+        "選ぶ (erabu)": "To choose",
+        "得る (eru)": "To obtain",
+        "吹く (fuku)": "To blow",
+        "含む (fukumu)": "To include",
+        "触れる (fureru)": "To touch / To mention",
+        "降る (furu)": "To fall (rain/snow)",
+        "震える (furueru)": "To shiver",
+        "塞ぐ (fusagu)": "To block / To close up",
+        "防ぐ (fusegu)": "To prevent",
+        "太る (futoru)": "To gain weight",
+        "増やす (fuyasu)": "To increase",
+        "頑張る (ganbaru)": "To do one's best",
+        "生える (haeru)": "To grow (plants/hair)",
+        "入る (hairu)": "To enter",
+        "始まる (hajimaru)": "To begin (intransitive)",
+        "始める (hajimeru)": "To start (transitive)",
+        "測る (hakaru)": "To measure",
+        "履く (haku)": "To wear (on feet/legs)",
+        "運ぶ (hakobu)": "To transport / To carry",
+        "離れる (hanareru)": "To separate",
+        "話す (hanasu)": "To speak",
+        "払う (harau)": "To pay",
+        "張る (haru)": "To stick / To stretch",
+        "挟まる (hasamaru)": "To get caught in between",
+        "挟む (hasamu)": "To insert / To sandwich",
+        "走る (hashiru)": "To run",
+        "働く (hataraku)": "To work",
+        "減らす (herasu)": "To decrease (transitive)",
+        "減る (heru)": "To decrease (intransitive)",
+        "引く (hiku)": "To pull",
+        "開く (hiraku)": "To open",
+        "拾う (hirou)": "To pick up",
+        "広まる (hiromaru)": "To spread",
+        "冷やす (hiyasu)": "To cool / To refrigerate",
+        "吠える (hoeru)": "To bark",
+        "微笑む (hohoemu)": "To smile",
+        "褒める (homeru)": "To praise",
+        "掘る (horu)": "To dig",
+        "威張る (ibaru)": "To act big / To boast",
+        "いじめる (ijimeru)": "To bully",
+        "生かす (ikasu)": "To make use of",
+        "生きる (ikiru)": "To live",
+        "行く (iku)": "To go",
+        "祈る (inoru)": "To pray",
+        "入れる (ireru)": "To put in",
+        "いる (iru)": "To be / To exist (animate)",
+        "要る (iru)": "To need",
+        "急ぐ (isogu)": "To hurry",
+        "痛む (itamu)": "To hurt / To ache",
+        "至る (itaru)": "To reach / To arrive at",
+        "言う (iu)": "To say",
+        "祝う (iwau)": "To celebrate",
+        "嫌がる (iyagaru)": "To hate / To dislike",
+        "帰る (kaeru)": "To return home",
+        "変える (kaeru)": "To change (transitive)",
+        "返す (kaesu)": "To return something",
+        "限る (kagiru)": "To limit",
+        "掛かる (kakaru)": "To take (time/money)",
+        "掛ける (kakeru)": "To hang / To call",
+        "書く (kaku)": "To write",
+        "隠れる (kakureru)": "To hide (intransitive)",
+        "隠す (kakusu)": "To hide (transitive)",
+        "構う (kamau)": "To mind / To care",
+        "噛む (kamu)": "To bite / To chew",
+        "悲しむ (kanashimu)": "To be sad",
+        "考える (kangaeru)": "To think",
+        "感じる (kanjiru)": "To feel",
+        "枯れる (kareru)": "To wither",
+        "借りる (kariru)": "To borrow",
+        "重なる (kasanaru)": "To overlap",
+        "重ねる (kasaneru)": "To stack / To repeat",
+        "貸す (kasu)": "To lend",
+        "片付く (katazuku)": "To be tidied up",
+        "勝つ (katsu)": "To win",
+        "買う (kau)": "To buy",
+        "渇く (kawaku)": "To be thirsty",
+        "変わる (kawaru)": "To change (intransitive)",
+        "通う (kayou)": "To commute",
+        "飾る (kazaru)": "To decorate",
+        "数える (kazoeru)": "To count",
+        "消す (kesu)": "To erase / To turn off",
+        "消える (kieru)": "To disappear / To go out",
+        "聞こえる (kikoeru)": "To be heard",
+        "聞く (kiku)": "To listen / To ask",
+        "決める (kimeru)": "To decide",
+        "禁じる (kinjiru)": "To forbid",
+        "切る (kiru)": "To cut",
+        "着る (kiru)": "To wear (on upper body)",
+        "こぼれる (koboreru)": "To spill (intransitive)",
+        "こぼす (kobosu)": "To spill (transitive)",
+        "越える (koeru)": "To cross over",
+        "答える (kotaeru)": "To answer",
+        "断る (kotowaru)": "To refuse",
+        "壊れる (kowareru)": "To break (intransitive)",
+        "壊す (kowasu)": "To break (transitive)",
+        "組む (kumu)": "To put together / To cross",
+        "比べる (kuraberu)": "To compare",
+        "暮らす (kurasu)": "To live / To get along",
+        "繰り返す (kurikaesu)": "To repeat",
+        "来る (kuru)": "To come",
+        "苦しむ (kurushimu)": "To suffer",
+        "加える (kuwaeru)": "To add (transitive)",
+        "加わる (kuwawaru)": "To join",
+        "間違える (machigaeru)": "To make a mistake",
+        "曲がる (magaru)": "To turn / To bend",
+        "曲げる (mageru)": "To bend / To twist",
+        "任せる (makaseru)": "To entrust",
+        "負ける (makeru)": "To lose",
+        "巻く (maku)": "To roll / To wind",
+        "守る (mamoru)": "To protect",
+        "学ぶ (manabu)": "To learn",
+        "間に合う (maniau)": "To be in time",
+        "招く (maneku)": "To invite",
+        "待つ (matsu)": "To wait",
+        "回る (mawaru)": "To turn around (intransitive)",
+        "回す (mawasu)": "To turn (transitive)",
+        "迷う (mayou)": "To get lost / To hesitate",
+        "混ざる (mazaru)": "To be mixed",
+        "混ぜる (mazeru)": "To mix",
+        "目立つ (medatsu)": "To stand out",
+        "巡る (meguru)": "To go around",
+        "見える (mieru)": "To be seen",
+        "磨く (migaku)": "To polish / To brush",
+        "見る (miru)": "To see / To watch",
+        "見せる (miseru)": "To show",
+        "認める (mitomeru)": "To admit / To recognize",
+        "見つかる (mitsukaru)": "To be found",
+        "見つける (mitsukeru)": "To find",
+        "戻る (modoru)": "To return / To go back",
+        "戻す (modosu)": "To restore / To put back",
+        "燃える (moeru)": "To burn",
+        "もらう (morau)": "To receive",
+        "持つ (motsu)": "To hold / To have",
+        "向かう (mukau)": "To face / To head towards",
+        "向ける (mukeru)": "To turn towards",
+        "向く (muku)": "To face / To be suited for",
+        "結ぶ (musubu)": "To tie / To connect",
+        "なでる (naderu)": "To pet / To stroke",
+        "眺める (nagameru)": "To gaze at",
+        "流れる (nagareru)": "To flow",
+        "流す (nagasu)": "To let flow / To flush",
+        "投げる (nageru)": "To throw",
+        "泣く (naku)": "To cry",
+        "鳴く (naku)": "To make sound (animal)",
+        "なくなる (nakunaru)": "To disappear / To be lost",
+        "なくす (nakusu)": "To lose something",
+        "直る (naoru)": "To be fixed / To heal",
+        "直す (naosu)": "To fix / To repair",
+        "並べる (naraberu)": "To line up (transitive)",
+        "並ぶ (narabu)": "To line up (intransitive)",
+        "習う (narau)": "To learn (from someone)",
+        "慣れる (nareru)": "To get used to",
+        "なる (naru)": "To become",
+        "悩む (nayamu)": "To worry",
+        "寝る (neru)": "To sleep",
+        "似合う (niau)": "To suit / To match",
+        "逃げる (nigeru)": "To run away",
+        "握る (nigiru)": "To grasp / To grip",
+        "にらむ (niramu)": "To glare at",
+        "似る (niru)": "To resemble",
+        "伸ばす (nobasu)": "To stretch / To lengthen",
+        "伸びる (nobiru)": "To stretch / To grow",
+        "登る (noboru)": "To climb",
+        "残る (nokoru)": "To remain / To be left",
+        "残す (nokosu)": "To leave behind",
+        "飲む (nomu)": "To drink",
+        "乗る (noru)": "To ride / To get on",
+        "除く (nozoku)": "To remove / To exclude",
+        "望む (nozomu)": "To desire / To wish for",
+        "脱ぐ (nugu)": "To take off (clothes)",
+        "抜ける (nukeru)": "To come out / To fall out",
+        "抜く (nuku)": "To extract / To pull out",
+        "濡れる (nureru)": "To get wet",
+        "塗る (nuru)": "To paint / To spread",
+        "盗む (nusumu)": "To steal",
+        "覚える (oboeru)": "To remember",
+        "落ちる (ochiru)": "To fall",
+        "驚く (odoroku)": "To be surprised",
+        "踊る (odoru)": "To dance",
+        "終える (oeru)": "To finish",
+        "補う (oginau)": "To compensate",
+        "起きる (okiru)": "To wake up",
+        "行う (okonau)": "To perform",
+        "怒る (okoru)": "To get angry",
+        "起こる (okoru)": "To occur / To happen",
+        "起こす (okosu)": "To wake someone up / To cause",
+        "遅れる (okureru)": "To be late",
+        "送る (okuru)": "To send",
+        "思い出す (omoidasu)": "To remember / To recall",
+        "思う (omou)": "To think",
+        "折れる (oreru)": "To break / To be folded",
+        "降りる (oriru)": "To get off / To descend",
+        "下ろす (orosu)": "To take down / To withdraw",
+        "折る (oru)": "To fold / To break (transitive)",
+        "収める (osameru)": "To supply / To dedicate",
+        "教える (oshieru)": "To teach / To tell",
+        "惜しむ (oshimu)": "To regret",
+        "恐れる (osoreru)": "To fear",
+        "押す (osu)": "To push",
+        "訪れる (otozureru)": "To visit",
+        "追う (ou)": "To chase",
+        "終わる (owaru)": "To end",
+        "泳ぐ (oyogu)": "To swim",
+        "下がる (sagaru)": "To go down",
+        "探す (sagasu)": "To search",
+        "下げる (sageru)": "To lower / To hang",
+        "咲く (saku)": "To bloom",
+        "叫ぶ (sakebu)": "To shout",
+        "避ける (sakeru)": "To avoid",
+        "冷める (sameru)": "To cool down",
+        "支える (sasaeru)": "To support",
+        "誘う (sasou)": "To invite",
+        "刺す (sasu)": "To pierce / To stab",
+        "騒ぐ (sawagu)": "To make noise",
+        "触る (sawaru)": "To touch",
+        "責める (semeru)": "To blame",
+        "しゃべる (shaberu)": "To chat",
+        "縛る (shibaru)": "To tie / To bind",
+        "敷く (shiku)": "To spread out",
+        "閉める (shimeru)": "To close",
+        "示す (shimesu)": "To show",
+        "信じる (shinjiru)": "To believe",
+        "死ぬ (shinu)": "To die",
+        "調べる (shiraberu)": "To investigate",
+        "知らせる (shiraseru)": "To notify",
+        "知る (shiru)": "To know",
+        "従う (shitagau)": "To obey",
+        "沈む (shizumu)": "To sink",
+        "育てる (sodateru)": "To raise / To rear",
+        "育つ (sodatsu)": "To grow up",
+        "染める (someru)": "To dye",
+        "備える (sonaeru)": "To prepare / To equip",
+        "揃う (sorou)": "To be complete / To gather",
+        "沿う (sou)": "To run along",
+        "滑る (suberu)": "To slip / To slide",
+        "過ぎる (sugiru)": "To pass / To exceed",
+        "過ごす (sugosu)": "To spend time",
+        "空く (suku)": "To become empty",
+        "救う (sukuu)": "To save / To rescue",
+        "住む (sumu)": "To live / To reside",
+        "済む (sumu)": "To finish",
+        "する (suru)": "To do",
+        "勧める (susumeru)": "To recommend",
+        "進む (susumu)": "To advance",
+        "捨てる (suteru)": "To throw away",
+        "吸う (suu)": "To breathe in",
+        "座る (suwaru)": "To sit",
+        "食べる (taberu)": "To eat",
+        "耐える (taeru)": "To endure",
+        "高まる (takamaru)": "To rise / To swell",
+        "高める (takameru)": "To raise / To elevate",
+        "保つ (tamotsu)": "To keep / To preserve",
+        "頼む (tanomu)": "To request / To ask",
+        "楽しむ (tanoshimu)": "To enjoy",
+        "倒れる (taoreru)": "To fall over",
+        "倒す (taosu)": "To defeat",
+        "足りる (tariru)": "To be sufficient",
+        "確かめる (tashikameru)": "To confirm",
+        "足す (tasu)": "To add",
+        "助ける (tasukeru)": "To help / To save",
+        "戦う (tatakau)": "To fight",
+        "叩く (tataku)": "To strike",
+        "立てる (tateru)": "To stand up",
+        "立つ (tatsu)": "To stand",
+        "頼る (tayoru)": "To rely on",
+        "尋ねる (tazuneru)": "To ask / To inquire",
+        "手伝う (tetsudau)": "To help",
+        "飛ぶ (tobu)": "To fly",
+        "溶ける (tokeru)": "To melt",
+        "解く (toku)": "To solve / To untie",
+        "止まる (tomaru)": "To stop (intransitive)",
+        "止める (tomeru)": "To stop (transitive)",
+        "取れる (toreru)": "To come off",
+        "取る (toru)": "To take",
+        "捕まえる (tsukamaeru)": "To catch",
+        "捕まる (tsukamaru)": "To be caught",
+        "掴む (tsukamu)": "To grab",
+        "疲れる (tsukareru)": "To get tired",
+        "使う (tsukau)": "To use",
+        "付ける (tsukeru)": "To attach / To turn on",
+        "着く (tsuku)": "To arrive",
+        "作る (tsukuru)": "To make",
+        "詰まる (tsumaru)": "To be blocked",
+        "詰める (tsumeru)": "To stuff / To pack",
+        "積もる (tsumoru)": "To pile up",
+        "積む (tsumu)": "To pile up / To load",
+        "繋がる (tsunagaru)": "To be connected",
+        "繋ぐ (tsunagu)": "To connect",
+        "連れる (tsureru)": "To take along",
+        "伝える (tsutaeru)": "To convey",
+        "伝わる (tsutawaru)": "To be transmitted",
+        "務める (tsutomeru)": "To serve as",
+        "包む (tsutsumu)": "To wrap",
+        "続ける (tsuzukeru)": "To continue (transitive)",
+        "続く (tsuzuku)": "To continue (intransitive)",
+        "奪う (ubau)": "To snatch / To steal",
+        "動かす (ugokasu)": "To move (transitive)",
+        "動く (ugoku)": "To move (intransitive)",
+        "伺う (ukagau)": "To ask / To visit (humble)",
+        "浮かぶ (ukabu)": "To float",
+        "受ける (ukeru)": "To receive / To take (exam)",
+        "受け取る (uketoru)": "To receive",
+        "生まれる (umareru)": "To be born",
+        "産む (umu)": "To give birth",
+        "裏切る (uragiru)": "To betray",
+        "売る (uru)": "To sell",
+        "疑う (utagau)": "To doubt / To suspect",
+        "歌う (utau)": "To sing",
+        "打つ (utsu)": "To hit / To strike",
+        "写す (utsusu)": "To copy / To photograph",
+        "移る (utsuru)": "To move / To transfer",
+        "別れる (wakareru)": "To part / To break up",
+        "分かる (wakaru)": "To understand",
+        "沸かす (wakasu)": "To boil (water)",
+        "分ける (wakeru)": "To divide / To share",
+        "沸く (waku)": "To boil (intransitive)",
+        "笑う (warau)": "To laugh / To smile",
+        "割れる (wareru)": "To break / To crack",
+        "忘れる (wasureru)": "To forget",
+        "渡る (wataru)": "To cross over",
+        "渡す (watasu)": "To hand over",
+        "破れる (yabureru)": "To get torn",
+        "破る (yaburu)": "To tear / To break (promise)",
+        "焼ける (yakeru)": "To burn / To be roasted",
+        "焼く (yaku)": "To bake / To grill",
+        "辞める (yameru)": "To quit",
+        "止む (yamu)": "To stop (rain/snow)",
+        "やる (yaru)": "To do / To give",
+        "痩せる (yaseru)": "To lose weight",
+        "休む (yasumu)": "To rest / To take a break",
+        "雇う (yatou)": "To hire",
+        "呼ぶ (yobu)": "To call",
+        "読む (yomu)": "To read",
+        "喜ぶ (yorokobu)": "To be glad / To be pleased",
+        "寄る (yoru)": "To drop by",
+        "寄せる (yoseru)": "To bring near",
+        "酔う (you)": "To get drunk",
+        "許す (yurusu)": "To forgive / To permit",
+        "揺れる (yureru)": "To shake / To sway"
+    };
 
-  _staticDataCache = {
-    CUSTOM_LIBRARY,
-    TENSE_GUIDE,
-    ALL_TENSES,
-    ALL_VERBS,
-    VERB_TRANSLATIONS
-  };
+    _staticDataCache = {
+        CUSTOM_LIBRARY,
+        TENSE_GUIDE,
+        ALL_TENSES,
+        ALL_VERBS,
+        VERB_TRANSLATIONS
+    };
 
     return _staticDataCache;
 }
