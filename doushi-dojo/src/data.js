@@ -5,103 +5,103 @@ export function getStaticData() {
 
     // *** GUIDE CONTENT (JAPANESE FORMS) ***
     const TENSE_GUIDE = [
-    {
-      name: "Polite Present (Masu form)",
-      usage: "Used in formal situations to state habits, general truths, or future actions.",
-      structure: "Verb stem + ます (masu). For Ru-verbs: drop 'ru' add 'masu'. For U-verbs: change 'u' sound to 'i' sound + 'masu'.",
-      example: "食べる (taberu) -> 食べます (tabemasu) / 行く (iku) -> 行きます (ikimasu)",
-      exceptions: "する (suru) becomes します (shimasu). 来る (kuru) becomes 来ます (kimasu)."
-    },
-    {
-      name: "Polite Past (Mashita form)",
-      usage: "Used in formal situations to describe an action completed in the past.",
-      structure: "Verb stem + ました (mashita). Follows the same stem rules as the Masu form.",
-      example: "食べる (taberu) -> 食べました (tabemashita)",
-      exceptions: "する (suru) becomes しました (shimashita). 来る (kuru) becomes 来ました (kimashita)."
-    },
-    {
-      name: "Plain Negative (Nai form)",
-      usage: "Used in casual speech to state that an action will not happen.",
-      structure: "Ru-verbs: drop 'ru', add 'nai'. U-verbs: change 'u' sound to 'a' sound + 'nai'.",
-      example: "食べる (taberu) -> 食べない (tabenai) / 行く (iku) -> 行かない (ikanai)",
-      exceptions: "ある (aru) completely changes to ない (nai). する (suru) becomes しない (shinai). 来る (kuru) becomes こない (konai)."
-    },
-    {
-      name: "Te-Form",
-      usage: "Used to connect sentences, make requests (with kudasai), or indicate ongoing action (with iru).",
-      structure: "Ru-verbs: drop 'ru', add 'te'. U-verbs depend on ending (u/tsu/ru -> tte, mu/bu/nu -> nde, ku -> ite, gu -> ide).",
-      example: "食べる (taberu) -> 食べて (tabete) / 飲む (nomu) -> 飲んで (nonde)",
-      exceptions: "行く (iku) is an exception and becomes 行って (itte) instead of 行いて (iite). する (suru) -> して (shite). 来る (kuru) -> 来て (kite)."
-    },
-    {
-      name: "Plain Past (Ta form)",
-      usage: "Casual past tense. Follows the exact same conjugation rules as the Te-form, but ending in 'ta' or 'da'.",
-      structure: "Ru-verbs: drop 'ru', add 'ta'. U-verbs: te -> ta, de -> da.",
-      example: "食べる (taberu) -> 食べた (tabeta) / 飲む (nomu) -> 飲んだ (nonda)",
-      exceptions: "行く (iku) becomes 行った (itta). する (suru) -> した (shita). 来る (kuru) -> 来た (kita)."
-    },
-    {
-      name: "Potential Form (Can do)",
-      usage: "Expresses the ability or potential to do something.",
-      structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'e' sound + 'ru'.",
-      example: "食べる (taberu) -> 食べられる (taberareru) / 飲む (nomu) -> 飲める (nomeru)",
-      exceptions: "する (suru) becomes できる (dekiru). 来る (kuru) becomes 来られる (korareru)."
-    },
-    {
-      name: "Volitional Form (Let's do)",
-      usage: "Used to suggest an action or express intention to do something.",
-      structure: "Ru-verbs: drop 'ru', add 'you'. U-verbs: change 'u' sound to 'o' sound + 'u'.",
-      example: "食べる (taberu) -> 食べよう (tabeyou) / 行く (iku) -> 行こう (ikou)",
-      exceptions: "する (suru) becomes しよう (shiyou). 来る (kuru) becomes こよう (koyou)."
-    },
-    {
-      name: "Conditional 'Tara' Form (If / When)",
-      usage: "The most common 'if/then' or 'when' conditional in Japanese.",
-      structure: "Simply add 'ra' (ら) to the Plain Past (Ta form).",
-      example: "食べる (taberu) -> 食べたら (tabetara) / 飲む (nomu) -> 飲んだら (nondara)"
-    },
-    {
-      name: "Conditional 'Ba' Form (If)",
-      usage: "Used for logical conditions ('If X happens, Y will happen').",
-      structure: "Ru-verbs: drop 'ru', add 'reba'. U-verbs: change 'u' sound to 'e' sound + 'ba'.",
-      example: "食べる (taberu) -> 食べれば (tabereba) / 行く (iku) -> 行けば (ikeba)",
-      exceptions: "する (suru) becomes すれば (sureba). 来る (kuru) becomes くれば (kureba)."
-    },
-    {
-      name: "Passive Form (Be done to)",
-      usage: "Expresses an action done *to* the subject, often implying inconvenience.",
-      structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'a' sound + 'reru'.",
-      example: "叱る (shikaru) -> 叱られる (shikarareru) / 踏む (fumu) -> 踏まれる (fumareru)",
-      exceptions: "する (suru) becomes される (sareru). 来る (kuru) becomes こられる (korareru)."
-    },
-    {
-      name: "Causative Form (Make / Let someone do)",
-      usage: "Used when someone forces or allows someone else to do an action.",
-      structure: "Ru-verbs: drop 'ru', add 'saseru'. U-verbs: change 'u' sound to 'a' sound + 'seru'.",
-      example: "待つ (matsu) -> 待たせる (mataseru) / 食べる (taberu) -> 食べさせる (tabesaseru)",
-      exceptions: "する (suru) becomes させる (saseru). 来る (kuru) becomes こさせる (kosaseru)."
-    },
-    {
-      name: "Causative-Passive Form (Be made to do)",
-      usage: "Used when you are forced to do something against your will.",
-      structure: "Ru-verbs: drop 'ru', add 'saserareru'. U-verbs (ending in su): 'saserareru'. Other U-verbs: change 'u' to 'a' + 'sareru'.",
-      example: "飲む (nomu) -> 飲まされる (nomasareru) / 待つ (matsu) -> 待たされる (matasareru)",
-      exceptions: "する (suru) becomes させられる (saserareru). 来る (kuru) becomes こさせられる (kosaserareru)."
-    },
-    {
-      name: "Imperative Form (Command)",
-      usage: "A forceful command to do something. Usually used by men, in emergencies, or in sports.",
-      structure: "Ru-verbs: drop 'ru', add 'ro'. U-verbs: change 'u' sound to 'e' sound.",
-      example: "食べる (taberu) -> 食べろ (tabero) / 行く (iku) -> 行け (ike)",
-      exceptions: "する (suru) becomes しろ (shiro). 来る (kuru) becomes こい (koi)."
-    },
-    {
-      name: "Prohibitive Form (Negative Command)",
-      usage: "A forceful command *not* to do something.",
-      structure: "Verb dictionary form + な (na).",
-      example: "入る (hairu) -> 入るな (hairuna) / 食べる (taberu) -> 食べるな (taberuna)"
-    }
-  ];
+        {
+            name: "Polite Present (Masu form)",
+            usage: "Used in formal situations to state habits, general truths, or future actions.",
+            structure: "Verb stem + ます (masu). For Ru-verbs: drop 'ru' add 'masu'. For U-verbs: change 'u' sound to 'i' sound + 'masu'.",
+            example: "食べる (taberu) -> 食べます (tabemasu) / 行く (iku) -> 行きます (ikimasu)",
+            exceptions: "する (suru) becomes します (shimasu). 来る (kuru) becomes 来ます (kimasu)."
+        },
+        {
+            name: "Polite Past (Mashita form)",
+            usage: "Used in formal situations to describe an action completed in the past.",
+            structure: "Verb stem + ました (mashita). Follows the same stem rules as the Masu form.",
+            example: "食べる (taberu) -> 食べました (tabemashita)",
+            exceptions: "する (suru) becomes しました (shimashita). 来る (kuru) becomes 来ました (kimashita)."
+        },
+        {
+            name: "Plain Negative (Nai form)",
+            usage: "Used in casual speech to state that an action will not happen.",
+            structure: "Ru-verbs: drop 'ru', add 'nai'. U-verbs: change 'u' sound to 'a' sound + 'nai'.",
+            example: "食べる (taberu) -> 食べない (tabenai) / 行く (iku) -> 行かない (ikanai)",
+            exceptions: "ある (aru) completely changes to ない (nai). する (suru) becomes しない (shinai). 来る (kuru) becomes こない (konai)."
+        },
+        {
+            name: "Te-Form",
+            usage: "Used to connect sentences, make requests (with kudasai), or indicate ongoing action (with iru).",
+            structure: "Ru-verbs: drop 'ru', add 'te'. U-verbs depend on ending (u/tsu/ru -> tte, mu/bu/nu -> nde, ku -> ite, gu -> ide).",
+            example: "食べる (taberu) -> 食べて (tabete) / 飲む (nomu) -> 飲んで (nonde)",
+            exceptions: "行く (iku) is an exception and becomes 行って (itte) instead of 行いて (iite). する (suru) -> して (shite). 来る (kuru) -> 来て (kite)."
+        },
+        {
+            name: "Plain Past (Ta form)",
+            usage: "Casual past tense. Follows the exact same conjugation rules as the Te-form, but ending in 'ta' or 'da'.",
+            structure: "Ru-verbs: drop 'ru', add 'ta'. U-verbs: te -> ta, de -> da.",
+            example: "食べる (taberu) -> 食べた (tabeta) / 飲む (nomu) -> 飲んだ (nonda)",
+            exceptions: "行く (iku) becomes 行った (itta). する (suru) -> した (shita). 来る (kuru) -> 来た (kita)."
+        },
+        {
+            name: "Potential Form (Can do)",
+            usage: "Expresses the ability or potential to do something.",
+            structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'e' sound + 'ru'.",
+            example: "食べる (taberu) -> 食べられる (taberareru) / 飲む (nomu) -> 飲める (nomeru)",
+            exceptions: "する (suru) becomes できる (dekiru). 来る (kuru) becomes 来られる (korareru)."
+        },
+        {
+            name: "Volitional Form (Let's do)",
+            usage: "Used to suggest an action or express intention to do something.",
+            structure: "Ru-verbs: drop 'ru', add 'you'. U-verbs: change 'u' sound to 'o' sound + 'u'.",
+            example: "食べる (taberu) -> 食べよう (tabeyou) / 行く (iku) -> 行こう (ikou)",
+            exceptions: "する (suru) becomes しよう (shiyou). 来る (kuru) becomes こよう (koyou)."
+        },
+        {
+            name: "Conditional 'Tara' Form (If / When)",
+            usage: "The most common 'if/then' or 'when' conditional in Japanese.",
+            structure: "Simply add 'ra' (ら) to the Plain Past (Ta form).",
+            example: "食べる (taberu) -> 食べたら (tabetara) / 飲む (nomu) -> 飲んだら (nondara)"
+        },
+        {
+            name: "Conditional 'Ba' Form (If)",
+            usage: "Used for logical conditions ('If X happens, Y will happen').",
+            structure: "Ru-verbs: drop 'ru', add 'reba'. U-verbs: change 'u' sound to 'e' sound + 'ba'.",
+            example: "食べる (taberu) -> 食べれば (tabereba) / 行く (iku) -> 行けば (ikeba)",
+            exceptions: "する (suru) becomes すれば (sureba). 来る (kuru) becomes くれば (kureba)."
+        },
+        {
+            name: "Passive Form (Be done to)",
+            usage: "Expresses an action done *to* the subject, often implying inconvenience.",
+            structure: "Ru-verbs: drop 'ru', add 'rareru'. U-verbs: change 'u' sound to 'a' sound + 'reru'.",
+            example: "叱る (shikaru) -> 叱られる (shikarareru) / 踏む (fumu) -> 踏まれる (fumareru)",
+            exceptions: "する (suru) becomes される (sareru). 来る (kuru) becomes こられる (korareru)."
+        },
+        {
+            name: "Causative Form (Make / Let someone do)",
+            usage: "Used when someone forces or allows someone else to do an action.",
+            structure: "Ru-verbs: drop 'ru', add 'saseru'. U-verbs: change 'u' sound to 'a' sound + 'seru'.",
+            example: "待つ (matsu) -> 待たせる (mataseru) / 食べる (taberu) -> 食べさせる (tabesaseru)",
+            exceptions: "する (suru) becomes させる (saseru). 来る (kuru) becomes こさせる (kosaseru)."
+        },
+        {
+            name: "Causative-Passive Form (Be made to do)",
+            usage: "Used when you are forced to do something against your will.",
+            structure: "Ru-verbs: drop 'ru', add 'saserareru'. U-verbs (ending in su): 'saserareru'. Other U-verbs: change 'u' to 'a' + 'sareru'.",
+            example: "飲む (nomu) -> 飲まされる (nomasareru) / 待つ (matsu) -> 待たされる (matasareru)",
+            exceptions: "する (suru) becomes させられる (saserareru). 来る (kuru) becomes こさせられる (kosaserareru)."
+        },
+        {
+            name: "Imperative Form (Command)",
+            usage: "A forceful command to do something. Usually used by men, in emergencies, or in sports.",
+            structure: "Ru-verbs: drop 'ru', add 'ro'. U-verbs: change 'u' sound to 'e' sound.",
+            example: "食べる (taberu) -> 食べろ (tabero) / 行く (iku) -> 行け (ike)",
+            exceptions: "する (suru) becomes しろ (shiro). 来る (kuru) becomes こい (koi)."
+        },
+        {
+            name: "Prohibitive Form (Negative Command)",
+            usage: "A forceful command *not* to do something.",
+            structure: "Verb dictionary form + な (na).",
+            example: "入る (hairu) -> 入るな (hairuna) / 食べる (taberu) -> 食べるな (taberuna)"
+        }
+    ];
 
     // *** CUSTOM SENTENCE LIBRARY (JAPANESE) ***
     const CUSTOM_LIBRARY = [
@@ -17804,6 +17804,643 @@ export function getStaticData() {
             "translation": "If we open this road, the village will be revitalized.",
             "kana": "あければ",
             "reading": "この みち を あければ、 むら が かっせいか する。"
+        }, {
+            "verb": "諦める (akirameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "夢を簡単に[諦められません]。",
+            "translation": "I cannot give up on my dream easily.",
+            "kana": "あきらめられません",
+            "reading": "ゆめ を かんたん に あきらめられません。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "このゲームは一生[飽きられません]よ。",
+            "translation": "You won't be able to get tired of this game for a lifetime.",
+            "kana": "あきられません",
+            "reading": "この げーむ は いっしょう あきられません よ。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "もう無理だ、[諦めよう]。",
+            "translation": "It's impossible already, let's give up.",
+            "kana": "あきらめよう",
+            "reading": "もう むり だ、 あきらめよう。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "同じ味にはすぐ[飽きよう]が、今はこれを楽しもう。",
+            "translation": "We might get tired of the same taste soon, but let's enjoy this for now.",
+            "kana": "あきよう",
+            "reading": "おなじ あじ に は すぐ あきよう が、 いま は これ を たのしもう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "試合を[諦めたら]、そこで終わりですよ。",
+            "translation": "If you give up the match, it's over right there.",
+            "kana": "あきらめたら",
+            "reading": "しあい を あきらめたら、 そこで おわり です よ。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "勉強に[飽きたら]、散歩に行きましょう。",
+            "translation": "If/When you get tired of studying, let's go for a walk.",
+            "kana": "あきたら",
+            "reading": "べんきょう に あきたら、 さんぽ に いきましょう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If)",
+            "text": "今[諦めれば]、後悔することになる。",
+            "translation": "If you give up now, you will end up regretting it.",
+            "kana": "あきらめれば",
+            "reading": "いま あきらめれば、 こうかい する こと に なる。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If)",
+            "text": "毎日食べ[飽きれば]、他のものが欲しくなる。",
+            "translation": "If you get tired of eating it every day, you'll want something else.",
+            "kana": "あきれば",
+            "reading": "まいにち たべ あきれば、 ほか の もの が ほしく なる。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "最後まで[諦められる]強さが欲しい。",
+            "translation": "I want the strength to be able to (not) give up until the end.",
+            "kana": "あきらめられる",
+            "reading": "さいご まで あきらめられる つよさ が ほしい。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "趣味が多すぎて、[飽きられません]。",
+            "translation": "I have so many hobbies that I can't get bored.",
+            "kana": "あきられません",
+            "reading": "しゅみ が おおすぎて、 あきられません。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "悪い習慣を[諦めましょう]。",
+            "translation": "Let's give up our bad habits.",
+            "kana": "あきらめましょう",
+            "reading": "わるい しゅうかん を あきらめましょう。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "トランプは[飽きよう]、別の遊びをしよう。",
+            "translation": "Let's be done with cards (as we'll get tired of them), let's play something else.",
+            "kana": "あきよう",
+            "reading": "とらんぷ は あきよう、 べつ の あそび を しよう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "一度[諦めたら]、次はありません。",
+            "translation": "Once you give up, there is no next time.",
+            "kana": "あきらめたら",
+            "reading": "いちど あきらめたら、 つぎ は ありません。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "おもちゃに[飽きたら]、片付けてね。",
+            "translation": "When you're bored with the toy, tidy it up, okay?",
+            "kana": "あきたら",
+            "reading": "おもちゃ に あきたら、 かたづけて ね。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If)",
+            "text": "目標を[諦めれば]、楽になれるかもしれない。",
+            "translation": "If you give up your goals, you might feel more at ease.",
+            "kana": "あきらめれば",
+            "reading": "もくひょう を あきらめれば、 らく に なれる かもしれない。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If)",
+            "text": "読書に[飽きれば]、音楽を聴きます。",
+            "translation": "If I get tired of reading, I listen to music.",
+            "kana": "あきれば",
+            "reading": "どくしょ に あきれば、 おんがく を ききます。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "彼はどんな困難でも[諦められます]。",
+            "translation": "He is capable of giving up (choosing to let go of) any difficulty.",
+            "kana": "あきらめられます",
+            "reading": "かれ は どんな こんなん でも あきらめられます。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この美しさは、いつまで見ていても[飽きられません]。",
+            "translation": "No matter how long I look at this beauty, I can't get tired of it.",
+            "kana": "あきられません",
+            "reading": "この うつくしさは、 いつ まで みて いても あきられません。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "無駄な抵抗は[諦めよう]。",
+            "translation": "Let's give up pointless resistance.",
+            "kana": "あきらめよう",
+            "reading": "むだ な ていこう は あきらめよう。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "テレビは[飽きよう]。外に出よう。",
+            "translation": "Let's be tired of TV. Let's go outside.",
+            "kana": "あきよう",
+            "reading": "てれび は あきよう。 そと に でよう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "そんなに辛いなら[諦めたら]どうですか？",
+            "translation": "If it's that painful, how about giving up?",
+            "kana": "あきらめたら",
+            "reading": "そんな に つらい なら あきらめたら どう です か？"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "仕事に[飽きたら]、転職を考えます。",
+            "translation": "If I get tired of my job, I'll think about changing careers.",
+            "kana": "あきたら",
+            "reading": "しごと に あきたら、 てんしょく を かんがえます。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If)",
+            "text": "自分の可能性を[諦めれば]、成長は止まる。",
+            "translation": "If you give up on your potential, growth stops.",
+            "kana": "あきらめれば",
+            "reading": "じぶん の かのうせい を あきらめれば、 せいちょう は とまる。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If)",
+            "text": "この生活に[飽きれば]、旅に出るだろう。",
+            "translation": "If I get tired of this life, I'll probably go on a journey.",
+            "kana": "あきれば",
+            "reading": "この せいかつ に あきれば、 たび に でる だろう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "昨日までは[諦められた]のに、今日はできない。",
+            "translation": "I was able to give up until yesterday, but today I can't.",
+            "kana": "あきらめられた",
+            "reading": "きのう まで は あきらめられた のに、 きょう は できない。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "猫の動画はいくら見ても[飽きられません]。",
+            "translation": "No matter how many cat videos I watch, I can't get bored.",
+            "kana": "あきられません",
+            "reading": "ねこ の どうが は いくら みて も あきられません。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "過去のことは[諦めましょう]。",
+            "translation": "Let's let go of (give up) the past.",
+            "kana": "あきらめましょう",
+            "reading": "かこ の こと は あきらめましょう。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "そろそろこの話題には[飽きよう]。話を変えよう。",
+            "translation": "Let's be done with this topic. Let's change the subject.",
+            "kana": "あきよう",
+            "reading": "そろそろ この わだい に は あきよう。 はなし を かえよう。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "計画を[諦めたら]、報告してください。",
+            "translation": "When you give up on the plan, please report it.",
+            "kana": "あきらめたら",
+            "reading": "けいかく を あきらめたら、 ほうこく して ください。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "都会に[飽きたら]、田舎へ帰りなさい。",
+            "translation": "If you get tired of the city, go back to the countryside.",
+            "kana": "あきたら",
+            "reading": "とかい に あきたら、 いなか へ かえりなさい。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If)",
+            "text": "勝負を[諦めれば]、負けが確定する。",
+            "translation": "If you give up the fight, your defeat is confirmed.",
+            "kana": "あきらめれば",
+            "reading": "しょうぶ を あきらめれば、 まけ が かくてい する。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If)",
+            "text": "流行に[飽きれば]、本物が見えてくる。",
+            "translation": "If you get tired of trends, you'll start to see what's authentic.",
+            "kana": "あきれば",
+            "reading": "りゅうこう に あきれば、 ほんもの が みえて くる。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんな理由で[諦められます]か。",
+            "translation": "Can you really give up for such a reason?",
+            "kana": "あきらめられます",
+            "reading": "そんな りゆう で あきらめられます か。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この曲は毎日聴いても[飽きられません]。",
+            "translation": "I can't get tired of this song even if I listen to it every day.",
+            "kana": "あきられません",
+            "reading": "この きょく は まいにち きいて も あきられません。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "贅沢は[諦めよう]。",
+            "translation": "Let's give up on luxuries.",
+            "kana": "あきらめよう",
+            "reading": "ぜいたく は あきらめよう。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今の生活に[飽きよう]としている自分がいる。",
+            "translation": "Part of me is trying to grow tired of my current life.",
+            "kana": "あきよう",
+            "reading": "いま の せいかつ に あきよう と して いる じぶん が いる。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "権利を[諦めたら]、サインしてください。",
+            "translation": "If you waive (give up) your rights, please sign here.",
+            "kana": "あきらめたら",
+            "reading": "けんり を あきらめたら、 さいん して ください。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "雨に[飽きたら]、晴れが恋しくなる。",
+            "translation": "When you get tired of the rain, you miss the sunshine.",
+            "kana": "あきたら",
+            "reading": "あめ に あきたら、 はれ が こいしく なる。"
+        },
+        {
+            "verb": "諦める (akirameru)",
+            "tense": "Conditional Form (If)",
+            "text": "ここで[諦めれば]、全てが水の泡だ。",
+            "translation": "If you give up here, everything will go down the drain.",
+            "kana": "あきらめれば",
+            "reading": "ここで あきらめれば、 すべて が みず の あわ だ。"
+        },
+        {
+            "verb": "飽きる (akiru)",
+            "tense": "Conditional Form (If)",
+            "text": "お菓子に[飽きれば]、ご飯が食べたくなる。",
+            "translation": "If you get tired of sweets, you'll want to eat a proper meal.",
+            "kana": "あきれば",
+            "reading": "おかし に あきれば、 ごはん が たべたく なる。"
+        }, {
+            "verb": "開く (aku)",
+            "tense": "Potential Form (Can do)",
+            "text": "このドアは古くて、なかなか[開かない]。",
+            "translation": "This door is old and won't open easily.",
+            "kana": "あかない",
+            "reading": "この どあ は ふるくて、 なかなか あかない。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "料理が多すぎて、どうしても[余ってしまいます]。",
+            "translation": "There is too much food, so it inevitably ends up being left over.",
+            "kana": "あまってしまいます",
+            "reading": "りょうり が おおすぎて、 どうしても あまって しまいます。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しい道が[開こう]としている。",
+            "translation": "A new path is about to open up.",
+            "kana": "あこう",
+            "reading": "あたらしい みち が あこう と して いる。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "時間が[余ろう]が、最後まで丁寧にやろう。",
+            "translation": "Even if time remains, let's do it carefully until the end.",
+            "kana": "あまろう",
+            "reading": "じかん が あまろう が、 さいご まで ていねい に やろう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "穴が[開いたら]、すぐに直してください。",
+            "translation": "If a hole opens up, please fix it immediately.",
+            "kana": "あいたら",
+            "reading": "あな が あいたら、 すぐ に なおして ください。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "お金が[余ったら]、貯金しましょう。",
+            "translation": "If there is money left over, let's save it.",
+            "kana": "あまったら",
+            "reading": "おかね が あまったら、 ちょきん しましょう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If)",
+            "text": "道が[開けば]、もっと便利になるだろう。",
+            "translation": "If the road opens, it will probably become more convenient.",
+            "kana": "あけば",
+            "reading": "みち が あけば、 もっと べんり に なる だろう。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If)",
+            "text": "食材が[余れば]、冷凍保存してください。",
+            "translation": "If ingredients are left over, please freeze them.",
+            "kana": "あまれば",
+            "reading": "しょくざい が あまれば、 れいとう ほぞん して ください。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Potential Form (Can do)",
+            "text": "自動で[開く]傘を買いました。",
+            "translation": "I bought an umbrella that opens automatically.",
+            "kana": "あく",
+            "reading": "じどう で あく かさ を かいました。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "これだけあれば、誰でも[余る]ほど食べられます。",
+            "translation": "With this much, anyone can eat until there is food left over.",
+            "kana": "あまる",
+            "reading": "これ だけ あれば、 だれ でも あまる ほど たべられます。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "幕が[開こう]とする瞬間が一番緊張する。",
+            "translation": "The moment the curtain is about to open is when I'm most nervous.",
+            "kana": "あこう",
+            "reading": "まく が あこう と する しゅんかん が いちばん きんちょう する。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "ご飯が[余りましょう]から、少なめに炊きます。",
+            "translation": "Since rice will likely be left over, I will cook a small amount.",
+            "kana": "あまりましょう",
+            "reading": "ごはん が あまりましょう から、 すくなめ に たきます。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "お店が[開いたら]、電話しますね。",
+            "translation": "When the shop opens, I'll call you.",
+            "kana": "あいたら",
+            "reading": "おみせ が あいたら、 でんわ します ね。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "生地が[余ったら]、ドーナツを作りましょう。",
+            "translation": "If the dough is left over, let's make donuts.",
+            "kana": "あまったら",
+            "reading": "きじ が あまったら、 どーなつ を つくりましょう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If)",
+            "text": "窓が[開けば]、涼しい風が入ってきます。",
+            "translation": "If the window opens, a cool breeze will come in.",
+            "kana": "あけば",
+            "reading": "まど が あけば、 すずしい かぜ が はいって きます。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If)",
+            "text": "チケットが[余れば]、私にください。",
+            "translation": "If there are tickets left over, please give them to me.",
+            "kana": "あまれば",
+            "reading": "ちけっと が あまれば、 わたし に ください。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Potential Form (Can do)",
+            "text": "鍵が壊れていて、どうしても[開かない]。",
+            "translation": "The lock is broken, so it just won't open.",
+            "kana": "あかない",
+            "reading": "かぎ が こわれて いて、 どうしても あかない。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "力は[余っています]から、手伝いますよ。",
+            "translation": "I have energy (strength) to spare, so I'll help you.",
+            "kana": "あまっています",
+            "reading": "ちから は あまって います から、 てつだいます よ。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "未来を[開こう]。",
+            "translation": "Let's open up the future.",
+            "kana": "あこう",
+            "reading": "みらい を あこう。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "材料が[余ろう]と、気にせず作り続けよう。",
+            "translation": "Even if materials are left over, let's keep making it without worrying.",
+            "kana": "あまろう",
+            "reading": "ざいりょう が あまろう と、 きに せず つくり つづけよう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "予定が[開いたら]、遊びに行こう。",
+            "translation": "If/When your schedule opens up, let's go out.",
+            "kana": "あいたら",
+            "reading": "よてい が あいたら、 あそび に いこう。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "景品が[余ったら]、子供たちにあげてください。",
+            "translation": "If the prizes are left over, please give them to the children.",
+            "kana": "あまったら",
+            "reading": "けいひん が あまったら、 こどもたち に あげて ください。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If)",
+            "text": "口が[開けば]、何か話せるかもしれない。",
+            "translation": "If my mouth opens (if I can speak), I might be able to say something.",
+            "kana": "あけば",
+            "reading": "くち が あけば、 なにか はなせる かもしれない。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If)",
+            "text": "時間が[余れば]、見直しをしてください。",
+            "translation": "If there is time left over, please review your work.",
+            "kana": "じかん が あまれば、 みなおし を して ください。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Potential Form (Can do)",
+            "text": "このネジは[開かない]ようになっている。",
+            "translation": "This screw is designed not to open (come loose).",
+            "kana": "あかない",
+            "reading": "この ねじ は あかない よう に なって いる。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "在庫が[余らない]ように調整します。",
+            "translation": "I will adjust it so that the stock doesn't remain left over.",
+            "kana": "あまらない",
+            "reading": "ざいこ が あまらない よう に ちょうせい します。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "窓を[開けよう]としても[開かない]から困った。",
+            "translation": "I'm in trouble because even if I try to open the window, it won't open.",
+            "kana": "あかない",
+            "reading": "まど を あけよう と しても あかない から こまった。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "賞味期限が近いから、[余らせよう]がない。",
+            "translation": "The expiration date is close, so we can't let it go to waste (remain).",
+            "kana": "あまらせよう",
+            "reading": "しょうみきげん が ちかい から、 あまらせよう が ない。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "席が[開いたら]、座ってもいいですよ。",
+            "translation": "When a seat becomes free (opens up), you may sit down.",
+            "kana": "あいたら",
+            "reading": "せき が あいたら、 すわっても いい です よ。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "パンが[余ったら]、ラスクにしましょう。",
+            "translation": "If the bread is left over, let's make rusks.",
+            "kana": "あまったら",
+            "reading": "ぱん が あまったら、 らすく に しましょう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If)",
+            "text": "心が[開けば]、友達も増えるでしょう。",
+            "translation": "If your heart opens, you will probably make more friends.",
+            "kana": "あけば",
+            "reading": "こころ が あけば、 ともだち も ふえる でしょう。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If)",
+            "text": "予算が[余れば]、備品を買います。",
+            "translation": "If there is surplus in the budget, we will buy equipment.",
+            "kana": "あまれば",
+            "reading": "よさん が あまれば、 びひん を かいます。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Potential Form (Can do)",
+            "text": "この箱は横からも[開く]んですか？",
+            "translation": "Does this box also open from the side?",
+            "kana": "あく",
+            "reading": "この はこ は よこ から も あく ん です か？"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "仕事が[余っている]なら、代わりましょうか。",
+            "translation": "If there is work left over, shall I take over for you?",
+            "kana": "あまっている",
+            "reading": "しごと が あまって いる なら、 かわりましょう か。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しい時代を[開こう]。",
+            "translation": "Let's open a new era.",
+            "kana": "あこう",
+            "reading": "あたらしい じだい を あこう。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "寄付金が[余りましょう]から、福祉に回しましょう。",
+            "translation": "Since donation money will likely be left over, let's direct it to welfare.",
+            "kana": "あまりましょう",
+            "reading": "きふきん が あまりましょう から、 ふくし に まわしましょう。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "袋が[開いたら]、香りが広がった。",
+            "translation": "When the bag opened, the aroma spread out.",
+            "kana": "あいたら",
+            "reading": "ふくろ が あいたら、 かおり が ひろがった。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "情熱が[余ったら]、創作活動にぶつけなさい。",
+            "translation": "If you have passion to spare, pour it into creative activities.",
+            "kana": "あまったら",
+            "reading": "じょうねつ が あまったら、 そうさく かつどう に ぶつけなさい。"
+        },
+        {
+            "verb": "開く (aku)",
+            "tense": "Conditional Form (If)",
+            "text": "可能性が[開けば]、道は見えてくる。",
+            "translation": "If possibilities open up, the way will become clear.",
+            "kana": "あけば",
+            "reading": "かのうせい が あけば、 みち は みえて くる。"
+        },
+        {
+            "verb": "余る (amaru)",
+            "tense": "Conditional Form (If)",
+            "text": "商品が[余れば]、セールを行います。",
+            "translation": "If products are left over, we will hold a sale.",
+            "kana": "あまれば",
+            "reading": "しょうひん が あまれば、 せーる を おこないます。"
         }
 
     ];
