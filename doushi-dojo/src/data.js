@@ -18441,6 +18441,2561 @@ export function getStaticData() {
             "translation": "If products are left over, we will hold a sale.",
             "kana": "あまれば",
             "reading": "しょうひん が あまれば、 せーる を おこないます。"
+        }, {
+            "verb": "案じる (anjiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "親の心を[案じられます]か。",
+            "translation": "Can you concern yourself with (understand) a parent's heart?",
+            "kana": "あんじられます",
+            "reading": "おや の こころ を あんじられます か。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Potential Form (Can do)",
+            "text": "この汚れは水で[洗えます]。",
+            "translation": "This stain can be washed with water.",
+            "kana": "あらえます",
+            "reading": "この よごれ は みず で あらえます。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "結果を[案じよう]。対策を練るために。",
+            "translation": "Let's consider (worry about) the results, in order to plan a strategy.",
+            "kana": "あんじよう",
+            "reading": "けっか を あんじよう。 たいさく を ねる ため に。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "夕飯の前に手を[洗おう]。",
+            "translation": "Let's wash our hands before dinner.",
+            "kana": "あらおう",
+            "reading": "ゆうはん の まえ に て を あらおう。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "将来を[案じたら]、きりがありません。",
+            "translation": "If you worry about the future, there is no end to it.",
+            "kana": "あんじたら",
+            "reading": "しょうらい を あんじたら、 きり が ありません。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If / When)",
+            "text": "車を[洗ったら]、雨が降ってきた。",
+            "translation": "When I washed the car, it started raining.",
+            "kana": "あらったら",
+            "reading": "くるま を あらったら、 あめ が ふって きた。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If)",
+            "text": "国の行く末を[案じれば]、行動せずにはいられない。",
+            "translation": "If one worries about the country's future, one cannot help but take action.",
+            "kana": "あんじれば",
+            "reading": "くに の ゆくすえ を あんじれば、 こうどう せず に は いられない。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If)",
+            "text": "野菜をよく[洗えば]、生で食べられます。",
+            "translation": "If you wash the vegetables well, you can eat them raw.",
+            "kana": "あらえば",
+            "reading": "やさい を よく あらえば、 なま で たべられます。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "あまり[案じられすぎる]のも困りものだ。",
+            "translation": "Being worried about too much (by others) is also a bit of a problem.",
+            "kana": "あんじられすぎる",
+            "reading": "あまり あんじられすぎる の も こまりもの だ。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Potential Form (Can do)",
+            "text": "一人で背中まで[洗えます]か。",
+            "translation": "Can you wash your back by yourself?",
+            "kana": "あらえます",
+            "reading": "ひとり で せなか まで あらえます か。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "策を[案じましょう]。",
+            "translation": "Let's devise (think up) a plan.",
+            "kana": "あんじましょう",
+            "reading": "さく を あんじましょう。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "汚れた服を[洗おう]。",
+            "translation": "Let's wash the dirty clothes.",
+            "kana": "あらおう",
+            "reading": "よごれた ふく を あらおう。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "母が私の体を[案じたら]、電話をくれた。",
+            "translation": "When my mother worried about my health, she gave me a call.",
+            "kana": "あんじたら",
+            "reading": "はは が わたし の からだ を あんじたら、 でんわ を くれた。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If / When)",
+            "text": "スニーカーを[洗ったら]、綺麗になった。",
+            "translation": "When I washed the sneakers, they became clean.",
+            "kana": "あらったら",
+            "reading": "すにーかー を あらったら、 きれい に なった。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If)",
+            "text": "子供の将来を[案じれば]こそ、厳しくするのです。",
+            "translation": "It is precisely because I worry about the child's future that I am strict.",
+            "kana": "あんじれば",
+            "reading": "こども の しょうらい を あんじれば こそ、 きびしく する の です。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If)",
+            "text": "こまめに手を[洗えば]、風邪をひきにくい。",
+            "translation": "If you wash your hands frequently, you're less likely to catch a cold.",
+            "kana": "あらえば",
+            "reading": "こまめ に て を あらえば、 かぜ を ひきにくい。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この状況では、誰もが良い結末を[案じられない]。",
+            "translation": "In this situation, no one can conceive (worry into existence) a good ending.",
+            "kana": "あんじられない",
+            "reading": "この じょうきょう で は、 だれ も が よい けつまつ を あんじられない。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Potential Form (Can do)",
+            "text": "洗濯機で[洗える]毛布ですか。",
+            "translation": "Is this a blanket that can be washed in a washing machine?",
+            "kana": "あらえる",
+            "reading": "せんたくき で あらえる もうふ です か。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今夜はぐっすり眠って、明日のことは明日[案じよう]。",
+            "translation": "Let's sleep soundly tonight and worry about tomorrow tomorrow.",
+            "kana": "あんじよう",
+            "reading": "こんや は ぐっすり ねむって、 あした の こと は あした あんじよう。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "一緒に皿を[洗いましょう]。",
+            "translation": "Let's wash the dishes together.",
+            "kana": "あらいましょう",
+            "reading": "いっしょ に さら を あらいましょう。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "病状を[案じたら]、お見舞いに行きましょう。",
+            "translation": "If you are concerned about their medical condition, let's go visit them.",
+            "kana": "あんじたら",
+            "reading": "びょうじょう を あんじたら、 おみまい に いきましょう。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If / When)",
+            "text": "顔を[洗ったら]、目が覚めました。",
+            "translation": "When I washed my face, I woke up.",
+            "kana": "あらったら",
+            "reading": "かお を あらったら、 め が さめました。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If)",
+            "text": "健康を[案じれば]、たばこはやめるべきだ。",
+            "translation": "If you worry about your health, you should quit smoking.",
+            "kana": "あんじれば",
+            "reading": "けんこう を あんじれば、 たばこ は やめる べき だ。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If)",
+            "text": "髪を[洗えば]、さっぱりしますよ。",
+            "translation": "If you wash your hair, you'll feel refreshed.",
+            "kana": "あらえば",
+            "reading": "かみ を あらえば、 さっぱり します よ。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "自分一人のことで精一杯で、他人のことまで[案じられません]。",
+            "translation": "I have my hands full with my own problems and cannot concern myself with others.",
+            "kana": "あんじられません",
+            "reading": "じぶん ひとり の こと で せいいっぱい で、 たにん の こと まで あんじられません。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Potential Form (Can do)",
+            "text": "この靴は丸ごと[洗えます]か。",
+            "translation": "Can these shoes be washed entirely?",
+            "kana": "あらえます",
+            "reading": "この くつ は まるごと あらえます か。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "過ぎたことを[案じる]のはもうやめよう。",
+            "translation": "Let's stop worrying about things that have already passed.",
+            "kana": "あんじよう",
+            "reading": "すぎた こと を あんじる の は もう やめよう。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "週末にカーテンを[洗おう]と思います。",
+            "translation": "I think I'll wash the curtains this weekend.",
+            "kana": "あらおう",
+            "reading": "しゅうまつ に かーてん を あらおう と おもいます。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "不況を[案じたら]、投資はできません。",
+            "translation": "If you worry about the recession, you can't invest.",
+            "kana": "あんじたら",
+            "reading": "ふきょう を あんじたら、 とうし は できません。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If / When)",
+            "text": "果物を[洗ったら]、お皿に並べてください。",
+            "translation": "When you've washed the fruit, please arrange it on the plate.",
+            "kana": "あらったら",
+            "reading": "くだもの を あらったら、 おさら に ならべて ください。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If)",
+            "text": "世の中を[案じれば]こそ、声を上げるのです。",
+            "translation": "It is because I worry for the world that I speak out.",
+            "kana": "あんじれば",
+            "reading": "よのなか を あんじれば こそ、 こえ を あげる の です。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If)",
+            "text": "ブラシで[洗えば]、もっと綺麗になります。",
+            "translation": "If you wash it with a brush, it will become cleaner.",
+            "kana": "あらえば",
+            "reading": "ぶらし で あらえば、 もっと きれい に なります。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんなに[案じられなくて]も大丈夫ですよ。",
+            "translation": "You don't have to be so worried, it's okay.",
+            "kana": "あんじられなくて",
+            "reading": "そんな に あんじられなくて も だいじょうぶ です よ。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Potential Form (Can do)",
+            "text": "インクのシミは[洗っても]落ちません。",
+            "translation": "Ink stains won't come out even if you wash them.",
+            "kana": "あらっても",
+            "reading": "いんく の しみ は あらっても おちません。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しいプロジェクトの進捗を[案じよう]。",
+            "translation": "Let's keep an eye on (concern ourselves with) the progress of the new project.",
+            "kana": "あんじよう",
+            "reading": "あたらしい ぷろじぇくと の しんちょく を あんじよう。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "自転車をピカピカに[洗おう]。",
+            "translation": "Let's wash the bicycle until it's sparkling.",
+            "kana": "あらおう",
+            "reading": "じてんしゃ を ぴかぴか に あらおう。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "身を[案じたら]、これ以上は無理をしないで。",
+            "translation": "If you care for your well-being, don't overdo it anymore.",
+            "kana": "あんじたら",
+            "reading": "み を あんじたら、 これ いじょう は むり を しないで。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If / When)",
+            "text": "床を[洗ったら]、滑りやすくなりました。",
+            "translation": "When I washed the floor, it became slippery.",
+            "kana": "あらったら",
+            "reading": "ゆか を あらったら、 すべりやすく なりました。"
+        },
+        {
+            "verb": "案じる (anjiru)",
+            "tense": "Conditional Form (If)",
+            "text": "環境破壊を[案じれば]、プラスチックを減らすべきだ。",
+            "translation": "If we worry about environmental destruction, we should reduce plastic.",
+            "kana": "あんじれば",
+            "reading": "かんきょうはかい を あんじれば、 ぷらすちっく を へらす べき だ。"
+        },
+        {
+            "verb": "洗う (arau)",
+            "tense": "Conditional Form (If)",
+            "text": "石鹸で[洗えば]、バイ菌がいなくなります。",
+            "translation": "If you wash with soap, the germs will go away.",
+            "kana": "あらえば",
+            "reading": "せっけん で あらえば、 ばいきん が いなく なります。"
+        }, {
+            "verb": "現れる (arawareru)",
+            "tense": "Potential Form (Can do)",
+            "text": "霧が晴れて、ようやく山が[現れられました]。",
+            "translation": "The mist cleared, and the mountain was finally able to appear.",
+            "kana": "あらわれられました",
+            "reading": "きり が はれて、 ようやく やま が あらわれられました。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Potential Form (Can do)",
+            "text": "感謝の気持ちを言葉で[表せます]か。",
+            "translation": "Can you express your feelings of gratitude in words?",
+            "kana": "あらわせます",
+            "reading": "かんしゃ の きもち を ことば で あらわせます か。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "勇気を持って、みんなの前に[現れよう]。",
+            "translation": "Let's have courage and appear before everyone.",
+            "kana": "あらわれよう",
+            "reading": "ゆうき を もって、 みんな の まえ に あらわれよう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "この感動を絵に[表そう]。",
+            "translation": "Let's express this emotion in a drawing.",
+            "kana": "あらわそう",
+            "reading": "この かんどう を え に あらわそう。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "チャンスが[現れたら]、逃さないでください。",
+            "translation": "If/When an opportunity appears, please don't let it slip away.",
+            "kana": "あらわれたら",
+            "reading": "ちゃんす が あらわれたら、 のがさないで ください。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "数字で[表したら]、もっと分かりやすくなります。",
+            "translation": "If you express it in numbers, it will be easier to understand.",
+            "kana": "あらわしたら",
+            "reading": "すうじ で あらわしたら、 もっと わかりやすく なります。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If)",
+            "text": "本人が[現れれば]、問題は解決します。",
+            "translation": "If the person themselves appears, the problem will be solved.",
+            "kana": "あらわれれば",
+            "reading": "ほんにん が あらわれれば、 もんだい は かいけつ します。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If)",
+            "text": "誠意を[表せば]、きっと許してくれます。",
+            "translation": "If you show (express) your sincerity, they will surely forgive you.",
+            "kana": "あらわせば",
+            "reading": "せいい を あらわせば、 きっと ゆるして くれます。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんな奇跡は二度と[現れない]でしょう。",
+            "translation": "Such a miracle will likely never appear again.",
+            "kana": "あらわれない",
+            "reading": "そんな きせき は にどと あらわれない でしょう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Potential Form (Can do)",
+            "text": "私の辞書には[表せない]ほど嬉しいです。",
+            "translation": "I am so happy that it cannot be expressed (even) in my dictionary.",
+            "kana": "あらわせない",
+            "reading": "わたし の じしょ に は あらわせない ほど うれしい です。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "そろそろ主役が[現れましょう]。",
+            "translation": "Let the protagonist appear (about now).",
+            "kana": "あらわれましょう",
+            "reading": "そろそろ しゅやく が あらわれましょう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "自分の意見をはっきりと[表しましょう]。",
+            "translation": "Let's express our opinions clearly.",
+            "kana": "あらわしましょう",
+            "reading": "じぶん の いけん を はっきり と あらわしましょう。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "犯人が[現れたら]、すぐに知らせてください。",
+            "translation": "When the culprit appears, please inform us immediately.",
+            "kana": "あらわれたら",
+            "reading": "はんにん が あらわれたら、 すぐ に しらせて ください。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "態度で[表したら]、相手に伝わりますよ。",
+            "translation": "If you express it through your attitude, it will reach the other person.",
+            "kana": "あらわしたら",
+            "reading": "たいど で あらわしたら、 あいて に つたわります よ。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If)",
+            "text": "太陽が[現れれば]、暖かくなるでしょう。",
+            "translation": "If the sun appears, it will probably get warmer.",
+            "kana": "あらわれれば",
+            "reading": "たいよう が あらわれれば、 あたたかく なる でしょう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If)",
+            "text": "図に[表せば]、一目瞭然です。",
+            "translation": "If you express it in a diagram, it becomes perfectly clear.",
+            "kana": "あらわせば",
+            "reading": "ず に あらわせば、 いちもくりょうぜん です。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Potential Form (Can do)",
+            "text": "幽霊なんて[現れっこない]よ。",
+            "translation": "There's no way a ghost could appear.",
+            "kana": "あらわれっこない",
+            "reading": "ゆうれい なんて あらわれっこない よ。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Potential Form (Can do)",
+            "text": "複雑な感情は簡単には[表せません]。",
+            "translation": "Complex emotions cannot be expressed easily.",
+            "kana": "あらわせません",
+            "reading": "ふくざつ な かんじょう は かんたん に は あらわせません。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "堂々とステージに[現れよう]。",
+            "translation": "Let's appear on stage with dignity.",
+            "kana": "あらわれよう",
+            "reading": "どうどう と すてーじ に あらわれよう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "平和への願いを歌に[表そう]。",
+            "translation": "Let's express our wish for peace in a song.",
+            "kana": "あらわそう",
+            "reading": "へいわ への ねがい を うた に あらわそう。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "結果が[現れたら]、次の方針を決めましょう。",
+            "translation": "When the results appear, let's decide on the next policy.",
+            "kana": "あらわれたら",
+            "reading": "けっか が あらわれたら、 つぎ の ほうしん を きめましょう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "記号で[表したら]、メモが早く取れます。",
+            "translation": "If you express it with symbols, you can take notes faster.",
+            "kana": "あらわしたら",
+            "reading": "きごう で あらわしたら、 めも が はやく とれます。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If)",
+            "text": "ヒーローが[現れれば]、みんな助かるのに。",
+            "translation": "If a hero would only appear, everyone would be saved.",
+            "kana": "あらわれれば",
+            "reading": "ひーろー が あらわれれば、 みんな たすかる のに。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If)",
+            "text": "色で感情を[表せば]、アートになります。",
+            "translation": "If you express emotions with colors, it becomes art.",
+            "kana": "あらわせば",
+            "reading": "いろ で かんじょう を あらわせば、 あーと に なります。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Potential Form (Can do)",
+            "text": "画面に文字が[現れました]。",
+            "translation": "Characters were able to appear (showed up) on the screen.",
+            "kana": "あらわれました",
+            "reading": "がめん に もじ が あらわれました。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Potential Form (Can do)",
+            "text": "この数式で重力を[表せます]。",
+            "translation": "Gravity can be expressed with this mathematical formula.",
+            "kana": "あらわせます",
+            "reading": "この すうしき で じゅうりょく を あらわせます。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "不思議な現象が[現れよう]としている。",
+            "translation": "A mysterious phenomenon is about to appear.",
+            "kana": "あらわれよう",
+            "reading": "ふしぎ な げんしょう が あらわれよう と して いる。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "個性を[表そう]。",
+            "translation": "Let's express our individuality.",
+            "kana": "あらわそう",
+            "reading": "こせい を あらわそう。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "副作用が[現れたら]、服用を止めてください。",
+            "translation": "If side effects appear, please stop taking the medication.",
+            "kana": "あらわれたら",
+            "reading": "ふくさよう が あらわれたら、 ふくよう を やめて ください。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "言葉以外で[表したら]どうなるだろう。",
+            "translation": "I wonder what would happen if I expressed it using something other than words.",
+            "kana": "あらわしたら",
+            "reading": "ことば いがい で あらわしたら どう なる だろう。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If)",
+            "text": "虹が[現れれば]、いいことがありそうです。",
+            "translation": "If a rainbow appears, it feels like something good might happen.",
+            "kana": "あらわれれば",
+            "reading": "にじ が あらわれれば、 いい こと が ありそう です。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If)",
+            "text": "自分を[表せば]、誰かが共感してくれる。",
+            "translation": "If you express yourself, someone will empathize with you.",
+            "kana": "あらわせば",
+            "reading": "じぶん を あらわせば、 だれか が きょうかん して くれる。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Potential Form (Can do)",
+            "text": "努力の成果が[現れ始めました]。",
+            "translation": "The results of my efforts have begun to appear.",
+            "kana": "あらわれはじめました",
+            "reading": "どりょく の せいか が あらわれ はじめました。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Potential Form (Can do)",
+            "text": "愛をどう[表せば]いいのか分からない。",
+            "translation": "I don't know how I can express love.",
+            "kana": "あらわせば",
+            "reading": "あい を どう あらわせば いい の か わからない。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "明日にはいい兆しが[現れましょう]。",
+            "translation": "A good sign will likely appear by tomorrow.",
+            "kana": "あらわれましょう",
+            "reading": "あした に は いい きざし が あらわれましょう。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "真実を[表そう]と努力する。",
+            "translation": "I will strive to express the truth.",
+            "kana": "あらわそう",
+            "reading": "しんじつ を あらわそう と どりょく する。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "怪しい人が[現れたら]、通報してください。",
+            "translation": "If/When a suspicious person appears, please report them.",
+            "kana": "あらわれたら",
+            "reading": "あやしい ひと が あらわれたら、 つうほう して ください。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "％で[表したら]、比較が簡単です。",
+            "translation": "If you express it in percentages, comparison is easy.",
+            "kana": "あらわしたら",
+            "reading": "ぱーせんと で あらわしたら、 ひかく が かんたん です。"
+        },
+        {
+            "verb": "現れる (arawareru)",
+            "tense": "Conditional Form (If)",
+            "text": "雲が[現れれば]、日差しを遮ってくれます。",
+            "translation": "If clouds appear, they will block the sunlight for us.",
+            "kana": "あらわれれば",
+            "reading": "くも が あらわれれば、 ひざし を さえぎって くれます。"
+        },
+        {
+            "verb": "表す (arawasu)",
+            "tense": "Conditional Form (If)",
+            "text": "言葉を[表せば]、思考が整理されます。",
+            "translation": "If you put (express) it into words, your thoughts will be organized.",
+            "kana": "あらわせば",
+            "reading": "ことば を あらわせば、 しこう が せいり されます。"
+        }, {
+            "verb": "ある (aru)",
+            "tense": "Potential Form (Can do)",
+            "text": "誰にでも間違いは[ありえます]。",
+            "translation": "Mistakes can happen to anyone.",
+            "kana": "ありえます",
+            "reading": "だれ に でも まちがい は ありえます。",
+            "exception": "The potential form of 'aru' is irregular, typically becoming 'ariuru' or 'arieru'."
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Potential Form (Can do)",
+            "text": "家から駅まで[歩けます]。",
+            "translation": "I can walk from my house to the station.",
+            "kana": "あるけます",
+            "reading": "いえ から えき まで あるけます。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "常に誠実で[あろう]と決めている。",
+            "translation": "I have decided to (let us) be constantly sincere.",
+            "kana": "あろう",
+            "reading": "つねに せいじつ で あろう と きめて いる。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "健康のために公園を[歩こう]。",
+            "translation": "Let's walk in the park for our health.",
+            "kana": "あるこう",
+            "reading": "けんこう の ため に こうえん を あるこう。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "いい考えが[あったら]、教えてください。",
+            "translation": "If you have a good idea, please let me know.",
+            "kana": "あったら",
+            "reading": "いい かんがえ が あったら、 おしえて ください。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "３０分[歩いたら]、足が疲れました。",
+            "translation": "When I walked for 30 minutes, my legs got tired.",
+            "kana": "あるいたら",
+            "reading": "さんじゅっぷん あるいたら、 あし が つかれました。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If)",
+            "text": "時間さえ[あれば]、どこへでも行きたい。",
+            "translation": "If only I have time, I want to go anywhere.",
+            "kana": "あれば",
+            "reading": "じかん さえ あれば、 どこ へ でも いきたい。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If)",
+            "text": "毎日[歩けば]、体力がつきますよ。",
+            "translation": "If you walk every day, you will gain stamina.",
+            "kana": "あるけば",
+            "reading": "まいにち あるけば、 たいりょく が つきます よ。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんなことは[ありえない]話だ。",
+            "translation": "That is an impossible (cannot be) story.",
+            "kana": "ありえない",
+            "reading": "そんな こと は ありえない はなし だ。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Potential Form (Can do)",
+            "text": "怪我をして、今はうまく[歩けません]。",
+            "translation": "I have an injury, so I cannot walk well right now.",
+            "kana": "あるけません",
+            "reading": "けが を して、 いま は うまく あるけません。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "平和な世界で[あらん]ことを願う。",
+            "translation": "I pray that it may be a peaceful world.",
+            "kana": "あらん",
+            "reading": "へいわ な せかい で あらん こと を ねがう。",
+            "exception": "While 'arou' is standard, 'aran' is a formal/literary volitional variant."
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "次の角まで一緒に[歩きましょう]。",
+            "translation": "Let's walk together to the next corner.",
+            "kana": "あるきましょう",
+            "reading": "つぎ の かど まで いっしょ に あるきましょう。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "雨が[あったら]、イベントは中止です。",
+            "translation": "If there is rain, the event will be canceled.",
+            "kana": "あったら",
+            "reading": "あめ が あったら、 いべんと は ちゅうし です。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "森を[歩いたら]、気分がすっきりした。",
+            "translation": "When I walked through the forest, I felt refreshed.",
+            "kana": "あるいたら",
+            "reading": "もり を あるいたら、 きぶん が すっきり した。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If)",
+            "text": "証拠が[あれば]、信じてくれますか。",
+            "translation": "If there is evidence, will you believe me?",
+            "kana": "あれば",
+            "reading": "しょうこ が あれば、 しんじて くれます か。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If)",
+            "text": "早く[歩けば]、電車に間に合います。",
+            "translation": "If you walk fast, you will be in time for the train.",
+            "kana": "あるけば",
+            "reading": "はやく あるけば、 でんしゃ に まにあいます。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Potential Form (Can do)",
+            "text": "解決策は必ず[ありうる]はずだ。",
+            "translation": "A solution should definitely be possible (can be).",
+            "kana": "ありうる",
+            "reading": "かいけつさく は かならず ありうる はず だ。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Potential Form (Can do)",
+            "text": "赤ちゃんがようやく[歩ける]ようになった。",
+            "translation": "The baby has finally become able to walk.",
+            "kana": "あるける",
+            "reading": "あかちゃん が ようやく あるける よう に なった。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "希望を捨てずに[あろう]。",
+            "translation": "Let us be (remain) without throwing away hope.",
+            "kana": "あろう",
+            "reading": "きぼう を すてず に あろう。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今日は一万歩[歩こう]と思います。",
+            "translation": "I think I'll walk 10,000 steps today.",
+            "kana": "あるこう",
+            "reading": "きょう は いちまんぽ あるこう と おもいます。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "質問が[あったら]、手を挙げてください。",
+            "translation": "If you have questions, please raise your hand.",
+            "kana": "あったら",
+            "reading": "しつもん が あったら、 て を あげて ください。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "砂浜を[歩いたら]、靴に砂が入った。",
+            "translation": "When I walked on the beach, sand got in my shoes.",
+            "kana": "あるいたら",
+            "reading": "すなはま を あるいたら、 くつ に すな が はいった。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If)",
+            "text": "やる気が[あれば]、何でも達成できる。",
+            "translation": "If you have the motivation, you can achieve anything.",
+            "kana": "あれば",
+            "reading": "やるき が あれば、 なんでも たっせい できる。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If)",
+            "text": "胸を張って[歩けば]、自信が湧いてくる。",
+            "translation": "If you walk with your chest out, confidence will well up.",
+            "kana": "あるけば",
+            "reading": "むね を はって あるけば、 じしん が わいて くる。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Potential Form (Can do)",
+            "text": "奇跡は[ありえます]が、稀なことです。",
+            "translation": "Miracles can happen, but they are rare.",
+            "kana": "ありえます",
+            "reading": "きせき は ありえます が、 まれ な こと です。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Potential Form (Can do)",
+            "text": "山道を[歩ける]靴を持っていますか。",
+            "translation": "Do you have shoes you can walk mountain paths in?",
+            "kana": "あるける",
+            "reading": "やまみち を あるける くつ を もって います か。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "前向きな姿勢で[あろう]と努めています。",
+            "translation": "I am striving to be (let me be) in a positive stance.",
+            "kana": "あろう",
+            "reading": "まえむき な しせい で あろう と つとめて います。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "夜道は危ないから、急いで[歩こう]。",
+            "translation": "The night road is dangerous, so let's walk quickly.",
+            "kana": "あるこう",
+            "reading": "よみち は あぶない から、 いそいで あるこう。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "休みが[あったら]、旅行に行きたいです。",
+            "translation": "If I have a break, I want to go on a trip.",
+            "kana": "あったら",
+            "reading": "やすみ が あったら、 りょこう に いきたい です。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "階段を[歩いたら]、息が切れました。",
+            "translation": "When I walked up the stairs, I got out of breath.",
+            "kana": "あるいたら",
+            "reading": "かいだん を あるいたら、 いき が きれました。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If)",
+            "text": "不満が[あれば]、はっきり言ってください。",
+            "translation": "If you have complaints, please speak clearly.",
+            "kana": "あれば",
+            "reading": "ふまん が あれば、 はっきり いって ください。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If)",
+            "text": "ゆっくり[歩けば]、景色を楽しめます。",
+            "translation": "If you walk slowly, you can enjoy the scenery.",
+            "kana": "あるけば",
+            "reading": "ゆっくり あるけば、 けしき を たのしめます。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Potential Form (Can do)",
+            "text": "危険はどこにでも[ありうる]。",
+            "translation": "Danger can be (exist) anywhere.",
+            "kana": "ありうる",
+            "reading": "きけん は どこ に でも ありうる。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Potential Form (Can do)",
+            "text": "この暗い道を一人で[歩けます]か。",
+            "translation": "Can you walk this dark road alone?",
+            "kana": "あるけます",
+            "reading": "この くらい みち を ひとり で あるけます か。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "良き指導者で[あろう]と心がけている。",
+            "translation": "I am keeping in mind to (let me) be a good leader.",
+            "kana": "あろう",
+            "reading": "よき しどうしゃ で あろう と こころがけて いる。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "たまには裸足で[歩きましょう]。",
+            "translation": "Let's walk barefoot once in a while.",
+            "kana": "あるきましょう",
+            "reading": "たまに は はだし で あるきましょう。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "変化が[あったら]、報告します。",
+            "translation": "When there is a change, I will report it.",
+            "kana": "あったら",
+            "reading": "へんか が あったら、 ほうこく します。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If / When)",
+            "text": "雨の中を[歩いたら]、風邪をひいた。",
+            "translation": "When I walked in the rain, I caught a cold.",
+            "kana": "あるいたら",
+            "reading": "あめ の なか を あるいたら、 かぜ を ひいた。"
+        },
+        {
+            "verb": "ある (aru)",
+            "tense": "Conditional Form (If)",
+            "text": "縁が[あれば]、また会えるでしょう。",
+            "translation": "If there is fate (a connection), we will probably meet again.",
+            "kana": "あれば",
+            "reading": "えん が あれば、 また あえる でしょう。"
+        },
+        {
+            "verb": "歩く (aruku)",
+            "tense": "Conditional Form (If)",
+            "text": "正しい道を[歩けば]、迷うことはない。",
+            "translation": "If you walk the right path, you won't get lost.",
+            "kana": "あるけば",
+            "reading": "ただしい みち を あるけば、 まよう こと は ない。"
+        }, {
+            "verb": "焦る (aseru)",
+            "tense": "Potential Form (Can do)",
+            "text": "試験中はどうしても[焦ってしまいます]。",
+            "translation": "During an exam, I inevitably end up feeling rushed.",
+            "kana": "あせってしまいます",
+            "reading": "しけんちゅう は どうしても あせって しまいます。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Potential Form (Can do)",
+            "text": "今日は夜まで[遊べます]。",
+            "translation": "I can play until tonight today.",
+            "kana": "あそべます",
+            "reading": "きょう は よる まで あそべます。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "落ち着こう、[焦る]のはやめよう。",
+            "translation": "Let's calm down, let's stop rushing.",
+            "kana": "あせる",
+            "reading": "おちつこう、 あせる の は やめよう。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "放課後は公園で[遊ぼう]。",
+            "translation": "Let's play at the park after school.",
+            "kana": "あそぼう",
+            "reading": "ほうかご は こうえん で あそぼう。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "そんなに[焦ったら]、ミスをしますよ。",
+            "translation": "If you rush like that, you'll make a mistake.",
+            "kana": "あせったら",
+            "reading": "そんな に あせったら、 みす を します よ。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "一日中[遊んだら]、ぐっすり眠れました。",
+            "translation": "When I played all day, I was able to sleep soundly.",
+            "kana": "あそんだら",
+            "reading": "いちにちじゅう あそんだら、 ぐっすり ねむれました。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If)",
+            "text": "今[焦れば]、事態はさらに悪化する。",
+            "translation": "If you panic now, the situation will only get worse.",
+            "kana": "あせれば",
+            "reading": "いま あせれば、 じたい は さらに あっか する。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If)",
+            "text": "もっと外で[遊べば]、健康になります。",
+            "translation": "If you play outside more, you will become healthy.",
+            "kana": "あそべば",
+            "reading": "もっと そと で あそべば、 けんこう に なります。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Potential Form (Can do)",
+            "text": "彼はどんな時も[焦らない]強さを持っている。",
+            "translation": "He has the strength to not panic at any time.",
+            "kana": "あせらない",
+            "reading": "かれ は どんな とき も あせらない つよさ を もって いる。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Potential Form (Can do)",
+            "text": "忙しくて、最近は全く[遊べない]。",
+            "translation": "I'm busy, so I haven't been able to play at all lately.",
+            "kana": "あそべない",
+            "reading": "いそがしくて、 さいきん は まったく あそべない。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今はじっくり時間を[焦ろう]（かけよう）。",
+            "translation": "Let's (intentionally) take our time without rushing now.",
+            "kana": "あせろう",
+            "reading": "いま は じっくり じかん を あせろう。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "たまには羽を伸ばして[遊びましょう]。",
+            "translation": "Let's spread our wings and play for a change.",
+            "kana": "あそびましょう",
+            "reading": "たまに は はね を のばして あそびましょう。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "返事を[焦ったら]、変なメールを送ってしまった。",
+            "translation": "When I rushed the reply, I ended up sending a strange email.",
+            "kana": "あせったら",
+            "reading": "へんじ を あせったら、 へんな めーる を おくって しまった。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "子供たちが[遊んだら]、部屋が散らかった。",
+            "translation": "When the children played, the room got messy.",
+            "kana": "あそんだら",
+            "reading": "こどもたち が あそんだら、 へや が ちらかった。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If)",
+            "text": "結果を[焦れば]、大事なことを見落とす。",
+            "translation": "If you rush for results, you will overlook important things.",
+            "kana": "あせれば",
+            "reading": "けっか を あせれば、 だいじ な こと を みおとす。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If)",
+            "text": "子供と一緒に[遊べば]、童心に帰れる。",
+            "translation": "If you play with children, you can return to being a child at heart.",
+            "kana": "あそべば",
+            "reading": "こども と いっしょ に あそべば、 どうしん に かえれる。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Potential Form (Can do)",
+            "text": "締め切りが近くても[焦らずに]いられますか。",
+            "translation": "Can you remain without panicking even if the deadline is near?",
+            "kana": "あせらずに",
+            "reading": "しめきり が ちかくても あせらず に いられます か。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Potential Form (Can do)",
+            "text": "このゲームは四人まで[遊べます]。",
+            "translation": "Up to four people can play this game.",
+            "kana": "あそべます",
+            "reading": "この げーむ は よにん まで あそべます。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "早く結論を出そうと[焦る]のはやめよう。",
+            "translation": "Let's stop rushing to reach a conclusion quickly.",
+            "kana": "あせる",
+            "reading": "はやく けつろん を だそう と あせる の は やめよう。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "夏休みは海で[遊ぼう]よ。",
+            "translation": "Let's play at the sea during summer vacation.",
+            "kana": "あそぼう",
+            "reading": "なつやすみ は うみ で あそぼう よ。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "準備を[焦ったら]、忘れ物をしてしまった。",
+            "translation": "When I rushed the preparations, I forgot something.",
+            "kana": "あせったら",
+            "reading": "じゅんび を あせったら、 わすれもの を して しまった。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "泥んこになって[遊んだら]、母に怒られた。",
+            "translation": "When I played in the mud, my mother got angry at me.",
+            "kana": "あそんだら",
+            "reading": "どろんこ に なって あそんだら、 はは に おこられた。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If)",
+            "text": "無理に[焦れば]、長続きしません。",
+            "translation": "If you force yourself to rush, it won't last long.",
+            "kana": "あせれば",
+            "reading": "むり に あせれば、 ながつづき しません。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If)",
+            "text": "一生懸命[遊べば]、仕事も頑張れる。",
+            "translation": "If you play hard, you can also work hard.",
+            "kana": "あそべば",
+            "reading": "いっしょうけんめい あそべば、 しごと も がんばれる。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Potential Form (Can do)",
+            "text": "遅刻しそうで、全然[焦りが]止まらない。",
+            "translation": "I'm likely to be late, and I can't stop panicking at all.",
+            "kana": "あせりが",
+            "reading": "ちこく しそう で、 ぜんぜん あせり が とまらない。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Potential Form (Can do)",
+            "text": "室内でも楽しく[遊べます]。",
+            "translation": "You can play enjoyably even indoors.",
+            "kana": "あそべます",
+            "reading": "しつない でも たのしく あそべます。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "成功を[焦ろう]とする気持ちを抑える。",
+            "translation": "I will suppress the feeling of trying to rush toward success.",
+            "kana": "あせろう",
+            "reading": "せいこう を あせろう と する きもち を おさえる。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今日は仕事を忘れて[遊びましょう]。",
+            "translation": "Let's forget about work and play today.",
+            "kana": "あそびましょう",
+            "reading": "きょう は しごと を わすれて あそびましょう。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "暗くなってから[焦ったら]、道に迷った。",
+            "translation": "When I panicked after it got dark, I got lost.",
+            "kana": "あせったら",
+            "reading": "くらくなて から あせったら、 みち に まよった。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "一日中[遊んだら]、宿題を忘れてしまった。",
+            "translation": "When I played all day, I forgot my homework.",
+            "kana": "あそんだら",
+            "reading": "いちにちじゅう あそんだら、 しゅくだい を わすれて しまった。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If)",
+            "text": "周りと[焦れば]比較して（焦って比較すれば）、自分を見失う。",
+            "translation": "If you rush and compare yourself with others, you lose sight of yourself.",
+            "kana": "あせって",
+            "reading": "まわり と あせって ひかく すれば、 じぶん を みうしなう。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If)",
+            "text": "ルールを守って[遊べば]、みんな楽しい。",
+            "translation": "If you play by the rules, everyone has fun.",
+            "kana": "あそべば",
+            "reading": "るーる を まもって あそべば、 みんな たのしい。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんなに[焦らなくて]も時間はあります。",
+            "translation": "There is time even if you don't rush like that.",
+            "kana": "あせらなくて",
+            "reading": "そんな に あせらなくて も じかん は あります。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Potential Form (Can do)",
+            "text": "道具がなくても、工夫すれば[遊べます]。",
+            "translation": "Even without tools, you can play if you are creative.",
+            "kana": "あそべます",
+            "reading": "どうぐ が なくても、 くふう すれば あそべます。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "勝負を[焦ろう]とするな。",
+            "translation": "Do not try to rush the match.",
+            "kana": "あせろう",
+            "reading": "しょうぶ を あせろう と する な。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今度、私の家で[遊ぼう]よ。",
+            "translation": "Let's play at my house next time.",
+            "kana": "あそぼう",
+            "reading": "こんど、 わたし の いえ で あそぼう よ。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "料理を[焦ったら]、味付けを間違えた。",
+            "translation": "When I rushed the cooking, I got the seasoning wrong.",
+            "kana": "あせったら",
+            "reading": "りょうり を あせったら、 あじつけ を まちがえた。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If / When)",
+            "text": "テレビゲームで[遊んだら]、目が疲れた。",
+            "translation": "When I played video games, my eyes got tired.",
+            "kana": "あそんだら",
+            "reading": "てれびげーむ で あそんだら、 め が つかれた。"
+        },
+        {
+            "verb": "焦る (aseru)",
+            "tense": "Conditional Form (If)",
+            "text": "一人で[焦れば]、チームの和が乱れる。",
+            "translation": "If you panic alone, the team's harmony will be disrupted.",
+            "kana": "あせれば",
+            "reading": "ひとり で あせれば、 ちーむ の わ が みだれる。"
+        },
+        {
+            "verb": "遊ぶ (asobu)",
+            "tense": "Conditional Form (If)",
+            "text": "思いっきり[遊べば]、ストレスが解消される。",
+            "translation": "If you play to your heart's content, your stress will be relieved.",
+            "kana": "あそべば",
+            "reading": "おもいきり あそべば、 すとれす が かいしょう される。"
+        }, {
+            "verb": "与える (ataeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "誰にでもチャンスを[与えられます]。",
+            "translation": "I can give a chance to anyone.",
+            "kana": "あたえられます",
+            "reading": "だれ に でも ちゃんす を あたえられます。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この宝くじは[当たります]か。",
+            "translation": "Can this lottery ticket win (hit)?",
+            "kana": "あたります",
+            "reading": "この たからくじ は あたります か。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "子供に勇気を[与えよう]。",
+            "translation": "Let's give courage to the children.",
+            "kana": "あたえよう",
+            "reading": "こども に ゆうき を あたえよう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "思い切って的に[当たろう]。",
+            "translation": "Let's take a chance and hit the target.",
+            "kana": "あたろう",
+            "reading": "おもいきって まと に あたろう。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "衝撃を[与えたら]、壊れてしまった。",
+            "translation": "When I gave it a shock (impact), it broke.",
+            "kana": "あたえたら",
+            "reading": "しょうげき を あたえたら、 こわれて しまった。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "占いが[当たったら]、お祝いしよう。",
+            "translation": "If the fortune-telling comes true (hits), let's celebrate.",
+            "kana": "あたったら",
+            "reading": "うらない が あたったら、 おいわい しよう。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If)",
+            "text": "自由を[与えれば]、人は成長する。",
+            "translation": "If you give people freedom, they will grow.",
+            "kana": "あたえれば",
+            "reading": "じゆう を あたえれば、 ひと は せいちょう する。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If)",
+            "text": "光が[当たれば]、影ができます。",
+            "translation": "If the light hits, a shadow is created.",
+            "kana": "あたれば",
+            "reading": "ひかり が あたれば、 かげ が できます。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "良い影響を[与えられる]人になりたい。",
+            "translation": "I want to be a person who can give a good influence.",
+            "kana": "あたえられる",
+            "reading": "よい えいきょう を あたえられる ひと に なりたい。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Potential Form (Can do)",
+            "text": "天気予報はたまに[当たらない]。",
+            "translation": "The weather forecast sometimes cannot be right (hit).",
+            "kana": "あたらない",
+            "reading": "てんきよほう は たまに あたらない。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "彼に新しい役割を[与えましょう]。",
+            "translation": "Let's give him a new role.",
+            "kana": "あたえましょう",
+            "reading": "かれ に あたらしい やくわり を あたえましょう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "宝くじに[当たろう]なんて夢のまた夢だ。",
+            "translation": "Thinking 'let's win the lottery' is but a dream within a dream.",
+            "kana": "あたろう",
+            "reading": "たからくじ に あたろう なんて ゆめ の また ゆめ だ。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "餌を[あたえたら]、犬が喜んだ。",
+            "translation": "When I gave it food, the dog was happy.",
+            "kana": "あたえたら",
+            "reading": "えさ を あたえたら、 いぬ が よろこんだ。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "ボールが[当たったら]痛いですよ。",
+            "translation": "If the ball hits you, it will hurt.",
+            "kana": "あたったら",
+            "reading": "ぼーる が あたったら いたい です よ。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If)",
+            "text": "ヒントを[与えれば]、解けるはずだ。",
+            "translation": "If you give a hint, they should be able to solve it.",
+            "kana": "あたえれば",
+            "reading": "ひんと を あたえれば、 とける はず だ。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If)",
+            "text": "宝くじが[当たれば]、家を買います。",
+            "translation": "If I win the lottery, I will buy a house.",
+            "kana": "あたれば",
+            "reading": "たからくじ が あたれば、 いえ を かいます。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "この薬は副作用を[与える]可能性があります。",
+            "translation": "This medicine has the potential to give (cause) side effects.",
+            "kana": "あたえる",
+            "reading": "この くすり は ふくさよう を あたえる かのうせい が あります。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Potential Form (Can do)",
+            "text": "矢が的に[当たれ]！",
+            "translation": "May the arrow be able to hit the target!",
+            "kana": "あたれ",
+            "reading": "や が まと に あたれ！"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "動物に食べ物を[与えよう]。",
+            "translation": "Let's give food to the animals.",
+            "kana": "あたえよう",
+            "reading": "どうぶつ に たべもの を あたえよう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "みんなで協力して、壁に[当たろう]。",
+            "translation": "Let's cooperate and hit (tackle) the wall together.",
+            "kana": "あたろう",
+            "reading": "みんな で きょうりょく して、 かべ に あたろう。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "宿題を[与えたら]、すぐに終わらせた。",
+            "translation": "When I gave him homework, he finished it immediately.",
+            "kana": "あたえたら",
+            "reading": "しゅくだい を ああたえたら、 すぐ に おわらせた。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "西日が[当たったら]、カーテンを閉めて。",
+            "translation": "When the afternoon sun hits, please close the curtains.",
+            "kana": "あたったら",
+            "reading": "にしび が あたったら、 かーてん を しめて。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If)",
+            "text": "刺激を[与えれば]、反応が返ってくる。",
+            "translation": "If you provide (give) a stimulus, you will get a reaction.",
+            "kana": "あたえれば",
+            "reading": "しげき を あたえれば、 はんのう が かえって くる。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If)",
+            "text": "順番が[当たれば]、スピーチをします。",
+            "translation": "If my turn comes (hits), I will give a speech.",
+            "kana": "あたれば",
+            "reading": "じゅんばん が あたれば、 すぴーち を します。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "植物に水を[与えられます]か。",
+            "translation": "Can you give water to the plants?",
+            "kana": "あたえられます",
+            "reading": "しょくぶつ に みず を あたえられます か。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Potential Form (Can do)",
+            "text": "このクイズ、[当たります]かね？",
+            "translation": "I wonder if this quiz can be right (hit)?",
+            "kana": "あたります",
+            "reading": "この くいず、 あたります かね？"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "社会に貢献を[与えましょう]。",
+            "translation": "Let's give a contribution to society.",
+            "kana": "あたえましょう",
+            "reading": "しゃかい に こうけん を あたえましょう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "一か八か、勝負に[当たろう]。",
+            "translation": "All or nothing, let's take a hit (chance) at the game.",
+            "kana": "あたろう",
+            "reading": "いちかばちか、 しょうぶ に あたろう。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "罰を[与えたら]、逆効果だった。",
+            "translation": "When I gave a punishment, it was counterproductive.",
+            "kana": "あたえたら",
+            "reading": "ばつ を あたえたら、 ぎゃくこうか だった。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "頭を[当たったら]危ないから気をつけて。",
+            "translation": "It's dangerous if you hit your head, so be careful.",
+            "kana": "あたったら",
+            "reading": "あたま を あたったら あぶない から きを つけて。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If)",
+            "text": "愛を[与えれば]、愛が返ってくる。",
+            "translation": "If you give love, love will return.",
+            "kana": "あたえれば",
+            "reading": "あい を あたえれば、 あい が かえって くる。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If)",
+            "text": "予想が[当たれば]、大金持ちだ。",
+            "translation": "If the prediction is right (hits), I'll be rich.",
+            "kana": "あたれば",
+            "reading": "よそう が あたれば、 おおがねもち だ。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Potential Form (Can do)",
+            "text": "誰にでも公平に[与えられます]。",
+            "translation": "It can be given fairly to everyone.",
+            "kana": "あたえられます",
+            "reading": "だれ に でも こうへい に あたえられます。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんなに簡単には[当たらない]よ。",
+            "translation": "You won't win (hit) that easily.",
+            "kana": "あたらない",
+            "reading": "そんな に かんたん に は あたらない よ。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "教育の機会を[与えよう]。",
+            "translation": "Let's give the opportunity of education.",
+            "kana": "あたえよう",
+            "reading": "きょういく の きかい を あたえよう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "寒波に[当たろう]ものなら凍えてしまう。",
+            "translation": "If we were to hit a cold wave, we'd freeze.",
+            "kana": "あたろう",
+            "reading": "かんぱ に あたろう もの なら こごえて しまう。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "名前を[与えたら]、ペットは家族になる。",
+            "translation": "When you give a name, a pet becomes family.",
+            "kana": "あたえたら",
+            "reading": "なまえ を あたえたら、 ぺっと は かぞく に なる。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "光が[当たったら]、色が変わった。",
+            "translation": "When the light hit, the color changed.",
+            "kana": "あたったら",
+            "reading": "ひかり が あたったら、 いろ が かわった。"
+        },
+        {
+            "verb": "与える (ataeru)",
+            "tense": "Conditional Form (If)",
+            "text": "名誉を[与えれば]、彼は満足するだろう。",
+            "translation": "If you give him honor, he will likely be satisfied.",
+            "kana": "あたえれば",
+            "reading": "めいよ を あたえれば、 かれ は まんぞく する だろう。"
+        },
+        {
+            "verb": "当たる (ataru)",
+            "tense": "Conditional Form (If)",
+            "text": "風が[当たれば]、風車が回ります。",
+            "translation": "If the wind hits, the windmill will turn.",
+            "kana": "あたれば",
+            "reading": "かぜ が あたれば、 ふうしゃ が まわります。"
+        }, {
+            "verb": "温める (atatameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "このお弁当は電子レンジで[温められます]。",
+            "translation": "This bento can be warmed up in the microwave.",
+            "kana": "あたためられます",
+            "reading": "この おべんとう は でんしれんじ で あたためられます。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "駅前にたくさんの人が[集まっています]。",
+            "translation": "A lot of people are gathered (able to gather) in front of the station.",
+            "kana": "あつまっています",
+            "reading": "えきまえ に たくさん の ひと が あつまって います。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "冷えるから、スープを[温めよう]。",
+            "translation": "It's getting cold, so let's warm up the soup.",
+            "kana": "あたためよう",
+            "reading": "ひえる から、 すーぷ を あたためよう。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "会議室に[集まろう]。",
+            "translation": "Let's gather in the meeting room.",
+            "kana": "あつまろう",
+            "reading": "かいぎしつ に あつまろう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "ミルクを[温めたら]、膜ができました。",
+            "translation": "When I warmed the milk, a skin formed on top.",
+            "kana": "あたためたら",
+            "reading": "みるく を あたためたら、 まく が できました。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "人が[集まったら]、出発しましょう。",
+            "translation": "When people have gathered, let's depart.",
+            "kana": "あつまったら",
+            "reading": "ひと が あつまったら、 しゅっぱつ しましょう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If)",
+            "text": "体を[温めれば]、風邪も早く治ります。",
+            "translation": "If you warm your body, your cold will also heal quickly.",
+            "kana": "あたためれば",
+            "reading": "からだ を あたためれば、 かぜ も はやく なります。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If)",
+            "text": "寄付が[集まれば]、学校を建てられます。",
+            "translation": "If donations are gathered, we can build a school.",
+            "kana": "あつまれば",
+            "reading": "きふ が あつまれば、 がっこう を たてられます。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "ストーブで部屋が[温められました]。",
+            "translation": "The room was able to be warmed by the stove.",
+            "kana": "あたためられました",
+            "reading": "すとーぶ で へや が あたためられました。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "ここには珍しい鳥が[集まる]んです。",
+            "translation": "Rare birds gather (can be found gathered) here.",
+            "kana": "あつまる",
+            "reading": "ここ に は めずらしい とり が あつまる ん です。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "お風呂に入って体を[温めましょう]。",
+            "translation": "Let's get in the bath and warm our bodies.",
+            "kana": "あたためましょう",
+            "reading": "おふろ に はいって からだ を あたためましょう。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "みんなで[集まろう]じゃないか。",
+            "translation": "Why don't we all gather together?",
+            "kana": "あつまろう",
+            "reading": "みんな で あつまろう じゃない か。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "ピザを[温めたら]、チーズが溶けました。",
+            "translation": "When I warmed the pizza, the cheese melted.",
+            "kana": "あたためたら",
+            "reading": "ぴざ を あたためたら、 ちーず が とけました。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "３時に[集まったら]、すぐに始めます。",
+            "translation": "Once we've gathered at 3 o'clock, we'll start immediately.",
+            "kana": "あつまったら",
+            "reading": "さんじ に あつまったら、 すぐ に はじめます。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If)",
+            "text": "話し合って仲を[温めれば]、解決策が見える。",
+            "translation": "If you warm up your relationship (by talking), a solution will appear.",
+            "kana": "あたためれば",
+            "reading": "はなしあって なか を あたためれば、 かいけつさく が みえる。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If)",
+            "text": "データが[集まれば]、分析が可能です。",
+            "translation": "If data is gathered, analysis is possible.",
+            "kana": "あつまれば",
+            "reading": "でーた が あつまれば、 ぶんせき が かのう です。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "このポットならお湯を[温め続けられます]。",
+            "translation": "With this pot, you can continue to keep the water warm.",
+            "kana": "あたためつづけられます",
+            "reading": "この ぽっと なら おゆ を あたため つづけられます。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "ゴミが[集まりすぎて]困っています。",
+            "translation": "Too much trash has gathered, and I'm troubled.",
+            "kana": "あつまりすぎて",
+            "reading": "ごみ が あつまりすぎて こまって います。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しい企画をじっくり[温めよう]。",
+            "translation": "Let's carefully nurture (warm up) the new project idea.",
+            "kana": "あたためよう",
+            "reading": "あたらしい きかく を じっくり あたためよう。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "明日は８時に[集まりましょう]。",
+            "translation": "Let's gather at 8 o'clock tomorrow.",
+            "kana": "あつまりましょう",
+            "reading": "あした は はちじ に あつまりましょう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "手を[温めたら]、かじかんでいたのが治った。",
+            "translation": "When I warmed my hands, the numbness went away.",
+            "kana": "あたためたら",
+            "reading": "て を あたためたら、 かじかんでいた の が なおった。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "雲が[集まったら]、雨が降り出した。",
+            "translation": "When the clouds gathered, it started to rain.",
+            "kana": "あつまったら",
+            "reading": "くも が あつまったら、 あめ が ふりだした。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If)",
+            "text": "心も[温めれば]、優しくなれる。",
+            "translation": "If you warm your heart as well, you can become kind.",
+            "kana": "あたためれば",
+            "reading": "こころ も あたためれば、 やさしく なれる。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If)",
+            "text": "精鋭が[集まれば]、勝機はある。",
+            "translation": "If the elite gather, there is a chance of victory.",
+            "kana": "あつまれば",
+            "reading": "せいえい が あつまれば、 しょうき は ある。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "すぐに[温められる]レトルト食品は便利だ。",
+            "translation": "Retort pouch foods that can be warmed quickly are convenient.",
+            "kana": "あたためられる",
+            "reading": "すぐ に あたためられる れとると しょくひん は べんり だ。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "これだけ[集まれば]十分でしょう。",
+            "translation": "If this many have gathered, it should be enough.",
+            "kana": "あつまれば",
+            "reading": "これ だけ あつまれば じゅうぶん でしょう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "思い出を[温めよう]。",
+            "translation": "Let's cherish (keep warm) our memories.",
+            "kana": "あたためよう",
+            "reading": "おもいで を あたためよう。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "週末にバーベキューで[集まろう]。",
+            "translation": "Let's gather for a barbecue this weekend.",
+            "kana": "あそぼう",
+            "reading": "しゅうまつ に ばーべきゅー で あつまろう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "コーヒーを[温めたら]、苦味が強くなった。",
+            "translation": "When I warmed the coffee, the bitterness became stronger.",
+            "kana": "あたためたら",
+            "reading": "こーひー を あたためたら、 にがみ が つよく なった。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "一箇所に[集まったら]危ないですよ。",
+            "translation": "It's dangerous if you gather in one spot.",
+            "kana": "あつまったら",
+            "reading": "いっかしょ に あつまったら あぶない です よ。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If)",
+            "text": "料理を[温めれば]、もっと美味しくなります。",
+            "translation": "If you warm the food, it will become more delicious.",
+            "kana": "あたためれば",
+            "reading": "りょうり を あたためれば、 もっと おいしく なります。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If)",
+            "text": "悪い仲間と[集まれば]、ろくなことにならない。",
+            "translation": "If you gather with bad company, no good will come of it.",
+            "kana": "あつまれば",
+            "reading": "わるい なかま と あつまれば、 ろくな こと に ならない。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Potential Form (Can do)",
+            "text": "卵を[温め続けられる]装置が必要です。",
+            "translation": "A device that can keep the eggs warm is necessary.",
+            "kana": "あたためつづけられる",
+            "reading": "たまご を あたため つづけられる そうち が ひつよう です。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Potential Form (Can do)",
+            "text": "ファンが[集まりすぎて]、中止になった。",
+            "translation": "So many fans gathered that it was canceled.",
+            "kana": "あつまりすぎて",
+            "reading": "ふぁん が あつまりすぎて、 ちゅうし に なった。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "友情を[温めよう]。",
+            "translation": "Let's nurture (warm up) our friendship.",
+            "kana": "あたためよう",
+            "reading": "ゆうじょう を あたためよう。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "ロビーに[集まりましょう]。",
+            "translation": "Let's gather in the lobby.",
+            "kana": "あつまりましょう",
+            "reading": "ろびー に あつまりましょう。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "部屋を[温めたら]、アイスが食べたくなった。",
+            "translation": "Once I warmed up the room, I wanted to eat ice cream.",
+            "kana": "あたためたら",
+            "reading": "へや を あたためたら、 あいす が たべたく なった。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If / When)",
+            "text": "星が[集まったら]、銀河に見える。",
+            "translation": "When stars gather, they look like a galaxy.",
+            "kana": "あつまったら",
+            "reading": "ほし が あつまったら、 ぎんが に みえる。"
+        },
+        {
+            "verb": "温める (atatameru)",
+            "tense": "Conditional Form (If)",
+            "text": "フライパンをよく[温めれば]、くっつきません。",
+            "translation": "If you warm the frying pan well, it won't stick.",
+            "kana": "あたためれば",
+            "reading": "ふらいぱん を よく あたためれば、 くっつきません。"
+        },
+        {
+            "verb": "集まる (atsumaru)",
+            "tense": "Conditional Form (If)",
+            "text": "みんなの心が一つに[集まれば]、不可能なことはない。",
+            "translation": "If everyone's hearts gather as one, nothing is impossible.",
+            "kana": "あつまれば",
+            "reading": "みんな の こころ が ひとつ に あつまれば、 ふかのう な こと は ない。"
+        }, {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "大きな壁に[ぶつかれます]か。",
+            "translation": "Can you bump into (confront) a large wall?",
+            "kana": "ぶつかれます",
+            "reading": "おおきな かべ に ぶつかれます か。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "広い道なら[ぶつからずに]歩けます。",
+            "translation": "If it's a wide road, I can walk without bumping into things.",
+            "kana": "ぶつからずに",
+            "reading": "ひろい みち なら ぶつからず に あるけます。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "この車なら障害物を[避けられます]（ぶつかりません）。",
+            "translation": "With this car, I won't bump into (can avoid) obstacles.",
+            "kana": "ぶつかりません",
+            "reading": "この くるま なら しょうがいぶつ を ぶつかりません。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "意見が[ぶつかり合える]関係は素晴らしい。",
+            "translation": "A relationship where opinions can clash (be exchanged openly) is wonderful.",
+            "kana": "ぶつかりあえる",
+            "reading": "いけん が ぶつかりあえる かんけい は すばらしい。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "暗闇でも何にも[ぶつかりませんでした]。",
+            "translation": "I wasn't able to bump into anything (didn't bump) even in the dark.",
+            "kana": "ぶつかりませんでした",
+            "reading": "くらやみ でも なに に も ぶつかりませんでした。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "そんなに急いでも[ぶつかる]だけですよ。",
+            "translation": "Even if you rush that much, you'll only be able to bump into things.",
+            "kana": "ぶつかる",
+            "reading": "そんな に いそいでも ぶつかる だけ です よ。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "正面から正々堂々と[ぶつかれます]。",
+            "translation": "I can clash with it head-on and fairly.",
+            "kana": "ぶつかれます",
+            "reading": "しょうめん から せいせいどうどう と ぶつかれます。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "人混みでも誰にも[ぶつからずに]進めます。",
+            "translation": "I can move forward without bumping into anyone, even in a crowd.",
+            "kana": "ぶつからずに",
+            "reading": "ひとごみ でも だれ に も ぶつからず に すすめます。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "困難に[ぶつかっても]、乗り越えられます。",
+            "translation": "Even if I bump into (face) difficulties, I can overcome them.",
+            "kana": "ぶつかっても",
+            "reading": "こんなん に ぶつかっても、 のりこえられます。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Potential Form (Can do)",
+            "text": "予定が[ぶつからない]ように調整できます。",
+            "translation": "I can adjust so that schedules don't clash (bump into each other).",
+            "kana": "ぶつからない",
+            "reading": "よてい が ぶつからない よう に ちょうせい できます。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "恐れずに全力で[ぶつかろう]。",
+            "translation": "Let's clash (give it our all) with full power without fear.",
+            "kana": "ぶつかろう",
+            "reading": "おそれず に ぜんりょく で ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "本音で[ぶつかり合いましょう]。",
+            "translation": "Let's clash with our true feelings (be honest with each other).",
+            "kana": "ぶつかりあいましょう",
+            "reading": "ほんね で ぶつかりあいましょう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しい問題に[ぶつかろう]としている。",
+            "translation": "He is about to clash with (face) a new problem.",
+            "kana": "ぶつかろう",
+            "reading": "あたらしい もんだい に ぶつかろう と して いる。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "あえて難しい課題に[ぶつかってみよう]。",
+            "translation": "Let's try clashing with a difficult task on purpose.",
+            "kana": "ぶつかってみよう",
+            "reading": "あえて むずかしい かだい に ぶつかって みよう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "ライバルと正々堂々と[ぶつかろう]。",
+            "translation": "Let's clash fairly with our rivals.",
+            "kana": "ぶつかろう",
+            "reading": "らいばる と せいせいどうどう と ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "迷わず自分の限界に[ぶつかろう]。",
+            "translation": "Let's clash with our own limits without hesitation.",
+            "kana": "ぶつかろう",
+            "reading": "まよわず じぶん の げんかい に ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "一緒に壁を[ぶち破ろう]（ぶつかろう）。",
+            "translation": "Let's clash with the wall together.",
+            "kana": "ぶつかろう",
+            "reading": "いっしょ に かべ を ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今日こそあの人に[ぶつかろう]。",
+            "translation": "Let's confront (clash with) that person today.",
+            "kana": "ぶつかろう",
+            "reading": "きょう こそ あの ひと に ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "不満があるなら[ぶつかりましょう]。",
+            "translation": "If you have complaints, let's clash (talk it out).",
+            "kana": "ぶつかりましょう",
+            "reading": "ふまん が ある なら ぶつかりましょう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "未知の世界へ[ぶつかろう]。",
+            "translation": "Let's clash with (venture into) the unknown world.",
+            "kana": "ぶつかろう",
+            "reading": "みち の せかい へ ぶつかろう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "壁に[ぶつかったら]、一回休みましょう。",
+            "translation": "When you hit (bump into) a wall, let's take a break.",
+            "kana": "ぶつかったら",
+            "reading": "かべ に ぶつかったら、 いっかい やすみましょう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "車が[ぶつかったら]大変なことになります。",
+            "translation": "If the car bumps into (crashes), it will be a disaster.",
+            "kana": "ぶつかったら",
+            "reading": "くるま が ぶつかったら たいへんな こと に なります。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "人と[ぶつかったら]、謝ってください。",
+            "translation": "When you bump into a person, please apologize.",
+            "kana": "ぶつかったら",
+            "reading": "ひと と ぶつかったら、 あやまって ください。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "限界に[ぶつかったら]、相談してください。",
+            "translation": "When you hit (bump into) your limit, please consult me.",
+            "kana": "ぶつかったら",
+            "reading": "げんかい に ぶつかったら、 そうだん して ください。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "予定が[ぶつかったら]、教えてね。",
+            "translation": "If the schedules clash (bump into each other), let me know.",
+            "kana": "ぶつかったら",
+            "reading": "よてい が ぶつかったら、 おしえて ね。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "ボールが[ぶつかったら]痛いです。",
+            "translation": "It hurts when the ball bumps into (hits) you.",
+            "kana": "ぶつかったら",
+            "reading": "ぼーる が ぶつかったら いたい です。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "角で誰かと[ぶつかったら]危ないよ。",
+            "translation": "It's dangerous if you bump into someone at the corner.",
+            "kana": "ぶつかったら",
+            "reading": "かど で だれか と ぶつかったら あぶない よ。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "理想と現実に[ぶつかったら]、どうしますか。",
+            "translation": "What would you do if you bump into (face) ideal and reality?",
+            "kana": "ぶつかったら",
+            "reading": "りそう と げんじつ に ぶつかったら、 どう します か。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "岩に[ぶつかったら]、船が沈んでしまう。",
+            "translation": "If the ship bumps into a rock, it will sink.",
+            "kana": "ぶつかったら",
+            "reading": "いわ に ぶつかったら、 ふね が しずんで しまう。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If / When)",
+            "text": "壁を走って[ぶつかったら]笑われた。",
+            "translation": "When I ran and bumped into the wall, I was laughed at.",
+            "kana": "ぶつかったら",
+            "reading": "かべ を はしって ぶつかったら わらわれた。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "正面から[ぶつかれば]、活路が見出せる。",
+            "translation": "If you clash head-on, you can find a way out.",
+            "kana": "ぶつかれば",
+            "reading": "しょうめん から ぶつかれば、 かつろ が みいだせる。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "何かに[ぶつかれば]、音がします。",
+            "translation": "If it bumps into something, it will make a sound.",
+            "kana": "ぶつかれば",
+            "reading": "なに か に ぶつかれば、 おと が します。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "意見が[ぶつかれば]、新しい発見がある。",
+            "translation": "If opinions clash, there will be new discoveries.",
+            "kana": "ぶつかれば",
+            "reading": "いけん が ぶつかれば、 あたらしい はっけん が ある。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "大きな問題に[ぶつかれば]、成長のチャンスだ。",
+            "translation": "If you bump into (face) a big problem, it's a chance for growth.",
+            "kana": "ぶつかれば",
+            "reading": "おおきな もんだい に ぶつかれば、 せいちょう の ちゃんす だ。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "計画が[ぶつかれば]、修正が必要だ。",
+            "translation": "If plans clash (bump), correction is necessary.",
+            "kana": "ぶつかれば",
+            "reading": "けいかく が ぶつかれば、 しゅうせい が ひつよう だ。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "全力で[ぶつかれば]、後悔はしない。",
+            "translation": "If you clash with all your might, you won't regret it.",
+            "kana": "ぶつかれば",
+            "reading": "ぜんりょく で ぶつかれば、 こうかい は しない。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "高い壁に[ぶつかれば]こそ、燃える性格だ。",
+            "translation": "He has a personality that gets fired up precisely if he bumps into a high wall.",
+            "kana": "ぶつかれば",
+            "reading": "たかい かべ に ぶつかれば こそ、 もえる せいかく だ。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "光が[ぶつかれば]、反射する。",
+            "translation": "If light bumps into (hits) it, it reflects.",
+            "kana": "ぶつかれば",
+            "reading": "ひかり が ぶつかれば、 はんしゃ する。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "人と[ぶつかれば]、お互いに痛い。",
+            "translation": "If you bump into a person, it hurts for both.",
+            "kana": "ぶつかれば",
+            "reading": "ひと と ぶつかれば、 おたがい に いたい。"
+        },
+        {
+            "verb": "butsukaru (ぶつかる)",
+            "tense": "Conditional Form (If)",
+            "text": "運命が[ぶつかれば]、二人は出会う。",
+            "translation": "If fates clash (intersect), the two will meet.",
+            "kana": "ぶつかれば",
+            "reading": "うんめい が ぶつかれば、 ふたり は であう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "これなら昨日とは[違えます]か。",
+            "translation": "Can this be different from yesterday?",
+            "kana": "ちがえます",
+            "reading": "これ なら きのう と は ちがえます か。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "立場が[違えば]（違えます）、見方も変わります。",
+            "translation": "If the positions can be different, the viewpoint also changes.",
+            "kana": "ちがえます",
+            "reading": "たちば が ちがえます、 みかた も かわります。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "少し[違える]だけで、雰囲気は変わります。",
+            "translation": "Just by being able to make it slightly different, the atmosphere changes.",
+            "kana": "ちがえる",
+            "reading": "すこし ちがえる だけ で、 ふんいき は かわります。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "結果を[違える]ことは不可能です。",
+            "translation": "It is impossible to make the results different (change them).",
+            "kana": "ちがえる",
+            "reading": "けっか を ちがえる こと は ふかのう です。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "色を[違えれば]（違えます）、分かりやすくなります。",
+            "translation": "If you can make the colors different, it becomes easy to understand.",
+            "kana": "ちがえます",
+            "reading": "いろ を ちがえます、 わかりやすく なります。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "角度を[違える]ことができます。",
+            "translation": "I can make the angles different.",
+            "kana": "ちがえる",
+            "reading": "かくど を ちがえる こと が できます。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "事実と[違える]わけにはいきません。",
+            "translation": "I cannot make it different from the facts.",
+            "kana": "ちがえる",
+            "reading": "じじつ と ちがえる わけ に は いきません。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "方法を[違えれば]、成功できるかもしれません。",
+            "translation": "If we can make the methods different, we might succeed.",
+            "kana": "ちがえます",
+            "reading": "ほうほう を ちがえます、 せいこう できる かもしれない。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "予定を[違えずに]進められました。",
+            "translation": "I was able to proceed without differing from the schedule.",
+            "kana": "ちがえずに",
+            "reading": "よてい を ちがえず に すすめられました。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Potential Form (Can do)",
+            "text": "味を[違える]のは難しい。",
+            "translation": "It is difficult to make the taste different.",
+            "kana": "ちがえる",
+            "reading": "あじ を ちがえる の は むずかしい。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "常識と[違おう]。",
+            "translation": "Let's be different from common sense.",
+            "kana": "ちがおう",
+            "reading": "じょうしき と ちがおう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "過去の自分と[違おう]。",
+            "translation": "Let's be different from our past selves.",
+            "kana": "ちがおう",
+            "reading": "かこ の じぶん と ちがおう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "みんなと[違おう]と努力している。",
+            "translation": "He is striving to be different from everyone.",
+            "kana": "ちがおう",
+            "reading": "みんな と ちがおう と どりょく して いる。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "あえて期待と[違おう]。",
+            "translation": "Let's intentionally be different from expectations.",
+            "kana": "ちがおう",
+            "reading": "あえて きたい と ちがおう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "これまでのやり方と[違ってみよう]。",
+            "translation": "Let's try being different from previous methods.",
+            "kana": "ちがってみよう",
+            "reading": "これ まで の やりかた と ちがって みよう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "新しい自分に[違おう]。",
+            "translation": "Let's be different (transform) into a new self.",
+            "kana": "ちがおう",
+            "reading": "あたらしい じぶん に ちがおう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "色や形を[違おう]。",
+            "translation": "Let's be different in color and shape.",
+            "kana": "ちがおう",
+            "reading": "いろ や かたち を ちがおう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "今日はいつもと[違ってみよう]。",
+            "translation": "Let's try being different from usual today.",
+            "kana": "ちがってみよう",
+            "reading": "きょう は いつも と ちがって みよう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "信念を[違おう]とは思いません。",
+            "translation": "I don't think to differ from (break) my beliefs.",
+            "kana": "ちがおう",
+            "reading": "しんねん を ちがおう と は おもいません。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Volitional Form (Let's do)",
+            "text": "ルールと[違おう]とするのはやめなさい。",
+            "translation": "Stop trying to differ from the rules.",
+            "kana": "ちがおう",
+            "reading": "るーる と ちがおう と する の は やめなさい。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "事実と[違ったら]、訂正してください。",
+            "translation": "If it is different from the facts, please correct it.",
+            "kana": "ちがったら",
+            "reading": "じじつ と ちがったら、 ていせい して ください。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "昨日と[違ったら]、教えてね。",
+            "translation": "If it is different from yesterday, let me know.",
+            "kana": "ちがったら",
+            "reading": "きのう と ちがったら、 おしえて ね。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "計算が[違ったら]恥ずかしい。",
+            "translation": "It's embarrassing if the calculation is different (wrong).",
+            "kana": "ちがったら",
+            "reading": "けいさん が ちがったら はずかしい。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "意見が[違ったら]、話し合いましょう。",
+            "translation": "If our opinions are different, let's talk.",
+            "kana": "ちがったら",
+            "reading": "いけん が ちがったら、 はなしあいましょう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "場所が[違ったら]会えません。",
+            "translation": "If the place is different, we can't meet.",
+            "kana": "ちがったら",
+            "reading": "ばしょ が ちがったら あえません。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "味が[違ったら]言ってください。",
+            "translation": "If the taste is different, please tell me.",
+            "kana": "ちがったら",
+            "reading": "あじ が ちがったら いって ください。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "名前が[違ったら]届きません。",
+            "translation": "If the name is different, it won't arrive.",
+            "kana": "ちがったら",
+            "reading": "なまえ が ちがったら とどきません。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "道が[違ったら]迷ってしまった。",
+            "translation": "When the road was different (wrong), I got lost.",
+            "kana": "ちがったら",
+            "reading": "みち が ちがったら まよって しまった。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "形が[違ったら]入りません。",
+            "translation": "If the shape is different, it won't fit.",
+            "kana": "ちがったら",
+            "reading": "かたち が ちがったら はいりません。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If / When)",
+            "text": "サイズが[違ったら]交換できますか。",
+            "translation": "If the size is different, can I exchange it?",
+            "kana": "ちがったら",
+            "reading": "さいず が ちがったら こうかん できます か。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "もし[違えば]、謝ります。",
+            "translation": "If it is different (wrong), I will apologize.",
+            "kana": "ちがえば",
+            "reading": "もし ちがえば、 あやまります。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "立場が[違えば]、考えも変わる。",
+            "translation": "If the positions are different, thoughts also change.",
+            "kana": "ちがえば",
+            "reading": "たちば が ちがえば、 かんがえ も かわる。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "国が[違えば]、文化も違う。",
+            "translation": "If the country is different, the culture is also different.",
+            "kana": "ちがえば",
+            "reading": "くに が ちがえば、 ぶんか も ちがう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "色が[違えば]、印象が良くなる。",
+            "translation": "If the color is different, the impression will be better.",
+            "kana": "ちがえば",
+            "reading": "いろ が ちがえば、 いんしょう が よく なる。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "方法が[違えば]、結果は変わるはずだ。",
+            "translation": "If the method is different, the result should change.",
+            "kana": "ちがえば",
+            "reading": "ほうほう が ちがえば、 けっか は かわる はず だ。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "本人が[違えば]、この書類は無効だ。",
+            "translation": "If the person is different, this document is invalid.",
+            "kana": "ちがえば",
+            "reading": "ほんにん が ちがえば、 この しょるい は むこう だ。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "言葉が[違えば]、意思疎通が難しい。",
+            "translation": "If the language is different, communication is difficult.",
+            "kana": "ちがえば",
+            "reading": "ことば が ちがえば、 いしそつう が むずかしい。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "時代が[違えば]、彼は英雄だっただろう。",
+            "translation": "If the era was different, he would have been a hero.",
+            "kana": "ちがえば",
+            "reading": "じだい が ちがえば、 かれ は えいゆう だった だろう。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "道が[違えば]、目的地に着かない。",
+            "translation": "If the road is different (wrong), you won't reach the destination.",
+            "kana": "ちがえば",
+            "reading": "みち が ちがえば、 もくてきち に つかない。"
+        },
+        {
+            "verb": "chigau (違う)",
+            "tense": "Conditional Form (If)",
+            "text": "答えが[ちがえば]、やり直しです。",
+            "translation": "If the answer is different (wrong), you must do it over.",
+            "kana": "ちがえば",
+            "reading": "こたえ が ちがえば、 やりなおし です。"
         }
 
     ];
