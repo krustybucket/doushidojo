@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Check, ArrowRight, RefreshCw, BookOpen, Trophy, AlertCircle, Sparkles, Globe, Loader2, Settings, Sliders, X, Filter, Search, Zap, Moon, Sun, Key, Volume2, XCircle, CheckCircle, Book, Eye, EyeOff } from 'lucide-react';
 import { getStaticData } from './data';
+
 const ROMAJI_TO_KANA = {
   'a':'あ','i':'い','u':'う','e':'え','o':'お',
   'ka':'か','ki':'き','ku':'く','ke':'け','ko':'こ',
@@ -90,7 +91,7 @@ const convertRomajiToKana = (text) => {
 
 const App = () => {
   // Load data
-  const { ALL_TENSES, ALL_VERBS, CUSTOM_LIBRARY, TENSE_GUIDE, VERB_TRANSLATIONS } = useMemo(() => getStaticData(), []);
+  const { ALL_TENSES, ALL_VERBS, CUSTOM_LIBRARY, TENSE_GUIDE, VERB_TRANSLATIONS, VERB_LEVELS } = useMemo(() => getStaticData(), []);
 
   // State
   const [exercises, setExercises] = useState([]); 
@@ -121,6 +122,7 @@ const App = () => {
   const [selectedTenses, setSelectedTenses] = useState([]);
   const [selectedVerbs, setSelectedVerbs] = useState([]);
   const [verbSearchTerm, setVerbSearchTerm] = useState("");
+  const [levelFilter, setLevelFilter] = useState('All');
   const [batchSize, setBatchSize] = useState(5);
 
   const inputRef = useRef(null);
@@ -764,6 +766,23 @@ const App = () => {
                  </div>
               </div>
               
+              {/* JLPT Level Filters */}
+              <div className="flex gap-2 overflow-x-auto pb-1 custom-scrollbar hide-scrollbar">
+                 {['All', 'N5', 'N4', 'N3', 'N2', 'N1'].map(level => (
+                     <button
+                         key={level}
+                         onClick={() => setLevelFilter(level)}
+                         className={`px-3 py-1.5 rounded-lg text-xs font-bold whitespace-nowrap transition-colors ${
+                             levelFilter === level
+                                 ? (isDarkMode ? 'bg-rose-500/20 text-rose-400 border border-rose-500/50' : 'bg-rose-100 text-rose-700 border border-rose-200')
+                                 : (isDarkMode ? 'bg-zinc-800 text-zinc-400 border border-transparent hover:bg-zinc-700' : 'bg-stone-100 text-stone-500 border border-transparent hover:bg-stone-200')
+                         }`}
+                     >
+                         {level === 'All' ? 'All Levels' : level}
+                     </button>
+                 ))}
+              </div>
+
               <div className="relative">
                 <Search size={18} className={`absolute left-3.5 top-1/2 -translate-y-1/2 ${isDarkMode ? 'text-zinc-500' : 'text-stone-400'}`} />
                 <input 
@@ -777,34 +796,52 @@ const App = () => {
           </div>
 
           <div className="flex flex-wrap gap-2.5">
-            {verbSearchTerm.trim() === "" ? (
-                <div className={`w-full py-10 text-center border-2 border-dashed rounded-2xl text-sm font-medium ${isDarkMode ? 'border-zinc-800 text-zinc-500' : 'border-stone-200 text-stone-400'}`}>
-                    <Search size={28} className="mx-auto mb-3 opacity-40" />
-                    <p>Type to find specific verbs</p>
-                </div>
-            ) : (
-                ALL_VERBS.filter(v => v.toLowerCase().includes(verbSearchTerm.toLowerCase())).map(verb => (
+            {(() => {
+                const filteredVerbs = ALL_VERBS.filter(v => {
+                    const matchesSearch = v.toLowerCase().includes(verbSearchTerm.toLowerCase());
+                    const matchesLevel = levelFilter === 'All' || VERB_LEVELS[v] === levelFilter;
+                    return matchesSearch && matchesLevel;
+                });
+
+                if (filteredVerbs.length === 0) {
+                    return (
+                        <div className={`w-full py-10 text-center border-2 border-dashed rounded-2xl text-sm font-medium ${isDarkMode ? 'border-zinc-800 text-zinc-500' : 'border-stone-200 text-stone-400'}`}>
+                            <Filter size={28} className="mx-auto mb-3 opacity-40" />
+                            <p>No verbs found matching your filters</p>
+                        </div>
+                    );
+                }
+
+                return filteredVerbs.map(verb => (
                   <button
                     key={verb}
                     onClick={() => toggleVerb(verb)}
-                    className={`px-4 py-2.5 rounded-xl text-sm font-semibold transition-all border flex flex-col items-center gap-0.5 ${
+                    className={`px-4 py-2.5 rounded-xl text-sm font-semibold transition-all border flex flex-col items-center gap-1 ${
                       selectedVerbs.includes(verb) 
                         ? (isDarkMode ? 'bg-rose-900/30 text-rose-300 border-rose-800/50 shadow-inner' : 'bg-rose-50 text-rose-700 border-rose-200 shadow-sm')
                         : (isDarkMode ? 'bg-zinc-800/50 text-zinc-400 border-transparent hover:bg-zinc-800' : 'bg-stone-50 text-stone-600 border-stone-200 hover:bg-stone-100')
                     }`}
                   >
-                    <span>{verb}</span>
+                    <div className="flex items-center gap-1.5">
+                        <span>{verb}</span>
+                        {VERB_LEVELS[verb] && (
+                            <span className={`text-[9px] px-1.5 py-0.5 rounded font-black ${
+                                selectedVerbs.includes(verb)
+                                    ? (isDarkMode ? 'bg-rose-800/50 text-rose-300' : 'bg-rose-200 text-rose-600')
+                                    : (isDarkMode ? 'bg-zinc-700 text-zinc-400' : 'bg-stone-200 text-stone-500')
+                            }`}>
+                                {VERB_LEVELS[verb]}
+                            </span>
+                        )}
+                    </div>
                     {VERB_TRANSLATIONS[verb] && (
                         <span className={`text-[10px] font-bold uppercase tracking-widest ${selectedVerbs.includes(verb) ? (isDarkMode ? 'text-rose-400/70' : 'text-rose-500/70') : (isDarkMode ? 'text-zinc-500' : 'text-stone-400')}`}>
                             {VERB_TRANSLATIONS[verb]}
                         </span>
                     )}
                   </button>
-                ))
-            )}
-            {verbSearchTerm.trim() !== "" && ALL_VERBS.filter(v => v.toLowerCase().includes(verbSearchTerm.toLowerCase())).length === 0 && (
-                <p className={`text-sm w-full text-center py-6 font-medium ${isDarkMode ? 'text-zinc-500' : 'text-stone-400'}`}>No verbs found matching "{verbSearchTerm}"</p>
-            )}
+                ));
+            })()}
           </div>
         </section>
       </div>
