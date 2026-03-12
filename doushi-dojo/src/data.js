@@ -20548,7 +20548,7 @@ export function getStaticData() {
         "みんな の こころ が ひとつ に あつまれば、 ふかのう な こと は ない。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "大きな壁に[ぶつかれます]か。",
       translation: "Can you bump into (confront) a large wall?",
@@ -20556,7 +20556,7 @@ export function getStaticData() {
       reading: "おおきな かべ に ぶつかれます か。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "広い道なら[ぶつからずに]歩けます。",
       translation:
@@ -20565,7 +20565,7 @@ export function getStaticData() {
       reading: "ひろい みち なら ぶつからず に あるけます。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "この車なら障害物を[避けられます]（ぶつかりません）。",
       translation: "With this car, I won't bump into (can avoid) obstacles.",
@@ -20573,7 +20573,7 @@ export function getStaticData() {
       reading: "この くるま なら しょうがいぶつ を ぶつかりません。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "意見が[ぶつかり合える]関係は素晴らしい。",
       translation:
@@ -20582,7 +20582,7 @@ export function getStaticData() {
       reading: "いけん が ぶつかりあえる かんけい は すばらしい。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "暗闇でも何にも[ぶつかりませんでした]。",
       translation:
@@ -20591,7 +20591,7 @@ export function getStaticData() {
       reading: "くらやみ でも なに に も ぶつかりませんでした。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "そんなに急いでも[ぶつかる]だけですよ。",
       translation:
@@ -20600,7 +20600,7 @@ export function getStaticData() {
       reading: "そんな に いそいでも ぶつかる だけ です よ。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "正面から正々堂々と[ぶつかれます]。",
       translation: "I can clash with it head-on and fairly.",
@@ -20608,7 +20608,7 @@ export function getStaticData() {
       reading: "しょうめん から せいせいどうどう と ぶつかれます。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "人混みでも誰にも[ぶつからずに]進めます。",
       translation:
@@ -20617,7 +20617,7 @@ export function getStaticData() {
       reading: "ひとごみ でも だれ に も ぶつからず に すすめます。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "困難に[ぶつかっても]、乗り越えられます。",
       translation:
@@ -20626,7 +20626,7 @@ export function getStaticData() {
       reading: "こんなん に ぶつかっても、 のりこえられます。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Potential Form (Can do)",
       text: "予定が[ぶつからない]ように調整できます。",
       translation:
@@ -20635,7 +20635,7 @@ export function getStaticData() {
       reading: "よてい が ぶつからない よう に ちょうせい できます。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "恐れずに全力で[ぶつかろう]。",
       translation:
@@ -20644,7 +20644,7 @@ export function getStaticData() {
       reading: "おそれず に ぜんりょく で ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "本音で[ぶつかり合いましょう]。",
       translation:
@@ -20653,7 +20653,7 @@ export function getStaticData() {
       reading: "ほんね で ぶつかりあいましょう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "新しい問題に[ぶつかろう]としている。",
       translation: "He is about to clash with (face) a new problem.",
@@ -20661,7 +20661,7 @@ export function getStaticData() {
       reading: "あたらしい もんだい に ぶつかろう と して いる。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "あえて難しい課題に[ぶつかってみよう]。",
       translation: "Let's try clashing with a difficult task on purpose.",
@@ -20669,7 +20669,7 @@ export function getStaticData() {
       reading: "あえて むずかしい かだい に ぶつかって みよう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "ライバルと正々堂々と[ぶつかろう]。",
       translation: "Let's clash fairly with our rivals.",
@@ -20677,7 +20677,7 @@ export function getStaticData() {
       reading: "らいばる と せいせいどうどう と ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "迷わず自分の限界に[ぶつかろう]。",
       translation: "Let's clash with our own limits without hesitation.",
@@ -20685,7 +20685,7 @@ export function getStaticData() {
       reading: "まよわず じぶん の げんかい に ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "一緒に壁を[ぶち破ろう]（ぶつかろう）。",
       translation: "Let's clash with the wall together.",
@@ -20693,7 +20693,7 @@ export function getStaticData() {
       reading: "いっしょ に かべ を ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "今日こそあの人に[ぶつかろう]。",
       translation: "Let's confront (clash with) that person today.",
@@ -20701,7 +20701,7 @@ export function getStaticData() {
       reading: "きょう こそ あの ひと に ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "不満があるなら[ぶつかりましょう]。",
       translation: "If you have complaints, let's clash (talk it out).",
@@ -20709,7 +20709,7 @@ export function getStaticData() {
       reading: "ふまん が ある なら ぶつかりましょう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Volitional Form (Let's do)",
       text: "未知の世界へ[ぶつかろう]。",
       translation: "Let's clash with (venture into) the unknown world.",
@@ -20717,7 +20717,7 @@ export function getStaticData() {
       reading: "みち の せかい へ ぶつかろう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "壁に[ぶつかったら]、一回休みましょう。",
       translation: "When you hit (bump into) a wall, let's take a break.",
@@ -20725,7 +20725,7 @@ export function getStaticData() {
       reading: "かべ に ぶつかったら、 いっかい やすみましょう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "車が[ぶつかったら]大変なことになります。",
       translation: "If the car bumps into (crashes), it will be a disaster.",
@@ -20733,7 +20733,7 @@ export function getStaticData() {
       reading: "くるま が ぶつかったら たいへんな こと に なります。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "人と[ぶつかったら]、謝ってください。",
       translation: "When you bump into a person, please apologize.",
@@ -20741,7 +20741,7 @@ export function getStaticData() {
       reading: "ひと と ぶつかったら、 あやまって ください。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "限界に[ぶつかったら]、相談してください。",
       translation: "When you hit (bump into) your limit, please consult me.",
@@ -20749,7 +20749,7 @@ export function getStaticData() {
       reading: "げんかい に ぶつかったら、 そうだん して ください。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "予定が[ぶつかったら]、教えてね。",
       translation:
@@ -20758,7 +20758,7 @@ export function getStaticData() {
       reading: "よてい が ぶつかったら、 おしえて ね。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "ボールが[ぶつかったら]痛いです。",
       translation: "It hurts when the ball bumps into (hits) you.",
@@ -20766,7 +20766,7 @@ export function getStaticData() {
       reading: "ぼーる が ぶつかったら いたい です。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "角で誰かと[ぶつかったら]危ないよ。",
       translation: "It's dangerous if you bump into someone at the corner.",
@@ -20774,7 +20774,7 @@ export function getStaticData() {
       reading: "かど で だれか と ぶつかったら あぶない よ。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "理想と現実に[ぶつかったら]、どうしますか。",
       translation:
@@ -20783,7 +20783,7 @@ export function getStaticData() {
       reading: "りそう と げんじつ に ぶつかったら、 どう します か。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "岩に[ぶつかったら]、船が沈んでしまう。",
       translation: "If the ship bumps into a rock, it will sink.",
@@ -20791,7 +20791,7 @@ export function getStaticData() {
       reading: "いわ に ぶつかったら、 ふね が しずんで しまう。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If / When)",
       text: "壁を走って[ぶつかったら]笑われた。",
       translation: "When I ran and bumped into the wall, I was laughed at.",
@@ -20799,7 +20799,7 @@ export function getStaticData() {
       reading: "かべ を はしって ぶつかったら わらわれた。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "正面から[ぶつかれば]、活路が見出せる。",
       translation: "If you clash head-on, you can find a way out.",
@@ -20807,7 +20807,7 @@ export function getStaticData() {
       reading: "しょうめん から ぶつかれば、 かつろ が みいだせる。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "何かに[ぶつかれば]、音がします。",
       translation: "If it bumps into something, it will make a sound.",
@@ -20815,7 +20815,7 @@ export function getStaticData() {
       reading: "なに か に ぶつかれば、 おと が します。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "意見が[ぶつかれば]、新しい発見がある。",
       translation: "If opinions clash, there will be new discoveries.",
@@ -20823,7 +20823,7 @@ export function getStaticData() {
       reading: "いけん が ぶつかれば、 あたらしい はっけん が ある。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "大きな問題に[ぶつかれば]、成長のチャンスだ。",
       translation:
@@ -20832,7 +20832,7 @@ export function getStaticData() {
       reading: "おおきな もんだい に ぶつかれば、 せいちょう の ちゃんす だ。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "計画が[ぶつかれば]、修正が必要だ。",
       translation: "If plans clash (bump), correction is necessary.",
@@ -20840,7 +20840,7 @@ export function getStaticData() {
       reading: "けいかく が ぶつかれば、 しゅうせい が ひつよう だ。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "全力で[ぶつかれば]、後悔はしない。",
       translation: "If you clash with all your might, you won't regret it.",
@@ -20848,7 +20848,7 @@ export function getStaticData() {
       reading: "ぜんりょく で ぶつかれば、 こうかい は しない。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "高い壁に[ぶつかれば]こそ、燃える性格だ。",
       translation:
@@ -20857,7 +20857,7 @@ export function getStaticData() {
       reading: "たかい かべ に ぶつかれば こそ、 もえる せいかく だ。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "光が[ぶつかれば]、反射する。",
       translation: "If light bumps into (hits) it, it reflects.",
@@ -20865,7 +20865,7 @@ export function getStaticData() {
       reading: "ひかり が ぶつかれば、 はんしゃ する。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "人と[ぶつかれば]、お互いに痛い。",
       translation: "If you bump into a person, it hurts for both.",
@@ -20873,7 +20873,7 @@ export function getStaticData() {
       reading: "ひと と ぶつかれば、 おたがい に いたい。",
     },
     {
-      verb: "butsukaru (ぶつかる)",
+      verb: "ぶつかる (butsukaru)",
       tense: "Conditional Form (If)",
       text: "運命が[ぶつかれば]、二人は出会う。",
       translation: "If fates clash (intersect), the two will meet.",
