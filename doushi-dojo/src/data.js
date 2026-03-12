@@ -7414,7 +7414,7 @@ export function getStaticData() {
       reading: "そんがい を あたえて は いけない。",
     },
     {
-      verb: "ataeru (与える)",
+      verb: "与える (ataeru)",
       tense: "Te-form",
       text: "ヒントを[与えて]解かせる。",
       translation: "Make them solve it by giving a hint.",
