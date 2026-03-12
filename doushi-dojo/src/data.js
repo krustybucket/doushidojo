@@ -20881,7 +20881,7 @@ export function getStaticData() {
       reading: "うんめい が ぶつかれば、 ふたり は であう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "これなら昨日とは[違えます]か。",
       translation: "Can this be different from yesterday?",
@@ -20889,7 +20889,7 @@ export function getStaticData() {
       reading: "これ なら きのう と は ちがえます か。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "立場が[違えば]（違えます）、見方も変わります。",
       translation:
@@ -20898,7 +20898,7 @@ export function getStaticData() {
       reading: "たちば が ちがえます、 みかた も かわります。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "少し[違える]だけで、雰囲気は変わります。",
       translation:
@@ -20907,7 +20907,7 @@ export function getStaticData() {
       reading: "すこし ちがえる だけ で、 ふんいき は かわります。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "結果を[違える]ことは不可能です。",
       translation:
@@ -20916,7 +20916,7 @@ export function getStaticData() {
       reading: "けっか を ちがえる こと は ふかのう です。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "色を[違えれば]（違えます）、分かりやすくなります。",
       translation:
@@ -20925,7 +20925,7 @@ export function getStaticData() {
       reading: "いろ を ちがえます、 わかりやすく なります。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "角度を[違える]ことができます。",
       translation: "I can make the angles different.",
@@ -20933,7 +20933,7 @@ export function getStaticData() {
       reading: "かくど を ちがえる こと が できます。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "事実と[違える]わけにはいきません。",
       translation: "I cannot make it different from the facts.",
@@ -20941,7 +20941,7 @@ export function getStaticData() {
       reading: "じじつ と ちがえる わけ に は いきません。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "方法を[違えれば]、成功できるかもしれません。",
       translation: "If we can make the methods different, we might succeed.",
@@ -20949,7 +20949,7 @@ export function getStaticData() {
       reading: "ほうほう を ちがえます、 せいこう できる かもしれない。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "予定を[違えずに]進められました。",
       translation: "I was able to proceed without differing from the schedule.",
@@ -20957,7 +20957,7 @@ export function getStaticData() {
       reading: "よてい を ちがえず に すすめられました。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Potential Form (Can do)",
       text: "味を[違える]のは難しい。",
       translation: "It is difficult to make the taste different.",
@@ -20965,7 +20965,7 @@ export function getStaticData() {
       reading: "あじ を ちがえる の は むずかしい。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "常識と[違おう]。",
       translation: "Let's be different from common sense.",
@@ -20973,7 +20973,7 @@ export function getStaticData() {
       reading: "じょうしき と ちがおう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "過去の自分と[違おう]。",
       translation: "Let's be different from our past selves.",
@@ -20981,7 +20981,7 @@ export function getStaticData() {
       reading: "かこ の じぶん と ちがおう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "みんなと[違おう]と努力している。",
       translation: "He is striving to be different from everyone.",
@@ -20989,7 +20989,7 @@ export function getStaticData() {
       reading: "みんな と ちがおう と どりょく して いる。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "あえて期待と[違おう]。",
       translation: "Let's intentionally be different from expectations.",
@@ -20997,7 +20997,7 @@ export function getStaticData() {
       reading: "あえて きたい と ちがおう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "これまでのやり方と[違ってみよう]。",
       translation: "Let's try being different from previous methods.",
@@ -21005,7 +21005,7 @@ export function getStaticData() {
       reading: "これ まで の やりかた と ちがって みよう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "新しい自分に[違おう]。",
       translation: "Let's be different (transform) into a new self.",
@@ -21013,7 +21013,7 @@ export function getStaticData() {
       reading: "あたらしい じぶん に ちがおう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "色や形を[違おう]。",
       translation: "Let's be different in color and shape.",
@@ -21021,7 +21021,7 @@ export function getStaticData() {
       reading: "いろ や かたち を ちがおう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "今日はいつもと[違ってみよう]。",
       translation: "Let's try being different from usual today.",
@@ -21029,7 +21029,7 @@ export function getStaticData() {
       reading: "きょう は いつも と ちがって みよう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "信念を[違おう]とは思いません。",
       translation: "I don't think to differ from (break) my beliefs.",
@@ -21037,7 +21037,7 @@ export function getStaticData() {
       reading: "しんねん を ちがおう と は おもいません。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Volitional Form (Let's do)",
       text: "ルールと[違おう]とするのはやめなさい。",
       translation: "Stop trying to differ from the rules.",
@@ -21045,7 +21045,7 @@ export function getStaticData() {
       reading: "るーる と ちがおう と する の は やめなさい。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "事実と[違ったら]、訂正してください。",
       translation: "If it is different from the facts, please correct it.",
@@ -21053,7 +21053,7 @@ export function getStaticData() {
       reading: "じじつ と ちがったら、 ていせい して ください。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "昨日と[違ったら]、教えてね。",
       translation: "If it is different from yesterday, let me know.",
@@ -21061,7 +21061,7 @@ export function getStaticData() {
       reading: "きのう と ちがったら、 おしえて ね。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "計算が[違ったら]恥ずかしい。",
       translation: "It's embarrassing if the calculation is different (wrong).",
@@ -21069,7 +21069,7 @@ export function getStaticData() {
       reading: "けいさん が ちがったら はずかしい。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "意見が[違ったら]、話し合いましょう。",
       translation: "If our opinions are different, let's talk.",
@@ -21077,7 +21077,7 @@ export function getStaticData() {
       reading: "いけん が ちがったら、 はなしあいましょう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "場所が[違ったら]会えません。",
       translation: "If the place is different, we can't meet.",
@@ -21085,7 +21085,7 @@ export function getStaticData() {
       reading: "ばしょ が ちがったら あえません。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "味が[違ったら]言ってください。",
       translation: "If the taste is different, please tell me.",
@@ -21093,7 +21093,7 @@ export function getStaticData() {
       reading: "あじ が ちがったら いって ください。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "名前が[違ったら]届きません。",
       translation: "If the name is different, it won't arrive.",
@@ -21101,7 +21101,7 @@ export function getStaticData() {
       reading: "なまえ が ちがったら とどきません。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "道が[違ったら]迷ってしまった。",
       translation: "When the road was different (wrong), I got lost.",
@@ -21109,7 +21109,7 @@ export function getStaticData() {
       reading: "みち が ちがったら まよって しまった。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "形が[違ったら]入りません。",
       translation: "If the shape is different, it won't fit.",
@@ -21117,7 +21117,7 @@ export function getStaticData() {
       reading: "かたち が ちがったら はいりません。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If / When)",
       text: "サイズが[違ったら]交換できますか。",
       translation: "If the size is different, can I exchange it?",
@@ -21125,7 +21125,7 @@ export function getStaticData() {
       reading: "さいず が ちがったら こうかん できます か。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "もし[違えば]、謝ります。",
       translation: "If it is different (wrong), I will apologize.",
@@ -21133,7 +21133,7 @@ export function getStaticData() {
       reading: "もし ちがえば、 あやまります。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "立場が[違えば]、考えも変わる。",
       translation: "If the positions are different, thoughts also change.",
@@ -21141,7 +21141,7 @@ export function getStaticData() {
       reading: "たちば が ちがえば、 かんがえ も かわる。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "国が[違えば]、文化も違う。",
       translation:
@@ -21150,7 +21150,7 @@ export function getStaticData() {
       reading: "くに が ちがえば、 ぶんか も ちがう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "色が[違えば]、印象が良くなる。",
       translation: "If the color is different, the impression will be better.",
@@ -21158,7 +21158,7 @@ export function getStaticData() {
       reading: "いろ が ちがえば、 いんしょう が よく なる。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "方法が[違えば]、結果は変わるはずだ。",
       translation: "If the method is different, the result should change.",
@@ -21166,7 +21166,7 @@ export function getStaticData() {
       reading: "ほうほう が ちがえば、 けっか は かわる はず だ。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "本人が[違えば]、この書類は無効だ。",
       translation: "If the person is different, this document is invalid.",
@@ -21174,7 +21174,7 @@ export function getStaticData() {
       reading: "ほんにん が ちがえば、 この しょるい は むこう だ。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "言葉が[違えば]、意思疎通が難しい。",
       translation: "If the language is different, communication is difficult.",
@@ -21182,7 +21182,7 @@ export function getStaticData() {
       reading: "ことば が ちがえば、 いしそつう が むずかしい。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "時代が[違えば]、彼は英雄だっただろう。",
       translation: "If the era was different, he would have been a hero.",
@@ -21190,7 +21190,7 @@ export function getStaticData() {
       reading: "じだい が ちがえば、 かれ は えいゆう だった だろう。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "道が[違えば]、目的地に着かない。",
       translation:
@@ -21199,7 +21199,7 @@ export function getStaticData() {
       reading: "みち が ちがえば、 もくてきち に つかない。",
     },
     {
-      verb: "chigau (違う)",
+      verb: "違う (chigau)",
       tense: "Conditional Form (If)",
       text: "答えが[ちがえば]、やり直しです。",
       translation: "If the answer is different (wrong), you must do it over.",
@@ -21207,7 +21207,7 @@ export function getStaticData() {
       reading: "こたえ が ちがえば、 やりなおし です。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "この素材は洗濯しても[縮みません]。",
       translation:
@@ -21216,7 +21216,7 @@ export function getStaticData() {
       reading: "この そざい は せんたく しても ちぢみません。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "特殊な加工で、これ以上[縮めません]。",
       translation: "With special processing, it cannot be shrunk any further.",
@@ -21224,7 +21224,7 @@ export function getStaticData() {
       reading: "とくしゅな かこう で、 これ いじょう ちぢめません。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "乾燥機を使えばもっと[縮めます]か。",
       translation: "Can it be shrunk more if I use a dryer?",
@@ -21232,7 +21232,7 @@ export function getStaticData() {
       reading: "かんそうき を つかえば もっと ちぢめます か。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "寿命が[縮まる]（縮める）ような思いをした。",
       translation: "I felt as if my lifespan could be shortened (shrunk).",
@@ -21240,7 +21240,7 @@ export function getStaticData() {
       reading: "じゅみょう が ちぢめる ような おもい を した。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "ウール100%は簡単に[縮めます]。",
       translation: "100% wool can easily shrink.",
@@ -21248,7 +21248,7 @@ export function getStaticData() {
       reading: "うーる ひゃくぱーせんと は かんたん に ちぢめます。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "ゴムのように[縮める]性質があります。",
       translation: "It has the property of being able to shrink like rubber.",
@@ -21256,7 +21256,7 @@ export function getStaticData() {
       reading: "ごむ の ように ちぢめる せいしつ が あります。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "このシャツ、まだ[縮めます]ね。",
       translation: "This shirt can still shrink, can't it.",
@@ -21264,7 +21264,7 @@ export function getStaticData() {
       reading: "この しゃつ、 まだ ちぢめます ね。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "熱湯をかければ[縮められる]はずだ。",
       translation:
@@ -21273,7 +21273,7 @@ export function getStaticData() {
       reading: "ねっとう を かければ ちぢめられる はず だ。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "体が硬くて、あまり[縮めません]。",
       translation: "My body is stiff, so I can't shrink (curl up) much.",
@@ -21281,7 +21281,7 @@ export function getStaticData() {
       reading: "からだ が かたくて、 あまり ちぢめません。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Potential Form (Can do)",
       text: "距離を[縮められる]チャンスです。",
       translation: "It is a chance to be able to shrink the distance.",
@@ -21289,7 +21289,7 @@ export function getStaticData() {
       reading: "きょり を ちぢめられる ちゃんす です。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "少しサイズを[縮もう]（縮めよう）。",
       translation: "Let's shrink (reduce) the size a little.",
@@ -21297,7 +21297,7 @@ export function getStaticData() {
       reading: "すこし さいず を ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "背中を丸めて[縮もう]。",
       translation: "Let's curl up (shrink) by rounding our backs.",
@@ -21305,7 +21305,7 @@ export function getStaticData() {
       reading: "せなか を まるめて ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "相手との距離を[縮もう]と努力する。",
       translation: "Strive to (let's) shrink the distance with the opponent.",
@@ -21313,7 +21313,7 @@ export function getStaticData() {
       reading: "あいて と の きょり を ちぢもう と どりょく する。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "寒さで体を[縮もう]。",
       translation: "Let's shrink (huddle) our bodies due to the cold.",
@@ -21321,7 +21321,7 @@ export function getStaticData() {
       reading: "さむさ で からだ を ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "不要な部分を[縮もう]。",
       translation: "Let's shrink (shorten) the unnecessary parts.",
@@ -21329,7 +21329,7 @@ export function getStaticData() {
       reading: "ふような ぶぶん を ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "もっとコンパクトに[縮もう]。",
       translation: "Let's shrink into a more compact form.",
@@ -21337,7 +21337,7 @@ export function getStaticData() {
       reading: "もっと こんぱくと に ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "恐怖で身を[縮もう]。",
       translation: "Let's shrink back (recoil) in fear.",
@@ -21345,7 +21345,7 @@ export function getStaticData() {
       reading: "きょうふ で み を ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "記録を[縮もう]と練習に励む。",
       translation: "Encourage training to (let's) shrink the record (time).",
@@ -21353,7 +21353,7 @@ export function getStaticData() {
       reading: "きろく を ちぢもう と れんしゅう に はげむ。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "一歩ずつ間隔を[縮もう]。",
       translation: "Let's shrink the interval step by step.",
@@ -21361,7 +21361,7 @@ export function getStaticData() {
       reading: "いっぽ ずつ かんかく を ちぢもう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Volitional Form (Let's do)",
       text: "予算を[縮もう]という案が出た。",
       translation: "A proposal came out to (let's) shrink the budget.",
@@ -21369,7 +21369,7 @@ export function getStaticData() {
       reading: "よさん を ちぢもう と いう あん が でた。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "セーターを[縮めたら]、子供用になった。",
       translation: "When I shrunk the sweater, it became for children.",
@@ -21377,7 +21377,7 @@ export function getStaticData() {
       reading: "せーたー を ちぢめたら、 こどもよう に なった。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "距離が[縮まったら]（縮めたら）、声をかけます。",
       translation: "When the distance has shrunk, I will call out.",
@@ -21385,7 +21385,7 @@ export function getStaticData() {
       reading: "きょり が ちぢめたら、 こえ を かけます。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "洗濯機で[縮めたら]大変だよ。",
       translation: "It'll be a problem if it shrinks in the washing machine.",
@@ -21393,7 +21393,7 @@ export function getStaticData() {
       reading: "せんたくき で ちぢめたら たいへん だ よ。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "身を[縮めたら]、狭い場所も通れた。",
       translation:
@@ -21402,7 +21402,7 @@ export function getStaticData() {
       reading: "み を ちぢめたら、 せまい ばしょ も とおれた。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "寿命が[縮まったら]（縮めたら）どうしよう。",
       translation: "What should I do if my lifespan shrinks?",
@@ -21410,7 +21410,7 @@ export function getStaticData() {
       reading: "じゅみょう が ちぢめたら どう しよう。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "布を[縮めたら]、シワになった。",
       translation: "When the cloth shrunk, it got wrinkled.",
@@ -21418,7 +21418,7 @@ export function getStaticData() {
       reading: "ぬの を ちぢめたら、 しわ に なった。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "予定を[縮めたら]、忙しくなった。",
       translation: "When I shrunk (compressed) the schedule, I became busy.",
@@ -21426,7 +21426,7 @@ export function getStaticData() {
       reading: "よてい を ちぢめたら、 いそがしく なった。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "間隔を[縮めたら]、ぶつかりそうになった。",
       translation: "When the interval shrunk, I almost bumped into it.",
@@ -21434,7 +21434,7 @@ export function getStaticData() {
       reading: "かんかく を ちぢめたら、 ぶつかりそう に なった。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "ズボンを[縮めたら]、短すぎた。",
       translation: "When I shrunk the pants, they were too short.",
@@ -21442,7 +21442,7 @@ export function getStaticData() {
       reading: "ずぼん を ちぢめたら、 みじかすぎた。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If / When)",
       text: "心が[縮まったら]（縮めたら）、何も言えなくなった。",
       translation: "When my heart shrunk (withered), I couldn't say anything.",
@@ -21450,7 +21450,7 @@ export function getStaticData() {
       reading: "こころ が ちぢめたら、 なに も いえなく なった。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "乾燥させれば[縮めば]、ちょうど良くなる。",
       translation: "If it shrinks by drying it, it will be just right.",
@@ -21458,7 +21458,7 @@ export function getStaticData() {
       reading: "かんそう させれば ちぢめば、 ちょうど よく なる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "距離が[縮まれば]（縮めば）、仲良くなれる。",
       translation: "If the distance shrinks, we can become friends.",
@@ -21466,7 +21466,7 @@ export function getStaticData() {
       reading: "きょり が ちぢめば、 なかよく なれる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "体が[縮めば]、寒さをしのげる。",
       translation: "If the body shrinks (curls up), you can endure the cold.",
@@ -21474,7 +21474,7 @@ export function getStaticData() {
       reading: "からだ が ちぢめば、 さむさ を しのげる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "記録が[縮まれば]（縮めば）、優勝できる。",
       translation: "If the record (time) shrinks, I can win.",
@@ -21482,7 +21482,7 @@ export function getStaticData() {
       reading: "きろく が ちぢめば、 ゆうしょう できる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "布が[縮めば]、模様が変わる。",
       translation: "If the cloth shrinks, the pattern changes.",
@@ -21490,7 +21490,7 @@ export function getStaticData() {
       reading: "ぬの が ちぢめば、 もよう が かわる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "間隔が[縮まれば]（縮めば）、列が詰まる。",
       translation: "If the interval shrinks, the line gets crowded.",
@@ -21498,7 +21498,7 @@ export function getStaticData() {
       reading: "かんかく が ちぢめば、 れつ が つまる。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "影が[縮めば]、正午に近い。",
       translation: "If the shadow shrinks, it is close to noon.",
@@ -21506,7 +21506,7 @@ export function getStaticData() {
       reading: "かげ が ちぢめば、 しょうご に ちかい。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "寿命が[縮まれば]（縮めば）元も子もない。",
       translation: "If one's lifespan shrinks, it all comes to nothing.",
@@ -21514,7 +21514,7 @@ export function getStaticData() {
       reading: "じゅみょう が ちぢめば もともこもない。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "予算が[縮まれば]、計画を変更する。",
       translation: "If the budget shrinks, we will change the plan.",
@@ -21522,7 +21522,7 @@ export function getStaticData() {
       reading: "よさん が ちぢめば、 けいかく を へんこう する。",
     },
     {
-      verb: "chijimu (縮む)",
+      verb: "縮む (chijimu)",
       tense: "Conditional Form (If)",
       text: "視野が[縮まれば]、ミスをしやすくなる。",
       translation:
@@ -21531,7 +21531,7 @@ export function getStaticData() {
       reading: "しや が ちぢめば、 みす を しやすく なる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "神に真実を[誓えます]か。",
       translation: "Can you swear the truth to God?",
@@ -21539,7 +21539,7 @@ export function getStaticData() {
       reading: "かみ に しんじつ を ちかえます か。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "一生の愛を[誓えます]。",
       translation: "I can swear eternal love.",
@@ -21547,7 +21547,7 @@ export function getStaticData() {
       reading: "いっしょう の あい を ちかえます。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "絶対に忘れないと[誓えます]。",
       translation: "I can swear that I will never forget.",
@@ -21555,7 +21555,7 @@ export function getStaticData() {
       reading: "ぜったい に わすれない と ちかえます。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "自分に嘘をつかないと[誓えます]か。",
       translation: "Can you swear not to lie to yourself?",
@@ -21563,7 +21563,7 @@ export function getStaticData() {
       reading: "じぶん に うそ を つかない と ちかえます か。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "正義のために戦うと[誓えます]。",
       translation: "I can swear to fight for justice.",
@@ -21571,7 +21571,7 @@ export function getStaticData() {
       reading: "せいぎ の ため に たたかう と ちかえます。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "秘密を守ると[誓える]人はいますか。",
       translation: "Is there anyone who can swear to keep a secret?",
@@ -21579,7 +21579,7 @@ export function getStaticData() {
       reading: "ひみつ を まもる と ちかえる ひと は います か。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "復讐を[誓える]ほど強い恨みがある。",
       translation:
@@ -21588,7 +21588,7 @@ export function getStaticData() {
       reading: "ふくしゅう を ちかえる ほど つよい うらみ が ある。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "忠誠を[誓えます]。",
       translation: "I can swear loyalty.",
@@ -21596,7 +21596,7 @@ export function getStaticData() {
       reading: "ちゅうせい を ちかえます。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "禁煙を[誓えます]か。",
       translation: "Can you swear to quit smoking?",
@@ -21604,7 +21604,7 @@ export function getStaticData() {
       reading: "きんえん を ちかえます か。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Potential Form (Can do)",
       text: "再会を[誓える]日は来るだろうか。",
       translation: "Will the day come when we can swear to meet again?",
@@ -21612,7 +21612,7 @@ export function getStaticData() {
       reading: "さいかい を ちかえる ひ は くる だろう か。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "勝利を[誓おう]。",
       translation: "Let's swear victory.",
@@ -21620,7 +21620,7 @@ export function getStaticData() {
       reading: "しょうり を ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "共に歩むことを[誓いましょう]。",
       translation: "Let's swear to walk together.",
@@ -21628,7 +21628,7 @@ export function getStaticData() {
       reading: "とも に あゆむ こと を ちかいましょう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "二度と失敗しないと[誓おう]。",
       translation: "Let's swear never to fail again.",
@@ -21636,7 +21636,7 @@ export function getStaticData() {
       reading: "にど と しっぱい しない と ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "心の底から[誓おう]。",
       translation: "Let's swear from the bottom of our hearts.",
@@ -21644,7 +21644,7 @@ export function getStaticData() {
       reading: "こころ の そこ から ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "平和な世界を[誓いましょう]。",
       translation: "Let's swear to a peaceful world.",
@@ -21652,7 +21652,7 @@ export function getStaticData() {
       reading: "へいわ な せかい を ちかいましょう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "今日から新しくなると[誓おう]。",
       translation: "Let's swear to be new starting today.",
@@ -21660,7 +21660,7 @@ export function getStaticData() {
       reading: "きょう から あたらしく なる と ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "友に義理を[誓おう]。",
       translation: "Let's swear duty/loyalty to our friends.",
@@ -21668,7 +21668,7 @@ export function getStaticData() {
       reading: "とも に ぎり を ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "愛する人を守ると[誓おう]。",
       translation: "Let's swear to protect the one we love.",
@@ -21676,7 +21676,7 @@ export function getStaticData() {
       reading: "あいする ひと を まもる と ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "真実のみを語ることを[誓いましょう]。",
       translation: "Let's swear to speak only the truth.",
@@ -21684,7 +21684,7 @@ export function getStaticData() {
       reading: "しんじつ のみ を かたる こと を ちかいましょう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Volitional Form (Let's do)",
       text: "高みを目指すと[誓おう]。",
       translation: "Let's swear to aim for the heights.",
@@ -21692,7 +21692,7 @@ export function getStaticData() {
       reading: "たかみ を めざす と ちかおう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "愛を[誓ったら]、もう後戻りはできない。",
       translation: "When you have sworn love, there is no going back.",
@@ -21700,7 +21700,7 @@ export function getStaticData() {
       reading: "あい を ちかったら、 もう あともどり は できない。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "心に[誓ったら]、実行あるのみだ。",
       translation: "When you have sworn in your heart, there is only action.",
@@ -21708,7 +21708,7 @@ export function getStaticData() {
       reading: "こころ に ちかったら、 じっこう ある のみ だ。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "神に[誓ったら]、嘘はつけない。",
       translation: "When you have sworn to God, you cannot lie.",
@@ -21716,7 +21716,7 @@ export function getStaticData() {
       reading: "かみ に ちかったら、 うそ は つけない。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "復讐を[誓ったら]、人生が変わった。",
       translation: "When I swore revenge, my life changed.",
@@ -21724,7 +21724,7 @@ export function getStaticData() {
       reading: "ふくしゅう を ちかったら、 じんせい が かわった。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "一度[誓ったら]、最後まで守り通せ。",
       translation: "Once you have sworn, keep it until the end.",
@@ -21732,7 +21732,7 @@ export function getStaticData() {
       reading: "いちど ちかったら、 さいご まで まもりとおせ。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "禁酒を[誓ったら]、体が軽くなった。",
       translation: "When I swore off alcohol, my body felt lighter.",
@@ -21740,7 +21740,7 @@ export function getStaticData() {
       reading: "きんしゅ を ちかったら、 からだ が かるく なった。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "再会を[誓ったら]、笑顔で別れよう。",
       translation: "When we have sworn to meet again, let's part with a smile.",
@@ -21748,7 +21748,7 @@ export function getStaticData() {
       reading: "さいかい を ちかったら、 えがお で わかれよう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "成功を[誓ったら]、努力を惜しむな。",
       translation: "When you have sworn success, do not spare any effort.",
@@ -21756,7 +21756,7 @@ export function getStaticData() {
       reading: "せいこう を ちかったら、 どりょく を おしむ な。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "秘密を[誓ったら]、誰にも話すな。",
       translation: "When you have sworn a secret, do not tell anyone.",
@@ -21764,7 +21764,7 @@ export function getStaticData() {
       reading: "ひみつ を ちかったら、 だれ に も はなす な。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If / When)",
       text: "忠誠を[誓ったら]、裏切ることは許されない。",
       translation: "When you have sworn loyalty, betrayal is not allowed.",
@@ -21772,7 +21772,7 @@ export function getStaticData() {
       reading: "ちゅうせい を ちかったら、 うらぎる こと は ゆるされない。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "ここで[誓えば]、一生の思い出になる。",
       translation: "If you swear here, it will be a lifelong memory.",
@@ -21780,7 +21780,7 @@ export function getStaticData() {
       reading: "ここ で ちかえば、 いっしょう の おもいで に なる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "心から[誓えば]、願いは叶う。",
       translation: "If you swear from your heart, your wish will come true.",
@@ -21788,7 +21788,7 @@ export function getStaticData() {
       reading: "こころ から ちかえば、 ねがい は かなう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "真実を[誓えば]、信じてくれるだろう。",
       translation: "If you swear the truth, they will probably believe you.",
@@ -21796,7 +21796,7 @@ export function getStaticData() {
       reading: "しんじつ を ちかえば、 しんじて くれる だろう。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "正義を[誓えば]、勇気が湧いてくる。",
       translation: "If you swear to justice, courage wells up.",
@@ -21804,7 +21804,7 @@ export function getStaticData() {
       reading: "せいぎ を ちかえば、 ゆうき が わいて くる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "愛を[誓えば]、二人の絆は深まる。",
       translation: "If you swear love, the bond between the two deepens.",
@@ -21812,7 +21812,7 @@ export function getStaticData() {
       reading: "あい を ちかえば、 ふたり の きずな は ふかまる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "沈黙を[誓えば]、安全は守られる。",
       translation: "If you swear silence, safety will be maintained.",
@@ -21820,7 +21820,7 @@ export function getStaticData() {
       reading: "ちんもく を ちかえば、 あんぜん は まもられる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "勝利を[誓えば]、道は開ける。",
       translation: "If you swear victory, the path will open.",
@@ -21828,7 +21828,7 @@ export function getStaticData() {
       reading: "しょうり を ちかえば、 みち は ひらける。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "永遠を[誓えば]、恐れることはない。",
       translation: "If you swear to eternity, there is nothing to fear.",
@@ -21836,7 +21836,7 @@ export function getStaticData() {
       reading: "えいえん を ちかえば、 おそれる こと は ない。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "再起を[誓えば]、何度でも立ち上がれる。",
       translation:
@@ -21845,7 +21845,7 @@ export function getStaticData() {
       reading: "さいき を ちかえば、 なんど でも たちあがれる。",
     },
     {
-      verb: "chikau (誓う)",
+      verb: "誓う (chikau)",
       tense: "Conditional Form (If)",
       text: "仲間と[誓えば]、力は百倍になる。",
       translation:
@@ -41445,7 +41445,7 @@ export function getStaticData() {
     },
     {
       verb: "言う (iu)",
-      tense: "Plain Past (Ta) ",
+      tense: "Plain Past (Ta)",
       text: "あの時、彼が[言った]こと。",
       translation: "What he said at that time.",
       kana: "いった",
@@ -43339,7 +43339,7 @@ export function getStaticData() {
     },
     {
       verb: "隠れる (kakureru)",
-      tense: "Polite Past (Mashita) ",
+      tense: "Polite Past (Mashita)",
       text: "太陽が山に[隠れました]。",
       translation: "The sun hid behind the mountain.",
       kana: "かくれました",
